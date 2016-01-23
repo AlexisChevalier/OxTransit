@@ -2,7 +2,7 @@ var $ = require('jquery-browserify'),
     ApiClient = require("./ApiClient");
 
 function NextBusesDetails(rootDomElement) {
-    this.apiClient = new ApiClient("http://localhost:8080/api/");
+    this.apiClient = new ApiClient("/api/");
     this.rootDomElement = $(rootDomElement);
     this.stationTextElement = $(this.rootDomElement).find(".text");
     this.stationRefreshElement = $(this.rootDomElement).find(".refresh");

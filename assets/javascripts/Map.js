@@ -1,7 +1,7 @@
 var $ = require('jquery-browserify'),
     ApiClient = require("./ApiClient"),
-    MarkerClusterer = require("../libs/MarkerClusterer"),
-    InfoBox = require("../libs/InfoBox");
+    MarkerClusterer = require("../libraries/MarkerClusterer"),
+    InfoBox = require("../libraries/InfoBox");
 
 function Map(lat, lng, mapDomElement, nextBusesDetailsObject) {
     this.nextBusesDetailsObject = nextBusesDetailsObject;
@@ -12,9 +12,9 @@ function Map(lat, lng, mapDomElement, nextBusesDetailsObject) {
     this.markerCluster = null;
     this.currentInfoBox = null;
     this.markers = [];
-    this.apiClient = new ApiClient("http://localhost:8080/api/");
+    this.apiClient = new ApiClient("/api/");
     this.markerImage = {
-        url: 'img/station.png',
+        url: 'images/station.png',
         size: new google.maps.Size(20, 20),
         origin: new google.maps.Point(0, 0),
         anchor: new google.maps.Point(10, 10)
@@ -55,7 +55,7 @@ function Map(lat, lng, mapDomElement, nextBusesDetailsObject) {
     this.initializeMarkers = function initializeMarkers(callback) {
         var _this = this;
         this.apiClient.getStations(function(err, result) {
-            var stations = result.stops;
+            var stations = result.stations;
             for (var index in stations) {
                 (function(id) {
                     var position = {

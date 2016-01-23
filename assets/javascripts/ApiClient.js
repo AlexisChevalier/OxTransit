@@ -8,11 +8,11 @@ function ApiClient(apiUrl) {
 }
 
 ApiClient.prototype.getStations = function(callback) {
-    this.httpClient.doGet("stops", callback);
+    this.httpClient.doGet("stations", callback);
 };
 
 ApiClient.prototype.getStationsRealTimeData = function(naptanCode, callback) {
-    this.httpClient.doGet(extensions.formatString("realtime/{0}", naptanCode), callback);
+    this.httpClient.doGet(extensions.formatString("stations/{0}/nextbuses", naptanCode), callback);
 };
 
 module.exports = ApiClient;
