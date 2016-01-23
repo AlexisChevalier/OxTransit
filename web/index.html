@@ -1,0 +1,50 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Buses</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href='https://fonts.googleapis.com/css?family=Roboto:400,400italic,500,500italic,700,700italic,900,900italic,300italic,300,100italic,100' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="style/index.css">
+</head>
+<body>
+    <div id="topMenu">
+        <div id="geoloc">
+            <i id="geolocalizationButton" class="button fa fa-location-arrow fa-fw"></i>
+            <i id="loadingIndicator" class="fa fa-spinner fa-fw fa-spin"></i>
+        </div>
+        <div class="brand">OxBuses Beta</div>
+    </div>
+    <div id="mapContainer">
+        <div id="map">
+        </div>
+    </div>
+    <div id="bottomTab">
+        <!--<ul class="header">
+            <li class="icon selected" id="mapButton">
+                <i class="fa fa-list fa-fw"></i>
+            </li>
+            <li class="icon" id="favoritesButton">
+                <i class="fa fa-star-o a-fw"></i>
+            </li>
+            <li class="icon" id="moreButton">
+                <i class="fa fa-ellipsis-h a-fw"></i>
+            </li>
+        </ul>-->
+        <div id="nextBusesDetails" class="noselection">
+            <div class="subHeader">
+                <div class="text">No station selected</div>
+                <div class="refresh"><i class="fa fa-refresh"></i></div>
+            </div>
+            <div class="noselected">
+                <p>Please select a station on the map</p>
+            </div>
+            <ul class="content">
+            </ul>
+        </div>
+    </div>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDnDke3DnFMOr4XEaccSGR5If3qqbjVofo"></script>
+    <script src="dist/oxbuses.web.js"></script>
+</body>
+</html>

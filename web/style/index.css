@@ -1,0 +1,266 @@
+/* line 1, /Volumes/HDD/Users/alexischevalier/Documents/Developpement/oxfordbus/web/style/index.scss */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+  background-color: aliceblue; }
+
+/* line 8, /Volumes/HDD/Users/alexischevalier/Documents/Developpement/oxfordbus/web/style/index.scss */
+#topMenu {
+  position: absolute;
+  padding: 5px;
+  top: 10px;
+  right: 10px;
+  background-color: #3b3b3b;
+  z-index: 100;
+  border-radius: 5px; }
+  /* line 16, /Volumes/HDD/Users/alexischevalier/Documents/Developpement/oxfordbus/web/style/index.scss */
+  #topMenu #geoloc {
+    display: inline-block; }
+    /* line 18, /Volumes/HDD/Users/alexischevalier/Documents/Developpement/oxfordbus/web/style/index.scss */
+    #topMenu #geoloc #geolocalizationButton {
+      color: white;
+      padding: 3px 3px;
+      margin: 2px;
+      cursor: pointer;
+      background-color: grey;
+      border-radius: 5px;
+      border: 1px solid #a5a5a5; }
+      /* line 26, /Volumes/HDD/Users/alexischevalier/Documents/Developpement/oxfordbus/web/style/index.scss */
+      #topMenu #geoloc #geolocalizationButton:hover {
+        background-color: #008EF7; }
+    /* line 31, /Volumes/HDD/Users/alexischevalier/Documents/Developpement/oxfordbus/web/style/index.scss */
+    #topMenu #geoloc #loadingIndicator {
+      display: none;
+      color: white;
+      padding: 3px 3px;
+      margin: 2px;
+      border-radius: 5px;
+      border: 1px solid #3b3b3b; }
+    /* line 40, /Volumes/HDD/Users/alexischevalier/Documents/Developpement/oxfordbus/web/style/index.scss */
+    #topMenu #geoloc.loading #geolocalizationButton {
+      display: none; }
+    /* line 43, /Volumes/HDD/Users/alexischevalier/Documents/Developpement/oxfordbus/web/style/index.scss */
+    #topMenu #geoloc.loading #loadingIndicator {
+      display: inline-block; }
+  /* line 48, /Volumes/HDD/Users/alexischevalier/Documents/Developpement/oxfordbus/web/style/index.scss */
+  #topMenu .brand {
+    display: inline-block;
+    padding: 0 10px;
+    border-left: 1px solid #adadad;
+    color: #adadad;
+    font-weight: 300; }
+
+/* line 57, /Volumes/HDD/Users/alexischevalier/Documents/Developpement/oxfordbus/web/style/index.scss */
+#mapContainer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 35%; }
+  /* line 63, /Volumes/HDD/Users/alexischevalier/Documents/Developpement/oxfordbus/web/style/index.scss */
+  #mapContainer #map {
+    height: 100%; }
+
+/* line 68, /Volumes/HDD/Users/alexischevalier/Documents/Developpement/oxfordbus/web/style/index.scss */
+#bottomTab {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 35%;
+  border-top: 1px solid #dbdbdb;
+  background-color: #3b3b3b;
+  /*.header {
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        background-color: #f7f7f7;
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        text-align: center;
+        li.icon {
+            cursor: pointer;
+            height: 30px;
+            margin: 0;
+            padding: 0;
+            line-height: 30px;
+            display: inline-block;
+            width: 60px;
+            text-align: center;
+            margin: auto;
+            font-size: 1.1em;
+            &.selected {
+                color: #60a9ff;
+            }
+            &:hover {
+                background-color: #d6d6d6;
+            }
+        }
+    }*/ }
+  /* line 104, /Volumes/HDD/Users/alexischevalier/Documents/Developpement/oxfordbus/web/style/index.scss */
+  #bottomTab #nextBusesDetails {
+    height: 100%;
+    width: 100%; }
+    /* line 107, /Volumes/HDD/Users/alexischevalier/Documents/Developpement/oxfordbus/web/style/index.scss */
+    #bottomTab #nextBusesDetails .subHeader {
+      position: absolute;
+      top: 0px;
+      height: 30px;
+      left: 0;
+      right: 0;
+      background-color: #8b8b8b;
+      color: white; }
+      /* line 115, /Volumes/HDD/Users/alexischevalier/Documents/Developpement/oxfordbus/web/style/index.scss */
+      #bottomTab #nextBusesDetails .subHeader .text {
+        position: absolute;
+        left: 30px;
+        right: 40px;
+        text-align: center;
+        line-height: 30px;
+        text-transform: uppercase;
+        font-weight: 300;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis; }
+      /* line 127, /Volumes/HDD/Users/alexischevalier/Documents/Developpement/oxfordbus/web/style/index.scss */
+      #bottomTab #nextBusesDetails .subHeader .refresh {
+        cursor: pointer;
+        position: absolute;
+        width: 18px;
+        height: 18px;
+        margin: 2px;
+        top: 0;
+        right: 0;
+        text-align: center;
+        color: white;
+        padding: 3px 3px;
+        background-color: grey;
+        border-radius: 5px;
+        border: 1px solid #a5a5a5; }
+        /* line 141, /Volumes/HDD/Users/alexischevalier/Documents/Developpement/oxfordbus/web/style/index.scss */
+        #bottomTab #nextBusesDetails .subHeader .refresh:hover {
+          background-color: #008EF7; }
+        /* line 144, /Volumes/HDD/Users/alexischevalier/Documents/Developpement/oxfordbus/web/style/index.scss */
+        #bottomTab #nextBusesDetails .subHeader .refresh.fa-spin {
+          cursor: auto;
+          border: none;
+          background: none;
+          margin: 3px; }
+    /* line 152, /Volumes/HDD/Users/alexischevalier/Documents/Developpement/oxfordbus/web/style/index.scss */
+    #bottomTab #nextBusesDetails .noselected {
+      display: none;
+      position: absolute;
+      top: 30px;
+      left: 0;
+      right: 0;
+      bottom: 0; }
+      /* line 159, /Volumes/HDD/Users/alexischevalier/Documents/Developpement/oxfordbus/web/style/index.scss */
+      #bottomTab #nextBusesDetails .noselected p {
+        text-align: center;
+        color: #919191;
+        text-transform: uppercase; }
+    /* line 165, /Volumes/HDD/Users/alexischevalier/Documents/Developpement/oxfordbus/web/style/index.scss */
+    #bottomTab #nextBusesDetails .content {
+      display: block;
+      position: absolute;
+      top: 30px;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      overflow: scroll;
+      text-transform: uppercase;
+      font-weight: 300;
+      font-size: 0.9em;
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      color: white; }
+      /* line 180, /Volumes/HDD/Users/alexischevalier/Documents/Developpement/oxfordbus/web/style/index.scss */
+      #bottomTab #nextBusesDetails .content li {
+        border-bottom: 1px solid grey;
+        line-height: 25px;
+        padding: 0 5px; }
+        /* line 184, /Volumes/HDD/Users/alexischevalier/Documents/Developpement/oxfordbus/web/style/index.scss */
+        #bottomTab #nextBusesDetails .content li .time {
+          display: inline-block;
+          font-weight: bold;
+          width: 80px; }
+        /* line 189, /Volumes/HDD/Users/alexischevalier/Documents/Developpement/oxfordbus/web/style/index.scss */
+        #bottomTab #nextBusesDetails .content li .bus {
+          display: inline-block; }
+        /* line 192, /Volumes/HDD/Users/alexischevalier/Documents/Developpement/oxfordbus/web/style/index.scss */
+        #bottomTab #nextBusesDetails .content li .destination {
+          display: inline-block; }
+    /* line 198, /Volumes/HDD/Users/alexischevalier/Documents/Developpement/oxfordbus/web/style/index.scss */
+    #bottomTab #nextBusesDetails.noselection .content {
+      display: none; }
+    /* line 201, /Volumes/HDD/Users/alexischevalier/Documents/Developpement/oxfordbus/web/style/index.scss */
+    #bottomTab #nextBusesDetails.noselection .noselected {
+      display: block; }
+    /* line 205, /Volumes/HDD/Users/alexischevalier/Documents/Developpement/oxfordbus/web/style/index.scss */
+    #bottomTab #nextBusesDetails.noselection .subHeader .refresh {
+      display: none; }
+
+/* line 214, /Volumes/HDD/Users/alexischevalier/Documents/Developpement/oxfordbus/web/style/index.scss */
+#map .infobox {
+  position: relative;
+  background-color: white;
+  width: 280px;
+  border-radius: 5px;
+  border: 1px solid #d0d0d0;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.1); }
+  /* line 221, /Volumes/HDD/Users/alexischevalier/Documents/Developpement/oxfordbus/web/style/index.scss */
+  #map .infobox .icon {
+    position: absolute;
+    height: 100%;
+    width: 30px;
+    text-align: center;
+    font-weight: 100;
+    font-size: 1.5em;
+    display: inline-block; }
+    /* line 229, /Volumes/HDD/Users/alexischevalier/Documents/Developpement/oxfordbus/web/style/index.scss */
+    #map .infobox .icon i {
+      display: table;
+      height: 100%;
+      width: 100%; }
+      /* line 233, /Volumes/HDD/Users/alexischevalier/Documents/Developpement/oxfordbus/web/style/index.scss */
+      #map .infobox .icon i:before {
+        vertical-align: middle;
+        display: table-cell; }
+    /* line 238, /Volumes/HDD/Users/alexischevalier/Documents/Developpement/oxfordbus/web/style/index.scss */
+    #map .infobox .icon.favorite {
+      border-radius: 5px 0 0 5px;
+      left: 0;
+      color: white;
+      background-color: #008EF7; }
+      /* line 243, /Volumes/HDD/Users/alexischevalier/Documents/Developpement/oxfordbus/web/style/index.scss */
+      #map .infobox .icon.favorite:hover {
+        background-color: #38abff; }
+    /* line 247, /Volumes/HDD/Users/alexischevalier/Documents/Developpement/oxfordbus/web/style/index.scss */
+    #map .infobox .icon.close {
+      color: #ff7575;
+      border-radius: 0 5px 5px 0;
+      right: 0;
+      border-left: 1px solid #d0d0d0; }
+      /* line 252, /Volumes/HDD/Users/alexischevalier/Documents/Developpement/oxfordbus/web/style/index.scss */
+      #map .infobox .icon.close:hover {
+        background-color: #d0d0d0; }
+    /* line 256, /Volumes/HDD/Users/alexischevalier/Documents/Developpement/oxfordbus/web/style/index.scss */
+    #map .infobox .icon:hover {
+      cursor: pointer; }
+  /* line 260, /Volumes/HDD/Users/alexischevalier/Documents/Developpement/oxfordbus/web/style/index.scss */
+  #map .infobox .content {
+    width: 200px;
+    position: relative;
+    padding: 5px 0;
+    padding-left: 40px;
+    padding-right: 40px;
+    line-height: 20px;
+    height: 100%;
+    display: inline-block;
+    font-size: 1.2em;
+    text-align: center; }
+
+/*# sourceMappingURL=index.css.map */
