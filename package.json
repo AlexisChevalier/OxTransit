@@ -3,7 +3,8 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "gulp build && node ./bin/www"
+      "build": "gulp build",
+      "start": "node ./bin/www"
   },
   "author": {
     "name": "Alexis Chevalier",
