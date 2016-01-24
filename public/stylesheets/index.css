@@ -47,7 +47,7 @@ body {
   top: 0;
   left: 0;
   right: 0;
-  bottom: 35%; }
+  bottom: 133px; }
   #mapContainer #map {
     height: 100%; }
 
@@ -55,9 +55,9 @@ body {
   position: absolute;
   bottom: 0;
   width: 100%;
-  height: 35%;
-  border-top: 1px solid #dbdbdb;
+  height: 200px;
   background-color: #3b3b3b;
+  box-shadow: 0px 0px 5px 0px rgba(50, 50, 50, 0.75);
   /*.header {
         position: absolute;
         top: 0;
@@ -87,88 +87,92 @@ body {
             }
         }
     }*/ }
-  #bottomTab #nextBusesDetails {
-    height: 100%;
-    width: 100%; }
-    #bottomTab #nextBusesDetails .subHeader {
+  #bottomTab #resizeGripBar {
+    height: 4px;
+    background-color: #FFD400;
+    width: 100%;
+    cursor: ns-resize;
+    background: #FFD400 url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAECAYAAACzzX7wAAAAH0lEQVQIW2NkIAAYLy5n+A9Sox/JwAii0fmEFRCyAgBS2wwFeHMZDgAAAABJRU5ErkJggg==) repeat;
+    border-bottom: 1px solid #757575;
+    border-top: 1px solid #757575; }
+  #bottomTab #nextBusesDetails .subHeader {
+    position: absolute;
+    height: 30px;
+    left: 0;
+    right: 0;
+    background-color: #8b8b8b;
+    color: white; }
+    #bottomTab #nextBusesDetails .subHeader .text {
       position: absolute;
-      top: 0px;
-      height: 30px;
-      left: 0;
-      right: 0;
-      background-color: #8b8b8b;
-      color: white; }
-      #bottomTab #nextBusesDetails .subHeader .text {
-        position: absolute;
-        left: 30px;
-        right: 40px;
-        text-align: center;
-        line-height: 30px;
-        text-transform: uppercase;
-        font-weight: 300;
-        white-space: nowrap;
-        overflow: hidden;
-        text-overflow: ellipsis; }
-      #bottomTab #nextBusesDetails .subHeader .refresh {
-        display: none;
-        cursor: pointer;
-        position: absolute;
-        width: 18px;
-        height: 18px;
-        margin: 2px;
-        top: 0;
-        right: 0;
-        text-align: center;
-        color: white;
-        padding: 3px 3px;
-        background-color: grey;
-        border-radius: 5px;
-        border: 1px solid #a5a5a5; }
-        #bottomTab #nextBusesDetails .subHeader .refresh:hover {
-          background-color: #008EF7; }
-        #bottomTab #nextBusesDetails .subHeader .refresh.fa-spin {
-          cursor: auto;
-          border: none;
-          background: none;
-          margin: 3px; }
-    #bottomTab #nextBusesDetails .message {
-      position: absolute;
-      top: 30px;
-      left: 0;
-      right: 0;
-      bottom: 0; }
-      #bottomTab #nextBusesDetails .message p {
-        text-align: center;
-        color: #919191;
-        text-transform: uppercase;
-        padding: 0 10px; }
-    #bottomTab #nextBusesDetails .content {
-      display: block;
-      position: absolute;
-      top: 30px;
-      left: 0;
-      right: 0;
-      bottom: 0;
-      overflow: auto;
+      left: 30px;
+      right: 40px;
+      text-align: center;
+      line-height: 30px;
       text-transform: uppercase;
       font-weight: 300;
-      font-size: 0.9em;
-      list-style: none;
-      margin: 0;
-      padding: 0;
-      color: white; }
-      #bottomTab #nextBusesDetails .content li {
-        border-bottom: 1px solid grey;
-        line-height: 25px;
-        padding: 0 5px; }
-        #bottomTab #nextBusesDetails .content li .time {
-          display: inline-block;
-          font-weight: bold;
-          width: 80px; }
-        #bottomTab #nextBusesDetails .content li .bus {
-          display: inline-block; }
-        #bottomTab #nextBusesDetails .content li .destination {
-          display: inline-block; }
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis; }
+    #bottomTab #nextBusesDetails .subHeader .refresh {
+      display: none;
+      cursor: pointer;
+      position: absolute;
+      width: 18px;
+      height: 18px;
+      margin: 2px;
+      top: 0;
+      right: 0;
+      text-align: center;
+      color: white;
+      padding: 3px 3px;
+      background-color: grey;
+      border-radius: 5px;
+      border: 1px solid #a5a5a5; }
+      #bottomTab #nextBusesDetails .subHeader .refresh:hover {
+        background-color: #008EF7; }
+      #bottomTab #nextBusesDetails .subHeader .refresh.fa-spin {
+        cursor: auto;
+        border: none;
+        background: none;
+        margin: 3px; }
+  #bottomTab #nextBusesDetails .message {
+    position: absolute;
+    top: 36px;
+    left: 0;
+    right: 0;
+    bottom: 0; }
+    #bottomTab #nextBusesDetails .message p {
+      text-align: center;
+      color: #919191;
+      text-transform: uppercase;
+      padding: 0 10px; }
+  #bottomTab #nextBusesDetails .content {
+    display: block;
+    position: absolute;
+    top: 36px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    overflow: auto;
+    text-transform: uppercase;
+    font-weight: 300;
+    font-size: 0.9em;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    color: white; }
+    #bottomTab #nextBusesDetails .content li {
+      border-bottom: 1px solid grey;
+      line-height: 25px;
+      padding: 0 5px; }
+      #bottomTab #nextBusesDetails .content li .time {
+        display: inline-block;
+        font-weight: bold;
+        width: 80px; }
+      #bottomTab #nextBusesDetails .content li .bus {
+        display: inline-block; }
+      #bottomTab #nextBusesDetails .content li .destination {
+        display: inline-block; }
 
 #map .infobox {
   position: relative;

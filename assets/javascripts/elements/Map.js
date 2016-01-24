@@ -1,13 +1,17 @@
 var $ = require('jquery-browserify'),
     ApiService = require("../services/ApiService"),
     MarkerClusterer = require("../../libraries/MarkerClusterer"),
-    InfoBox = require("../../libraries/InfoBox");
+    InfoBox = require("../../libraries/InfoBox"),
+    PubSub = require("pubsub-js");
 
-function Map(lat, lng, mapDomElement, nextBusesDetailsObject) {
+function Map(lat, lng, rootMapDomElement, nextBusesDetailsObject) {
+    var _this = this;
+    
     this.nextBusesDetailsObject = nextBusesDetailsObject;
     this.lat = lat;
     this.lng = lng;
-    this.mapDomElement = mapDomElement;
+    this.rootMapDomElement = $(rootMapDomElement);
+    this.mapDomElement = (this.rootMapDomElement.find('#map'))[0];
     this.mapObject = null;
     this.markerCluster = null;
     this.currentInfoBox = null;
@@ -144,6 +148,11 @@ function Map(lat, lng, mapDomElement, nextBusesDetailsObject) {
     };
     
     this.initializeMap();
+    
+    PubSub.subscribe('MAP_CONTAINER_RESIZED', function(msg, data) {
+        console.log("RESIZED");
+        google.maps.event.trigger(_this.mapObject, "resize");
+    });
 }
 
 Map.prototype.getGoogleMapsObject = function() {

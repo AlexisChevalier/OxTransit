@@ -39,4 +39,4 @@ LocalStoragPreferencesService.prototype.get = function(key) {
     return null;
 };
 
-module.exports = ApiClient;
+module.exports = LocalStoragPreferencesService;
