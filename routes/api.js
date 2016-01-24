@@ -14,7 +14,7 @@ router.get('/stations/:naptan_code', function(req, res, next) {
 router.get('/stations/:naptan_code/nextbuses', function(req, res, next) {
     stationsApiService.GetRealTimeDataFromNaptanCode(req.params.naptan_code, function (err, result) {
         if (err) {
-            return res.json(err);
+            return res.json({});
         }
         return res.json(result);
     });

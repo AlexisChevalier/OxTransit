@@ -12,15 +12,22 @@ var api = require('./routes/api');
 var app = express();
 
 // Configure Nunjucks
-nunjucks.configure('views', {
-    autoescape: true,
-    express: app
-});
-
+if (app.get('env') === 'development') {    
+    nunjucks.configure('views', {
+        autoescape: true,
+        express: app,
+        noCache: true
+    });
+} else {
+    nunjucks.configure('views', {
+        autoescape: true,
+        express: app,
+        noCache: false
+    });
+}
 // Configure Express views
 app.set('view engine', 'html');
 app.set('views', __dirname + '/views');
-
 
 app.use(favicon(path.join(__dirname, 'public', 'favicon.ico')));
 app.use(logger('dev'));

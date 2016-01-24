@@ -125,6 +125,7 @@ body {
                 text-overflow: ellipsis;
             }
             .refresh {
+                display: none;
                 cursor: pointer;
                 position: absolute;
                 width: 18px;
@@ -149,8 +150,7 @@ body {
                 }
             }
         }
-        .noselected {
-            display: none;
+        .message {
             position: absolute;
             top: 30px;
             left: 0;
@@ -160,6 +160,7 @@ body {
                 text-align: center;
                 color: #919191;
                 text-transform: uppercase;
+                padding: 0 10px;
             }
         }
         .content {
@@ -191,19 +192,6 @@ body {
                 }
                 .destination {
                     display: inline-block;
-                }
-            }
-        }
-        &.noselection {
-            .content {
-                display: none;
-            }
-            .noselected {
-                display: block;
-            }
-            .subHeader {
-                .refresh {
-                    display: none;
                 }
             }
         }

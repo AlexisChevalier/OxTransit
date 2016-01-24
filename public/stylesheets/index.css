@@ -110,6 +110,7 @@ body {
         overflow: hidden;
         text-overflow: ellipsis; }
       #bottomTab #nextBusesDetails .subHeader .refresh {
+        display: none;
         cursor: pointer;
         position: absolute;
         width: 18px;
@@ -130,17 +131,17 @@ body {
           border: none;
           background: none;
           margin: 3px; }
-    #bottomTab #nextBusesDetails .noselected {
-      display: none;
+    #bottomTab #nextBusesDetails .message {
       position: absolute;
       top: 30px;
       left: 0;
       right: 0;
       bottom: 0; }
-      #bottomTab #nextBusesDetails .noselected p {
+      #bottomTab #nextBusesDetails .message p {
         text-align: center;
         color: #919191;
-        text-transform: uppercase; }
+        text-transform: uppercase;
+        padding: 0 10px; }
     #bottomTab #nextBusesDetails .content {
       display: block;
       position: absolute;
@@ -168,12 +169,6 @@ body {
           display: inline-block; }
         #bottomTab #nextBusesDetails .content li .destination {
           display: inline-block; }
-    #bottomTab #nextBusesDetails.noselection .content {
-      display: none; }
-    #bottomTab #nextBusesDetails.noselection .noselected {
-      display: block; }
-    #bottomTab #nextBusesDetails.noselection .subHeader .refresh {
-      display: none; }
 
 #map .infobox {
   position: relative;
