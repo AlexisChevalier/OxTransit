@@ -1,8 +1,8 @@
 var $ = require('jquery-browserify'),
-    ApiClient = require("./ApiClient");
+    ApiService = require("../services/ApiService");
 
 function NextBusesDetails(rootDomElement) {
-    this.apiClient = new ApiClient("/api/");
+    this.apiService = new ApiService("/api/");
     this.rootDomElement = $(rootDomElement);
     this.stationTextElement = $(this.rootDomElement).find(".text");
     this.infoMessageElement = $(this.rootDomElement).find(".message");
@@ -19,7 +19,6 @@ function NextBusesDetails(rootDomElement) {
         _this.refreshSelectedStation();
     });
     
-    
     this.fetchAndDisplayList = function () {
         var _this = this;
 
@@ -27,7 +26,7 @@ function NextBusesDetails(rootDomElement) {
             var stationAtCall = _this.stationSelected;
             $(_this.stationRefreshElement).addClass("fa-spin");
 
-            this.apiClient.getStationsRealTimeData(stationAtCall.naptanCode, function (err, details) {
+            this.apiService.getStationsRealTimeData(stationAtCall.naptanCode, function (err, details) {
                 if (stationAtCall === _this.stationSelected) {
                     $(_this.listElement).html("");
                     

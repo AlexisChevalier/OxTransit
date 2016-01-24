@@ -1,4 +1,4 @@
-var Ui = require("./Ui");
+var Ui = require("./Elements/Ui");
 
 (function (__window__) {
     __window__.oxbuses = __window__.oxbuses || {};
