@@ -1,5 +1,5 @@
 var jsdom = require("jsdom"),
-    cache = {},
+    cacheService = require("./MemoryCacheService"),
     NAPTAN_CODE_MAP = {
         "a": "2",
         "b": "2",
@@ -46,39 +46,39 @@ function ParseWebData(numericCode, callback) {
             return callback(err, null);
         }
         try {
-            var rows = window.document.getElementsByTagName("Table")[1].children[1].children;
-            for (var i = 0; i < rows.length; i++) {
-                var cells = rows[i].children;
+            var table = window.document.getElementsByTagName("Table")[1];
+            
+            if (!table.children[1]) { //No data
+                arrivals = [];
+            } else {
+                var rows = table.children[1].children;
+            
+                for (var i = 0; i < rows.length; i++) {
+                    var cells = rows[i].children;
 
-                var busArrival = {
-                    serviceNumber: cells[0].innerHTML,
-                    destination: cells[1].innerHTML,
-                    departureTime: cells[2].innerHTML,
-                    operatorName: cells[3].children[1].innerHTML
-                };
+                    var busArrival = {
+                        serviceNumber: cells[0].innerHTML,
+                        destination: cells[1].innerHTML,
+                        departureTime: cells[2].innerHTML,
+                        operatorName: cells[3].children[1].innerHTML
+                    };
 
-                arrivals.push(busArrival);
+                    arrivals.push(busArrival);
+                }   
             }
-
-            cache[numericCode] = {
-                timestamp: new Date().getTime(),
-                data: arrivals
-            };
-
-            return callback(null, arrivals);
         } catch (ex) {
-            return callback("Parsing error", null);
+            console.log("PARSING FAILURE FOR URL " + url);
+            arrivals = [];
         }
+        
+        cacheService.put(numericCode, arrivals, 60, function (err, nextBuses) {
+                if (err) {
+                    console.log(err);
+                    return callback(err, null); 
+                }
+                return callback(null, arrivals); 
+            });
     });
-}
-
-function GetCachedValueIfValid(numericCode) {
-    if (cache.hasOwnProperty(numericCode)) {
-        if (new Date().getTime() - cache[numericCode].timestamp < 3600) {
-            return cache[numericCode].data;
-        }
-    }
-    return null;
 }
 
 function GetRealTimeDataFromNaptanCode(naptanCode, callback) {
@@ -87,11 +87,18 @@ function GetRealTimeDataFromNaptanCode(naptanCode, callback) {
 }
 
 function GetRealTimeDataFromNumericCode(numericCode, callback) {
-    var cachedValue = GetCachedValueIfValid(numericCode);
-    if (cachedValue !== null) {
-        return callback(null, cachedValue);
-    }
-    return ParseWebData(numericCode, callback);
+    cacheService.get(numericCode, function (err, nextBuses) {
+        if (err) {
+            console.log(err);
+            return callback(err, null); 
+        }
+        
+        if (nextBuses !== null) {
+            return callback(null, nextBuses);
+        }
+        
+        return ParseWebData(numericCode, callback);         
+    });
 }
 
 module.exports = {
