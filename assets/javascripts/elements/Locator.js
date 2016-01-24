@@ -49,7 +49,8 @@ Locator.prototype.Localize = function() {
                     title: "Your position",
                     zIndex: 100
                 });
-
+                
+                _this.mapObject.setZoom(17);
                 _this.mapObject.setCenter(position);
             } else {
                 //TODO: HANDLE CASE IF YOU'RE AWAY FROM OXFORD

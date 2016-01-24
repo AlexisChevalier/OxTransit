@@ -53,7 +53,7 @@ function Map(lat, lng, rootMapDomElement, nextBusesDetailsObject) {
         this.initializeMarkers(function(result) {
             _this.MarkerCluster = new MarkerClusterer(_this.mapObject, _this.markers, {
                 gridSize: 50, 
-                maxZoom: 15
+                maxZoom: 16
             }); 
         });
     };
