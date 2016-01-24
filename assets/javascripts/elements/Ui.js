@@ -12,10 +12,9 @@ Ui.prototype.Initialize = function () {
     );
     
     /* Map */
-    //this.map = new Map(51.757044, -1.214670, document.getElementById('map'), this.nextBusesDetails);
     this.map = new Map(
-        51.755436, 
-        -1.226711, 
+        51.745436, 
+        -1.227711, 
         document.getElementById('mapContainer'), 
         this.bottomTab.getNextBusDetailsObject()
     );

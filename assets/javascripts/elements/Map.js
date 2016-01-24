@@ -24,6 +24,8 @@ function Map(lat, lng, rootMapDomElement, nextBusesDetailsObject) {
         anchor: new google.maps.Point(10, 10)
     };
     
+    this.mapBounds = bounds = new google.maps.Circle({radius: 11000, center: new google.maps.LatLng(this.lat, this.lng)}).getBounds();
+    
     this.initializeMap = function initializeMap() {
         var _this = this;
         this.mapObject = new google.maps.Map(this.mapDomElement, {
@@ -31,7 +33,7 @@ function Map(lat, lng, rootMapDomElement, nextBusesDetailsObject) {
                 lat: this.lat,
                 lng: this.lng
             },
-            zoom: 18,
+            zoom: 15,
             styles: [
                 {
                     featureType: "transit.station.bus",
@@ -157,6 +159,10 @@ function Map(lat, lng, rootMapDomElement, nextBusesDetailsObject) {
 
 Map.prototype.getGoogleMapsObject = function() {
     return this.mapObject;
+};
+
+Map.prototype.getBounds = function() {
+    return this.mapBounds;
 };
 
 module.exports = Map;

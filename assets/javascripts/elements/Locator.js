@@ -2,6 +2,7 @@ var $ = require('jquery-browserify');
 
 function Locator(rootDomElement, map) {
     this.rootDomElement = $(rootDomElement);
+    this.map = map;
     this.mapObject = map.getGoogleMapsObject();
     this.positionMarker = null;
     
@@ -14,6 +15,12 @@ function Locator(rootDomElement, map) {
     $(this.refreshButton).click(function() {
         _this.Localize();
     });
+    
+    if (!navigator.geolocation) {
+        this.refreshButton.hide();
+    } else {
+        _this.Localize();
+    }
 }
 
 Locator.prototype.Localize = function() {
@@ -32,31 +39,33 @@ Locator.prototype.Localize = function() {
     
     if (navigator.geolocation) {
         $(_this.rootDomElement).addClass("loading");
-        navigator.geolocation.getCurrentPosition(function(position) {
-            var position = {
-                lat: position.coords.latitude,
-                lng: position.coords.longitude
-            };
+        navigator.geolocation.getCurrentPosition(function(pos) {
+            var position = new google.maps.LatLng(pos.coords.latitude, pos.coords.longitude);
             
-            _this.positionMarker = new google.maps.Marker({
-                position: position,
-                map: _this.mapObject,
-                title: "Your position"
-            });
+            if (_this.map.getBounds().contains(position)) {
+                _this.positionMarker = new google.maps.Marker({
+                    position: position,
+                    map: _this.mapObject,
+                    title: "Your position",
+                    zIndex: 100
+                });
 
-            _this.mapObject.setCenter(position);
-            this.localising = false;
-            $(_this.rootDomElement).removeClass("loading");
+                _this.mapObject.setCenter(position);
+            } else {
+                //TODO: HANDLE CASE IF YOU'RE AWAY FROM OXFORD
+            }
             
+            _this.localising = false;
+            $(_this.rootDomElement).removeClass("loading");
         }, function() {
             $(_this.rootDomElement).removeClass("loading");
-            this.localising = false;
+            _this.localising = false;
             //handleLocationError(true, infoWindow, map.getCenter());
             //TODO: Handle errors
         });
     } else {
         $(_this.rootDomElement).removeClass("loading");
-        this.localising = false;
+        _this.localising = false;
         // Browser doesn't support Geolocation
         //handleLocationError(false, infoWindow, map.getCenter());
         //TODO: Handle errors
