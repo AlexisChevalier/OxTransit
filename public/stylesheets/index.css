@@ -11,7 +11,8 @@ body {
   right: 10px;
   background-color: #3b3b3b;
   z-index: 100;
-  border-radius: 5px; }
+  border-radius: 5px;
+  box-shadow: rgba(0, 0, 0, 0.8) 0 1px 4px -1px; }
   #topMenu #geoloc {
     display: inline-block; }
     #topMenu #geoloc #geolocalizationButton {
@@ -47,7 +48,7 @@ body {
   top: 0;
   left: 0;
   right: 0;
-  bottom: 133px; }
+  bottom: 200px; }
   #mapContainer #map {
     height: 100%; }
 
@@ -56,130 +57,169 @@ body {
   bottom: 0;
   width: 100%;
   height: 200px;
-  background-color: #3b3b3b;
-  box-shadow: 0px 0px 5px 0px rgba(50, 50, 50, 0.75);
-  /*.header {
+  box-shadow: rgba(0, 0, 0, 0.8) 0px 0px 4px 0px;
+  background-color: transparent; }
+  #bottomTab #resizeGripBar {
+    height: 10px;
+    width: 100%;
+    cursor: ns-resize;
+    background-color: #acacac;
+    border-bottom: 1px solid #757575;
+    border-top: 1px solid #757575;
+    text-align: center;
+    line-height: 10px;
+    font-size: 0.5em; }
+    #bottomTab #resizeGripBar i {
+      color: #4d4d4d; }
+  #bottomTab .mainContainer {
+    position: absolute;
+    width: 100%;
+    top: 12px;
+    bottom: 0;
+    background-color: #3b3b3b; }
+    #bottomTab .mainContainer .tabContainer .tab {
+      display: none; }
+      #bottomTab .mainContainer .tabContainer .tab .subHeader {
         position: absolute;
+        height: 30px;
         top: 0;
         left: 0;
         right: 0;
-        background-color: #f7f7f7;
+        background-color: #8b8b8b;
+        color: white; }
+        #bottomTab .mainContainer .tabContainer .tab .subHeader .text {
+          height: 30px;
+          top: 0;
+          position: absolute;
+          left: 30px;
+          right: 40px;
+          text-align: center;
+          line-height: 30px;
+          text-transform: uppercase;
+          font-weight: 300;
+          white-space: nowrap;
+          overflow: hidden;
+          text-overflow: ellipsis; }
+      #bottomTab .mainContainer .tabContainer .tab .message {
+        position: absolute;
+        top: 36px;
+        left: 0;
+        right: 0;
+        bottom: 0; }
+        #bottomTab .mainContainer .tabContainer .tab .message p {
+          text-align: center;
+          color: #919191;
+          text-transform: uppercase;
+          padding: 0 10px; }
+      #bottomTab .mainContainer .tabContainer .tab .content_text {
+        text-align: center;
+        color: white;
+        display: block;
+        position: absolute;
+        top: 30px;
+        left: 0;
+        right: 0;
+        bottom: 30px;
+        overflow: auto; }
+        #bottomTab .mainContainer .tabContainer .tab .content_text p {
+          padding: 0 10px; }
+          #bottomTab .mainContainer .tabContainer .tab .content_text p a {
+            color: #008EF7; }
+      #bottomTab .mainContainer .tabContainer .tab .content {
+        display: block;
+        position: absolute;
+        top: 30px;
+        left: 0;
+        right: 0;
+        bottom: 30px;
+        overflow: auto;
+        text-transform: uppercase;
+        font-weight: 300;
+        font-size: 0.9em;
         list-style: none;
         margin: 0;
         padding: 0;
+        color: white; }
+        #bottomTab .mainContainer .tabContainer .tab .content li {
+          border-bottom: 1px solid grey;
+          line-height: 25px;
+          padding: 0 5px; }
+      #bottomTab .mainContainer .tabContainer .tab.active {
+        display: block; }
+      #bottomTab .mainContainer .tabContainer .tab#nextBusesDetails .subHeader .refresh {
+        display: none;
+        cursor: pointer;
+        position: absolute;
+        width: 18px;
+        height: 18px;
+        margin: 2px;
+        top: 0;
+        right: 0;
         text-align: center;
-        li.icon {
-            cursor: pointer;
-            height: 30px;
-            margin: 0;
-            padding: 0;
-            line-height: 30px;
-            display: inline-block;
-            width: 60px;
-            text-align: center;
-            margin: auto;
-            font-size: 1.1em;
-            &.selected {
-                color: #60a9ff;
-            }
-            &:hover {
-                background-color: #d6d6d6;
-            }
-        }
-    }*/ }
-  #bottomTab #resizeGripBar {
-    height: 4px;
-    background-color: #FFD400;
-    width: 100%;
-    cursor: ns-resize;
-    background: #FFD400 url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAECAYAAACzzX7wAAAAH0lEQVQIW2NkIAAYLy5n+A9Sox/JwAii0fmEFRCyAgBS2wwFeHMZDgAAAABJRU5ErkJggg==) repeat;
-    border-bottom: 1px solid #757575;
-    border-top: 1px solid #757575; }
-  #bottomTab #nextBusesDetails .subHeader {
-    position: absolute;
-    height: 30px;
-    left: 0;
-    right: 0;
-    background-color: #8b8b8b;
-    color: white; }
-    #bottomTab #nextBusesDetails .subHeader .text {
-      position: absolute;
-      left: 30px;
-      right: 40px;
-      text-align: center;
-      line-height: 30px;
-      text-transform: uppercase;
-      font-weight: 300;
-      white-space: nowrap;
-      overflow: hidden;
-      text-overflow: ellipsis; }
-    #bottomTab #nextBusesDetails .subHeader .refresh {
-      display: none;
-      cursor: pointer;
-      position: absolute;
-      width: 18px;
-      height: 18px;
-      margin: 2px;
-      top: 0;
-      right: 0;
-      text-align: center;
-      color: white;
-      padding: 3px 3px;
-      background-color: grey;
-      border-radius: 5px;
-      border: 1px solid #a5a5a5; }
-      #bottomTab #nextBusesDetails .subHeader .refresh:hover {
-        background-color: #008EF7; }
-      #bottomTab #nextBusesDetails .subHeader .refresh.fa-spin {
-        cursor: auto;
-        border: none;
-        background: none;
-        margin: 3px; }
-  #bottomTab #nextBusesDetails .message {
-    position: absolute;
-    top: 36px;
-    left: 0;
-    right: 0;
-    bottom: 0; }
-    #bottomTab #nextBusesDetails .message p {
-      text-align: center;
-      color: #919191;
-      text-transform: uppercase;
-      padding: 0 10px; }
-  #bottomTab #nextBusesDetails .content {
-    display: block;
-    position: absolute;
-    top: 36px;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    overflow: auto;
-    text-transform: uppercase;
-    font-weight: 300;
-    font-size: 0.9em;
-    list-style: none;
-    margin: 0;
-    padding: 0;
-    color: white; }
-    #bottomTab #nextBusesDetails .content li {
-      border-bottom: 1px solid grey;
-      line-height: 25px;
-      padding: 0 5px; }
-      #bottomTab #nextBusesDetails .content li .time {
+        color: white;
+        padding: 3px 3px;
+        background-color: grey;
+        border-radius: 5px;
+        border: 1px solid #a5a5a5; }
+        #bottomTab .mainContainer .tabContainer .tab#nextBusesDetails .subHeader .refresh:hover {
+          background-color: #008EF7; }
+        #bottomTab .mainContainer .tabContainer .tab#nextBusesDetails .subHeader .refresh.fa-spin {
+          cursor: auto;
+          border: none;
+          background: none;
+          margin: 3px; }
+      #bottomTab .mainContainer .tabContainer .tab#nextBusesDetails .content li .time {
         display: inline-block;
         font-weight: bold;
         width: 80px; }
-      #bottomTab #nextBusesDetails .content li .bus {
+      #bottomTab .mainContainer .tabContainer .tab#nextBusesDetails .content li .bus {
         display: inline-block; }
-      #bottomTab #nextBusesDetails .content li .destination {
+      #bottomTab .mainContainer .tabContainer .tab#nextBusesDetails .content li .destination {
         display: inline-block; }
+    #bottomTab .mainContainer .nav {
+      box-shadow: rgba(0, 0, 0, 0.8) 0px 0px 4px 0px;
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      display: table;
+      table-layout: fixed;
+      overflow: hidden;
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background-color: #2c2c2c;
+      text-align: center; }
+      #bottomTab .mainContainer .nav li {
+        display: table-cell;
+        *float: left;
+        /* improve IE7 */
+        height: 30px;
+        text-align: center;
+        padding-left: 5px #bottomTab .mainContainer .nav li; }
+        #bottomTab .mainContainer .nav li :first-child {
+          padding-left: 0; }
+        #bottomTab .mainContainer .nav li i {
+          width: 100%;
+          display: block;
+          height: 100%;
+          line-height: 30px;
+          text-decoration: none;
+          font-weight: bold;
+          color: white; }
+          #bottomTab .mainContainer .nav li i:hover {
+            background-color: #498cd5;
+            color: #ddeeee; }
+        #bottomTab .mainContainer .nav li.button.selected {
+          background-color: #498cd5; }
 
 #map .infobox {
   position: relative;
-  background-color: white;
+  background-color: #3b3b3b;
   width: 280px;
   border-radius: 5px;
-  border: 1px solid #d0d0d0;
+  border: 1px solid #656565;
   text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.1); }
   #map .infobox .icon {
     position: absolute;
@@ -207,19 +247,22 @@ body {
       color: #ff7575;
       border-radius: 0 5px 5px 0;
       right: 0;
-      border-left: 1px solid #d0d0d0; }
+      border-left: 1px solid #656565; }
       #map .infobox .icon.close:hover {
-        background-color: #d0d0d0; }
+        background-color: #656565; }
     #map .infobox .icon:hover {
       cursor: pointer; }
   #map .infobox .content {
-    width: 200px;
+    color: white;
+    width: 280px;
     position: relative;
     padding: 5px 0;
-    padding-left: 40px;
-    padding-right: 40px;
     line-height: 20px;
     height: 100%;
     display: inline-block;
     font-size: 1.2em;
     text-align: center; }
+    #map .infobox .content p {
+      margin: 0;
+      width: 240px;
+      padding: 0 5px; }

@@ -78,12 +78,12 @@ function Map(lat, lng, rootMapDomElement, nextBusesDetailsObject) {
                     
                     var infoWindowContent = $([
                         "<div>",
-                        "<div class='content'>",
+                        "<div class='content'><p>",
                         stations[id].name, 
                         " (",
                         stations[id].indicator,
                         ")",
-                        "</div>",
+                        "</p></div>",
                         "<div class='icon close'>",
                         "<i class='fa fa-times fa-fw'></i>",
                         /*"<div class='icon favorite'><i class='fa fa-star-o fa-fw'></i></div>",*/

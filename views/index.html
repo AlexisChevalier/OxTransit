@@ -24,27 +24,58 @@
         </div>
     </div>
     <div id="bottomTab">
-        <div id="resizeGripBar"></div>
-        <!--<ul class="header">
-            <li class="icon selected" id="mapButton">
-                <i class="fa fa-list fa-fw"></i>
-            </li>
-            <li class="icon" id="favoritesButton">
-                <i class="fa fa-star-o a-fw"></i>
-            </li>
-            <li class="icon" id="moreButton">
-                <i class="fa fa-ellipsis-h a-fw"></i>
-            </li>
-        </ul>-->
-        <div id="nextBusesDetails">
-            <div class="subHeader">
-                <div class="text">No station selected</div>
-                <div class="refresh"><i class="fa fa-refresh"></i></div>
+        <div id="resizeGripBar">
+            <i class="fa fa-bars"></i>
+            <i class="fa fa-bars"></i>
+            <i class="fa fa-bars"></i>
+        </div>
+        <div class="mainContainer">
+            <div class="tabContainer">
+                <div class="tab active" id="nextBusesDetails">
+                    <div class="subHeader">
+                        <div class="text">No station selected</div>
+                        <div class="refresh"><i class="fa fa-refresh"></i></div>
+                    </div>
+                    <div class="message">
+                        <p>Please select a station on the map</p>
+                    </div>
+                    <ul class="content">
+                    </ul>
+                </div>
+                <div class="tab" id="favoritesDetails">
+                    <div class="subHeader">
+                        <div class="text">Favorites</div>
+                    </div>
+                    <div class="message">
+                        <p>You don't have any favorites at the moment</p>
+                    </div>
+                    <ul class="content">
+                    </ul>
+                </div>
+                <div class="tab" id="appInfoDetails">
+                    <div class="subHeader">
+                        <div class="text">Application details</div>
+                    </div>
+                    <div class="content_text">
+                        <p>
+                            This application is currently in development and can be updated, broken or disabled at any time. You should not rely heavily on it.
+                        </p>
+                        <p>
+                            It is developped and maintained by Alexis Chevalier, the source is available under the MIT license on github <a target="_blank" href="https://github.com/AlexisChevalier/OxBuses">at this link</a>.
+                        </p>
+                    </div>
+                </div>
             </div>
-            <div class="message">
-                <p>Please select a station on the map</p>
-            </div>
-            <ul class="content">
+            <ul class="nav">
+                <li class="button icon selected" id="mapButton" data-tab="nextBusesDetails">
+                    <i class="fa fa-list fa-fw"></i>
+                </li>
+                <li class="button icon" id="favoritesButton" data-tab="favoritesDetails">
+                    <i class="fa fa-star-o a-fw"></i>
+                </li>
+                <li class="button icon" id="moreButton" data-tab="appInfoDetails">
+                    <i class="fa fa-ellipsis-h a-fw"></i>
+                </li>
             </ul>
         </div>
     </div>
