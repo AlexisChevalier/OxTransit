@@ -246,10 +246,10 @@ body {
                 *float: left; /* improve IE7 */
                 height: 30px;
                 text-align: center;
-                padding-left: 5px
-            &:first-child {
-                padding-left: 0
-            }
+                padding-left: 5px;
+                &:first-child {
+                    padding-left: 0
+                }
                 i {
                     width: 100%;
                     display: block;
