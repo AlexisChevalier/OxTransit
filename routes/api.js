@@ -1,18 +1,23 @@
 var express = require('express');
 var stations = require('../static/StationsList');
-var stationsApiService = require('../services/StationsApiService');
+var siriApiService = require('../services/SiriApiService');
 var router = express.Router();
 
 router.get('/stations', function(req, res, next) {
     res.json({ stations: stations });
 });
 
-router.get('/stations/:naptan_code', function(req, res, next) {
-    res.json(stations[req.params.naptan_code]);
+router.get('/stations/:atco_code', function(req, res, next) {
+    res.json(stations[req.params.atco_code]);
 });
 
-router.get('/stations/:naptan_code/nextbuses', function(req, res, next) {
-    stationsApiService.GetRealTimeDataFromNaptanCode(req.params.naptan_code, function (err, result) {
+router.get('/stations/:atco_code/nextbuses', function(req, res, next) {
+
+    if (!stations[req.params.atco_code]) {
+        return res.json({}); //TODO: Throw error
+    }
+
+    siriApiService.GetRealTimeDataFromAtcoCode(req.params.atco_code, function (err, result) {
         if (err) {
             return res.json({});
         }

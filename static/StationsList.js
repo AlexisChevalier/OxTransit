@@ -1,5 +1,5 @@
 module.exports = {
-  "oxfamgtw": {
+  "34000000012": {
     "_about": "http://transport.data.gov.uk/id/stop-point/34000000012",
     "atcoCode": "34000000012",
     "easting": 451008,
@@ -10,7 +10,7 @@ module.exports = {
     "naptanCode": "oxfamgtw",
     "northing": 206420
   },
-  "oxfamgwd": {
+  "34000000010": {
     "_about": "http://transport.data.gov.uk/id/stop-point/34000000010",
     "atcoCode": "34000000010",
     "easting": 451007,
@@ -21,7 +21,7 @@ module.exports = {
     "naptanCode": "oxfamgwd",
     "northing": 206411
   },
-  "oxfamgwg": {
+  "34000000009": {
     "_about": "http://transport.data.gov.uk/id/stop-point/34000000009",
     "atcoCode": "34000000009",
     "easting": 451007,
@@ -32,7 +32,7 @@ module.exports = {
     "naptanCode": "oxfamgwg",
     "northing": 206407
   },
-  "oxfamgwj": {
+  "34000000008": {
     "_about": "http://transport.data.gov.uk/id/stop-point/34000000008",
     "atcoCode": "34000000008",
     "easting": 451006,
@@ -43,7 +43,7 @@ module.exports = {
     "naptanCode": "oxfamgwj",
     "northing": 206404
   },
-  "oxfamgwm": {
+  "34000000007": {
     "_about": "http://transport.data.gov.uk/id/stop-point/34000000007",
     "atcoCode": "34000000007",
     "easting": 451006,
@@ -54,7 +54,7 @@ module.exports = {
     "naptanCode": "oxfamgwm",
     "northing": 206400
   },
-  "oxfamgwp": {
+  "34000000006": {
     "_about": "http://transport.data.gov.uk/id/stop-point/34000000006",
     "atcoCode": "34000000006",
     "easting": 451005,
@@ -65,7 +65,7 @@ module.exports = {
     "naptanCode": "oxfamgwp",
     "northing": 206397
   },
-  "oxfamgwt": {
+  "34000000005": {
     "_about": "http://transport.data.gov.uk/id/stop-point/34000000005",
     "atcoCode": "34000000005",
     "easting": 451005,
@@ -76,7 +76,7 @@ module.exports = {
     "naptanCode": "oxfamgwt",
     "northing": 206394
   },
-  "oxfamjad": {
+  "34000000004": {
     "_about": "http://transport.data.gov.uk/id/stop-point/34000000004",
     "atcoCode": "34000000004",
     "easting": 451004,
@@ -87,7 +87,7 @@ module.exports = {
     "naptanCode": "oxfamjad",
     "northing": 206390
   },
-  "oxfamjag": {
+  "34000000003": {
     "_about": "http://transport.data.gov.uk/id/stop-point/34000000003",
     "atcoCode": "34000000003",
     "easting": 451004,
@@ -98,7 +98,7 @@ module.exports = {
     "naptanCode": "oxfamjag",
     "northing": 206385
   },
-  "oxfamgwa": {
+  "34000000011": {
     "_about": "http://transport.data.gov.uk/id/stop-point/34000000011",
     "atcoCode": "34000000011",
     "easting": 451007,
@@ -109,7 +109,7 @@ module.exports = {
     "naptanCode": "oxfamgwa",
     "northing": 206416
   },
-  "oxfamgtp": {
+  "34000000013": {
     "_about": "http://transport.data.gov.uk/id/stop-point/34000000013",
     "atcoCode": "34000000013",
     "easting": 451009,
@@ -120,7 +120,7 @@ module.exports = {
     "naptanCode": "oxfamgtp",
     "northing": 206425
   },
-  "oxfgapma": {
+  "34000000014": {
     "_about": "http://transport.data.gov.uk/id/stop-point/34000000014",
     "atcoCode": "34000000014",
     "easting": 451009,
@@ -131,7 +131,7 @@ module.exports = {
     "naptanCode": "oxfgapma",
     "northing": 206429
   },
-  "oxfgpjpt": {
+  "34000086806": {
     "_about": "http://transport.data.gov.uk/id/stop-point/34000086806",
     "atcoCode": "34000086806",
     "easting": 451032,
@@ -142,7 +142,7 @@ module.exports = {
     "naptanCode": "oxfgpjpt",
     "northing": 206200
   },
-  "oxfamgta": {
+  "340000002I2": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000002I2",
     "atcoCode": "340000002I2",
     "easting": 451420,
@@ -153,7 +153,7 @@ module.exports = {
     "naptanCode": "oxfamgta",
     "northing": 206196
   },
-  "oxfatwmw": {
+  "340002070R7": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340002070R7",
     "atcoCode": "340002070R7",
     "easting": 450622,
@@ -164,7 +164,7 @@ module.exports = {
     "naptanCode": "oxfatwmw",
     "northing": 206260
   },
-  "oxfatptg": {
+  "340003020N": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003020N",
     "atcoCode": "340003020N",
     "easting": 453618,
@@ -175,7 +175,7 @@ module.exports = {
     "naptanCode": "oxfatptg",
     "northing": 207844
   },
-  "oxfatpmg": {
+  "340003025S": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003025S",
     "atcoCode": "340003025S",
     "easting": 456332,
@@ -186,7 +186,7 @@ module.exports = {
     "naptanCode": "oxfatpmg",
     "northing": 202731
   },
-  "oxfawpdt": {
+  "340003269CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003269CNR",
     "atcoCode": "340003269CNR",
     "easting": 451007,
@@ -197,7 +197,7 @@ module.exports = {
     "naptanCode": "oxfawpdt",
     "northing": 198922
   },
-  "oxfgmjpm": {
+  "340004112EAS": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004112EAS",
     "atcoCode": "340004112EAS",
     "easting": 454933,
@@ -208,7 +208,7 @@ module.exports = {
     "naptanCode": "oxfgmjpm",
     "northing": 205477
   },
-  "oxfamgmp": {
+  "340000001W": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000001W",
     "atcoCode": "340000001W",
     "easting": 451002,
@@ -219,7 +219,7 @@ module.exports = {
     "naptanCode": "oxfamgmp",
     "northing": 206873
   },
-  "oxfamgtj": {
+  "340000002CAR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000002CAR",
     "atcoCode": "340000002CAR",
     "easting": 451370,
@@ -230,7 +230,7 @@ module.exports = {
     "naptanCode": "oxfamgtj",
     "northing": 206184
   },
-  "oxfamjaj": {
+  "340000002I": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000002I",
     "atcoCode": "340000002I",
     "easting": 451512,
@@ -241,7 +241,7 @@ module.exports = {
     "naptanCode": "oxfamjaj",
     "northing": 206216
   },
-  "oxfamgtd": {
+  "340000002I1": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000002I1",
     "atcoCode": "340000002I1",
     "easting": 451482,
@@ -252,7 +252,7 @@ module.exports = {
     "naptanCode": "oxfamgtd",
     "northing": 206209
   },
-  "oxfgapmd": {
+  "340000002TOR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000002TOR",
     "atcoCode": "340000002TOR",
     "easting": 451496,
@@ -263,7 +263,7 @@ module.exports = {
     "naptanCode": "oxfgapmd",
     "northing": 206224
   },
-  "oxfamgpw": {
+  "340000004G1": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000004G1",
     "atcoCode": "340000004G1",
     "easting": 451391,
@@ -274,7 +274,7 @@ module.exports = {
     "naptanCode": "oxfamgpw",
     "northing": 206002
   },
-  "oxfamgpt": {
+  "340000004G2": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000004G2",
     "atcoCode": "340000004G2",
     "easting": 451379,
@@ -285,7 +285,7 @@ module.exports = {
     "naptanCode": "oxfamgpt",
     "northing": 206053
   },
-  "oxfamgpm": {
+  "340000004G3": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000004G3",
     "atcoCode": "340000004G3",
     "easting": 451365,
@@ -296,7 +296,7 @@ module.exports = {
     "naptanCode": "oxfamgpm",
     "northing": 206090
   },
-  "oxfamgpj": {
+  "340000004G4": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000004G4",
     "atcoCode": "340000004G4",
     "easting": 451354,
@@ -307,7 +307,7 @@ module.exports = {
     "naptanCode": "oxfamgpj",
     "northing": 206123
   },
-  "oxfamgpg": {
+  "340000004G5": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000004G5",
     "atcoCode": "340000004G5",
     "easting": 451348,
@@ -318,7 +318,7 @@ module.exports = {
     "naptanCode": "oxfamgpg",
     "northing": 206143
   },
-  "oxfamgpd": {
+  "340000004H1": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000004H1",
     "atcoCode": "340000004H1",
     "easting": 451384,
@@ -329,7 +329,7 @@ module.exports = {
     "naptanCode": "oxfamgpd",
     "northing": 206070
   },
-  "oxfamgpa": {
+  "340000004H2": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000004H2",
     "atcoCode": "340000004H2",
     "easting": 451390,
@@ -340,7 +340,7 @@ module.exports = {
     "naptanCode": "oxfamgpa",
     "northing": 206052
   },
-  "oxfamgmw": {
+  "340000004H3": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000004H3",
     "atcoCode": "340000004H3",
     "easting": 451396,
@@ -351,7 +351,7 @@ module.exports = {
     "naptanCode": "oxfamgmw",
     "northing": 206036
   },
-  "oxfamjgd": {
+  "340000004H5": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000004H5",
     "atcoCode": "340000004H5",
     "easting": 451402,
@@ -362,7 +362,7 @@ module.exports = {
     "naptanCode": "oxfamjgd",
     "northing": 206003
   },
-  "oxfamjgm": {
+  "340000005C1": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000005C1",
     "atcoCode": "340000005C1",
     "easting": 451240,
@@ -373,7 +373,7 @@ module.exports = {
     "naptanCode": "oxfamjgm",
     "northing": 206444
   },
-  "oxfamgtm": {
+  "340000005C2": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000005C2",
     "atcoCode": "340000005C2",
     "easting": 451232,
@@ -384,7 +384,7 @@ module.exports = {
     "naptanCode": "oxfamgtm",
     "northing": 206469
   },
-  "oxfamjpa": {
+  "340000005C3": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000005C3",
     "atcoCode": "340000005C3",
     "easting": 451228,
@@ -395,7 +395,7 @@ module.exports = {
     "naptanCode": "oxfamjpa",
     "northing": 206494
   },
-  "oxfamjmw": {
+  "340000005C4": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000005C4",
     "atcoCode": "340000005C4",
     "easting": 451225,
@@ -406,7 +406,7 @@ module.exports = {
     "naptanCode": "oxfamjmw",
     "northing": 206512
   },
-  "oxfamjmt": {
+  "340000005T1": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000005T1",
     "atcoCode": "340000005T1",
     "easting": 451281,
@@ -417,7 +417,7 @@ module.exports = {
     "naptanCode": "oxfamjmt",
     "northing": 206458
   },
-  "oxfamjmp": {
+  "340000006R1": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000006R1",
     "atcoCode": "340000006R1",
     "easting": 450524,
@@ -428,7 +428,7 @@ module.exports = {
     "naptanCode": "oxfamjmp",
     "northing": 206299
   },
-  "oxfamjmj": {
+  "340000006R2": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000006R2",
     "atcoCode": "340000006R2",
     "easting": 450510,
@@ -439,7 +439,7 @@ module.exports = {
     "naptanCode": "oxfamjmj",
     "northing": 206322
   },
-  "oxfamjmg": {
+  "340000006R3": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000006R3",
     "atcoCode": "340000006R3",
     "easting": 450504,
@@ -450,7 +450,7 @@ module.exports = {
     "naptanCode": "oxfamjmg",
     "northing": 206353
   },
-  "oxfamjmd": {
+  "340000006R4": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000006R4",
     "atcoCode": "340000006R4",
     "easting": 450503,
@@ -461,7 +461,7 @@ module.exports = {
     "naptanCode": "oxfamjmd",
     "northing": 206364
   },
-  "oxfamjma": {
+  "340000006R5": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000006R5",
     "atcoCode": "340000006R5",
     "easting": 450521,
@@ -472,7 +472,7 @@ module.exports = {
     "naptanCode": "oxfamjma",
     "northing": 206330
   },
-  "oxfamjgw": {
+  "340000006R6": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000006R6",
     "atcoCode": "340000006R6",
     "easting": 450515,
@@ -483,7 +483,7 @@ module.exports = {
     "naptanCode": "oxfamjgw",
     "northing": 206361
   },
-  "oxfamjgt": {
+  "34000000701": {
     "_about": "http://transport.data.gov.uk/id/stop-point/34000000701",
     "atcoCode": "34000000701",
     "easting": 451076,
@@ -494,7 +494,7 @@ module.exports = {
     "naptanCode": "oxfamjgt",
     "northing": 206083
   },
-  "oxfgmapg": {
+  "340004136HAR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004136HAR",
     "atcoCode": "340004136HAR",
     "easting": 449363,
@@ -505,7 +505,7 @@ module.exports = {
     "naptanCode": "oxfgmapg",
     "northing": 198420
   },
-  "oxfgmdmj": {
+  "340004098WES": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004098WES",
     "atcoCode": "340004098WES",
     "easting": 453297,
@@ -516,7 +516,7 @@ module.exports = {
     "naptanCode": "oxfgmdmj",
     "northing": 203003
   },
-  "oxfawpgd": {
+  "340003276NOR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003276NOR",
     "atcoCode": "340003276NOR",
     "easting": 458478,
@@ -527,7 +527,7 @@ module.exports = {
     "naptanCode": "oxfawpgd",
     "northing": 201841
   },
-  "oxfgmtmw": {
+  "340003018N": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003018N",
     "atcoCode": "340003018N",
     "easting": 453613,
@@ -538,7 +538,7 @@ module.exports = {
     "naptanCode": "oxfgmtmw",
     "northing": 207990
   },
-  "oxfawtjm": {
+  "340001850OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001850OPP",
     "atcoCode": "340001850OPP",
     "easting": 456651,
@@ -549,7 +549,7 @@ module.exports = {
     "naptanCode": "oxfawtjm",
     "northing": 210032
   },
-  "oxfgdjdj": {
+  "340001747OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001747OPP",
     "atcoCode": "340001747OPP",
     "easting": 460000,
@@ -560,7 +560,7 @@ module.exports = {
     "naptanCode": "oxfgdjdj",
     "northing": 212348
   },
-  "oxfgdgpg": {
+  "340001728MIL": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001728MIL",
     "atcoCode": "340001728MIL",
     "easting": 452657,
@@ -571,7 +571,7 @@ module.exports = {
     "naptanCode": "oxfgdgpg",
     "northing": 203512
   },
-  "oxfagmdg": {
+  "340001373OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001373OPP",
     "atcoCode": "340001373OPP",
     "easting": 449341,
@@ -582,7 +582,7 @@ module.exports = {
     "naptanCode": "oxfagmdg",
     "northing": 198129
   },
-  "oxfagmjm": {
+  "340001364BUR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001364BUR",
     "atcoCode": "340001364BUR",
     "easting": 455195,
@@ -593,7 +593,7 @@ module.exports = {
     "naptanCode": "oxfagmjm",
     "northing": 205322
   },
-  "oxfagtpt": {
+  "340001360OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001360OPP",
     "atcoCode": "340001360OPP",
     "easting": 454763,
@@ -604,7 +604,7 @@ module.exports = {
     "naptanCode": "oxfagtpt",
     "northing": 206659
   },
-  "oxfajmdp": {
+  "340001290CWR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001290CWR",
     "atcoCode": "340001290CWR",
     "easting": 455927,
@@ -615,7 +615,7 @@ module.exports = {
     "naptanCode": "oxfajmdp",
     "northing": 207258
   },
-  "oxfajagp": {
+  "340001264DEP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001264DEP",
     "atcoCode": "340001264DEP",
     "easting": 456362,
@@ -626,7 +626,7 @@ module.exports = {
     "naptanCode": "oxfajagp",
     "northing": 203782
   },
-  "oxfagwja": {
+  "340001257OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001257OPP",
     "atcoCode": "340001257OPP",
     "easting": 454554,
@@ -637,7 +637,7 @@ module.exports = {
     "naptanCode": "oxfagwja",
     "northing": 204242
   },
-  "oxfagwtj": {
+  "340001252OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001252OUT",
     "atcoCode": "340001252OUT",
     "easting": 454274,
@@ -648,7 +648,7 @@ module.exports = {
     "naptanCode": "oxfagwtj",
     "northing": 203589
   },
-  "oxfgmjtp": {
+  "340001217OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001217OUT",
     "atcoCode": "340001217OUT",
     "easting": 455531,
@@ -659,7 +659,7 @@ module.exports = {
     "naptanCode": "oxfgmjtp",
     "northing": 202301
   },
-  "oxfadjwd": {
+  "340001206BLK": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001206BLK",
     "atcoCode": "340001206BLK",
     "easting": 455745,
@@ -670,7 +670,7 @@ module.exports = {
     "naptanCode": "oxfadjwd",
     "northing": 202206
   },
-  "oxfadmtd": {
+  "340001157CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001157CNR",
     "atcoCode": "340001157CNR",
     "easting": 450982,
@@ -681,7 +681,7 @@ module.exports = {
     "naptanCode": "oxfadmtd",
     "northing": 203287
   },
-  "oxfadajd": {
+  "340001131CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001131CNR",
     "atcoCode": "340001131CNR",
     "easting": 452789,
@@ -692,7 +692,7 @@ module.exports = {
     "naptanCode": "oxfadajd",
     "northing": 204977
   },
-  "oxfadjaj": {
+  "340001109CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001109CNR",
     "atcoCode": "340001109CNR",
     "easting": 448236,
@@ -703,7 +703,7 @@ module.exports = {
     "naptanCode": "oxfadjaj",
     "northing": 205980
   },
-  "oxfadwta": {
+  "340001059OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001059OPP",
     "atcoCode": "340001059OPP",
     "easting": 451123,
@@ -714,7 +714,7 @@ module.exports = {
     "naptanCode": "oxfadwta",
     "northing": 207343
   },
-  "oxfagdmp": {
+  "340001046OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001046OPP",
     "atcoCode": "340001046OPP",
     "easting": 450955,
@@ -725,7 +725,7 @@ module.exports = {
     "naptanCode": "oxfagdmp",
     "northing": 206599
   },
-  "oxfadtgw": {
+  "340001006OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001006OUT",
     "atcoCode": "340001006OUT",
     "easting": 449573,
@@ -736,7 +736,7 @@ module.exports = {
     "naptanCode": "oxfadtgw",
     "northing": 209679
   },
-  "oxfadtpw": {
+  "340000988OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000988OPP",
     "atcoCode": "340000988OPP",
     "easting": 451547,
@@ -747,7 +747,7 @@ module.exports = {
     "naptanCode": "oxfadtpw",
     "northing": 205037
   },
-  "oxfamtga": {
+  "340000082V": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000082V",
     "atcoCode": "340000082V",
     "easting": 450073,
@@ -758,7 +758,7 @@ module.exports = {
     "naptanCode": "oxfamtga",
     "northing": 201192
   },
-  "oxfamgmt": {
+  "340000004H4": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000004H4",
     "atcoCode": "340000004H4",
     "easting": 451399,
@@ -769,7 +769,7 @@ module.exports = {
     "naptanCode": "oxfamgmt",
     "northing": 206021
   },
-  "oxfawadw": {
+  "340000256WFS": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000256WFS",
     "atcoCode": "340000256WFS",
     "easting": 455466,
@@ -780,7 +780,7 @@ module.exports = {
     "naptanCode": "oxfawadw",
     "northing": 206179
   },
-  "oxfajpdp": {
+  "340000256WFR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000256WFR",
     "atcoCode": "340000256WFR",
     "easting": 454934,
@@ -791,7 +791,7 @@ module.exports = {
     "naptanCode": "oxfajpdp",
     "northing": 204871
   },
-  "oxfajpgw": {
+  "340000248SOU": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000248SOU",
     "atcoCode": "340000248SOU",
     "easting": 450505,
@@ -802,7 +802,7 @@ module.exports = {
     "naptanCode": "oxfajpgw",
     "northing": 199209
   },
-  "oxfajpja": {
+  "340000248NOR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000248NOR",
     "atcoCode": "340000248NOR",
     "easting": 450472,
@@ -813,7 +813,7 @@ module.exports = {
     "naptanCode": "oxfajpja",
     "northing": 199159
   },
-  "oxfgmapj": {
+  "340000160ERW": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000160ERW",
     "atcoCode": "340000160ERW",
     "easting": 449126,
@@ -824,7 +824,7 @@ module.exports = {
     "naptanCode": "oxfgmapj",
     "northing": 198281
   },
-  "oxfgadmj": {
+  "340000160DLC": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000160DLC",
     "atcoCode": "340000160DLC",
     "easting": 449556,
@@ -836,7 +836,7 @@ module.exports = {
     "northing": 198988,
     "plateCode": "z"
   },
-  "oxfgadgt": {
+  "340000160ALO": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000160ALO",
     "atcoCode": "340000160ALO",
     "easting": 450407,
@@ -847,7 +847,7 @@ module.exports = {
     "naptanCode": "oxfgadgt",
     "northing": 199377
   },
-  "oxfgpagp": {
+  "340000154WES": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000154WES",
     "atcoCode": "340000154WES",
     "easting": 450312,
@@ -858,7 +858,7 @@ module.exports = {
     "naptanCode": "oxfgpagp",
     "northing": 198925
   },
-  "oxfgpaga": {
+  "340000154OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000154OPP",
     "atcoCode": "340000154OPP",
     "easting": 449647,
@@ -869,7 +869,7 @@ module.exports = {
     "naptanCode": "oxfgpaga",
     "northing": 198213
   },
-  "oxfampmg": {
+  "340000154NA": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000154NA",
     "atcoCode": "340000154NA",
     "easting": 450315,
@@ -880,7 +880,7 @@ module.exports = {
     "naptanCode": "oxfampmg",
     "northing": 198933
   },
-  "oxfampmj": {
+  "340000154COL": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000154COL",
     "atcoCode": "340000154COL",
     "easting": 449647,
@@ -891,7 +891,7 @@ module.exports = {
     "naptanCode": "oxfampmj",
     "northing": 198228
   },
-  "oxfampam": {
+  "340000131SHP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000131SHP",
     "atcoCode": "340000131SHP",
     "easting": 450898,
@@ -902,7 +902,7 @@ module.exports = {
     "naptanCode": "oxfampam",
     "northing": 198717
   },
-  "oxfgpagt": {
+  "34000008JR12": {
     "_about": "http://transport.data.gov.uk/id/stop-point/34000008JR12",
     "atcoCode": "34000008JR12",
     "easting": 453955,
@@ -913,7 +913,7 @@ module.exports = {
     "naptanCode": "oxfgpagt",
     "northing": 207391
   },
-  "oxfgmdap": {
+  "34000008JR11": {
     "_about": "http://transport.data.gov.uk/id/stop-point/34000008JR11",
     "atcoCode": "34000008JR11",
     "easting": 453793,
@@ -924,7 +924,7 @@ module.exports = {
     "naptanCode": "oxfgmdap",
     "northing": 207833
   },
-  "oxfgmdam": {
+  "34000008JR10": {
     "_about": "http://transport.data.gov.uk/id/stop-point/34000008JR10",
     "atcoCode": "34000008JR10",
     "easting": 453789,
@@ -935,7 +935,7 @@ module.exports = {
     "naptanCode": "oxfgmdam",
     "northing": 207851
   },
-  "oxfatdad": {
+  "340000056F7": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000056F7",
     "atcoCode": "340000056F7",
     "easting": 451318,
@@ -946,7 +946,7 @@ module.exports = {
     "naptanCode": "oxfatdad",
     "northing": 206177
   },
-  "oxfamgjt": {
+  "340000056F6": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000056F6",
     "atcoCode": "340000056F6",
     "easting": 451299,
@@ -957,7 +957,7 @@ module.exports = {
     "naptanCode": "oxfamgjt",
     "northing": 206169
   },
-  "oxfamgjw": {
+  "340000056F5": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000056F5",
     "atcoCode": "340000056F5",
     "easting": 451286,
@@ -968,7 +968,7 @@ module.exports = {
     "naptanCode": "oxfamgjw",
     "northing": 206161
   },
-  "oxfamgma": {
+  "340000056F4": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000056F4",
     "atcoCode": "340000056F4",
     "easting": 451265,
@@ -979,7 +979,7 @@ module.exports = {
     "naptanCode": "oxfamgma",
     "northing": 206154
   },
-  "oxfamdtm": {
+  "340000035V": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000035V",
     "atcoCode": "340000035V",
     "easting": 454030,
@@ -990,7 +990,7 @@ module.exports = {
     "naptanCode": "oxfamdtm",
     "northing": 209977
   },
-  "oxfawtja": {
+  "340000035OV": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000035OV",
     "atcoCode": "340000035OV",
     "easting": 454022,
@@ -1001,7 +1001,7 @@ module.exports = {
     "naptanCode": "oxfawtja",
     "northing": 209990
   },
-  "oxfgadja": {
+  "340000034OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000034OPP",
     "atcoCode": "340000034OPP",
     "easting": 449025,
@@ -1012,7 +1012,7 @@ module.exports = {
     "naptanCode": "oxfgadja",
     "northing": 201500
   },
-  "oxfamdtp": {
+  "340000034FOX": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000034FOX",
     "atcoCode": "340000034FOX",
     "easting": 449022,
@@ -1023,7 +1023,7 @@ module.exports = {
     "naptanCode": "oxfamdtp",
     "northing": 201507
   },
-  "oxfamgmg": {
+  "340000030SPR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000030SPR",
     "atcoCode": "340000030SPR",
     "easting": 449781,
@@ -1034,7 +1034,7 @@ module.exports = {
     "naptanCode": "oxfamgmg",
     "northing": 209582
   },
-  "oxfamjap": {
+  "340000025OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000025OPP",
     "atcoCode": "340000025OPP",
     "easting": 452378,
@@ -1045,7 +1045,7 @@ module.exports = {
     "naptanCode": "oxfamjap",
     "northing": 201390
   },
-  "oxfamjat": {
+  "340000025MG": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000025MG",
     "atcoCode": "340000025MG",
     "easting": 452390,
@@ -1056,7 +1056,7 @@ module.exports = {
     "naptanCode": "oxfamjat",
     "northing": 201358
   },
-  "oxfatmgw": {
+  "340000022OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000022OUT",
     "atcoCode": "340000022OUT",
     "easting": 453627,
@@ -1067,7 +1067,7 @@ module.exports = {
     "naptanCode": "oxfatmgw",
     "northing": 202692
   },
-  "oxfatmgm": {
+  "340000022OMC": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000022OMC",
     "atcoCode": "340000022OMC",
     "easting": 453439,
@@ -1078,7 +1078,7 @@ module.exports = {
     "naptanCode": "oxfatmgm",
     "northing": 202428
   },
-  "oxfatmgp": {
+  "340000022MOR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000022MOR",
     "atcoCode": "340000022MOR",
     "easting": 453427,
@@ -1089,7 +1089,7 @@ module.exports = {
     "naptanCode": "oxfatmgp",
     "northing": 202429
   },
-  "oxfamjda": {
+  "340000022GEO": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000022GEO",
     "atcoCode": "340000022GEO",
     "easting": 453650,
@@ -1100,7 +1100,7 @@ module.exports = {
     "naptanCode": "oxfamjda",
     "northing": 202741
   },
-  "oxfatmga": {
+  "340000021SPR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000021SPR",
     "atcoCode": "340000021SPR",
     "easting": 454167,
@@ -1111,7 +1111,7 @@ module.exports = {
     "naptanCode": "oxfatmga",
     "northing": 202232
   },
-  "oxfamjdg": {
+  "340000021SP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000021SP",
     "atcoCode": "340000021SP",
     "easting": 453905,
@@ -1122,7 +1122,7 @@ module.exports = {
     "naptanCode": "oxfamjdg",
     "northing": 201715
   },
-  "oxfgpdag": {
+  "340000018SAW": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000018SAW",
     "atcoCode": "340000018SAW",
     "easting": 455529,
@@ -1133,7 +1133,7 @@ module.exports = {
     "naptanCode": "oxfgpdag",
     "northing": 202959
   },
-  "oxfgpdad": {
+  "340000018BUL": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000018BUL",
     "atcoCode": "340000018BUL",
     "easting": 455846,
@@ -1144,7 +1144,7 @@ module.exports = {
     "naptanCode": "oxfgpdad",
     "northing": 203238
   },
-  "oxfamjdm": {
+  "340000017DR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000017DR",
     "atcoCode": "340000017DR",
     "easting": 455858,
@@ -1155,7 +1155,7 @@ module.exports = {
     "naptanCode": "oxfamjdm",
     "northing": 206973
   },
-  "oxfamjdp": {
+  "340000015SR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000015SR",
     "atcoCode": "340000015SR",
     "easting": 455797,
@@ -1166,7 +1166,7 @@ module.exports = {
     "naptanCode": "oxfamjdp",
     "northing": 207947
   },
-  "oxfamjdt": {
+  "340000015FOX": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000015FOX",
     "atcoCode": "340000015FOX",
     "easting": 455512,
@@ -1177,7 +1177,7 @@ module.exports = {
     "naptanCode": "oxfamjdt",
     "northing": 207550
   },
-  "oxfgpawt": {
+  "340000010HOC": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000010HOC",
     "atcoCode": "340000010HOC",
     "easting": 454066,
@@ -1188,7 +1188,7 @@ module.exports = {
     "naptanCode": "oxfgpawt",
     "northing": 203924
   },
-  "oxfgpawp": {
+  "340000010CRO": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000010CRO",
     "atcoCode": "340000010CRO",
     "easting": 454081,
@@ -1199,7 +1199,7 @@ module.exports = {
     "naptanCode": "oxfgpawp",
     "northing": 203910
   },
-  "oxfgmdaj": {
+  "34000000JR9": {
     "_about": "http://transport.data.gov.uk/id/stop-point/34000000JR9",
     "atcoCode": "34000000JR9",
     "easting": 453735,
@@ -1210,7 +1210,7 @@ module.exports = {
     "naptanCode": "oxfgmdaj",
     "northing": 207630
   },
-  "oxfatwdw": {
+  "340000009LRW": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000009LRW",
     "atcoCode": "340000009LRW",
     "easting": 456461,
@@ -1221,7 +1221,7 @@ module.exports = {
     "naptanCode": "oxfatwdw",
     "northing": 207395
   },
-  "oxfatwga": {
+  "340000009LRE": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000009LRE",
     "atcoCode": "340000009LRE",
     "easting": 456641,
@@ -1232,7 +1232,7 @@ module.exports = {
     "naptanCode": "oxfatwga",
     "northing": 207479
   },
-  "oxfgmdag": {
+  "340000008JR8": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000008JR8",
     "atcoCode": "340000008JR8",
     "easting": 453766,
@@ -1243,7 +1243,7 @@ module.exports = {
     "naptanCode": "oxfgmdag",
     "northing": 207582
   },
-  "oxfgmdad": {
+  "340000008JR7": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000008JR7",
     "atcoCode": "340000008JR7",
     "easting": 453746,
@@ -1254,7 +1254,7 @@ module.exports = {
     "naptanCode": "oxfgmdad",
     "northing": 207615
   },
-  "oxfgmawt": {
+  "340000008JR6": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000008JR6",
     "atcoCode": "340000008JR6",
     "easting": 454277,
@@ -1265,7 +1265,7 @@ module.exports = {
     "naptanCode": "oxfgmawt",
     "northing": 207340
   },
-  "oxfgmawp": {
+  "340000008JR5": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000008JR5",
     "atcoCode": "340000008JR5",
     "easting": 454315,
@@ -1276,7 +1276,7 @@ module.exports = {
     "naptanCode": "oxfgmawp",
     "northing": 207304
   },
-  "oxfgmwgp": {
+  "340000008JR4": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000008JR4",
     "atcoCode": "340000008JR4",
     "easting": 453969,
@@ -1287,7 +1287,7 @@ module.exports = {
     "naptanCode": "oxfgmwgp",
     "northing": 207386
   },
-  "oxfgmwgm": {
+  "340000008JR3": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000008JR3",
     "atcoCode": "340000008JR3",
     "easting": 453980,
@@ -1298,7 +1298,7 @@ module.exports = {
     "naptanCode": "oxfgmwgm",
     "northing": 207396
   },
-  "oxfamjpg": {
+  "340000008HOS": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000008HOS",
     "atcoCode": "340000008HOS",
     "easting": 453989,
@@ -1309,7 +1309,7 @@ module.exports = {
     "naptanCode": "oxfamjpg",
     "northing": 207418
   },
-  "oxfgpgta": {
+  "340000007M2": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000007M2",
     "atcoCode": "340000007M2",
     "easting": 451075,
@@ -1320,7 +1320,7 @@ module.exports = {
     "naptanCode": "oxfgpgta",
     "northing": 206056
   },
-  "oxfamjam": {
+  "34000000703": {
     "_about": "http://transport.data.gov.uk/id/stop-point/34000000703",
     "atcoCode": "34000000703",
     "easting": 451116,
@@ -1331,7 +1331,7 @@ module.exports = {
     "naptanCode": "oxfamjam",
     "northing": 206135
   },
-  "oxfamjgp": {
+  "34000000702": {
     "_about": "http://transport.data.gov.uk/id/stop-point/34000000702",
     "atcoCode": "34000000702",
     "easting": 451100,
@@ -1342,7 +1342,7 @@ module.exports = {
     "naptanCode": "oxfamjgp",
     "northing": 206112
   },
-  "oxfapmpm": {
+  "340000433MHP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000433MHP",
     "atcoCode": "340000433MHP",
     "easting": 456998,
@@ -1353,7 +1353,7 @@ module.exports = {
     "naptanCode": "oxfapmpm",
     "northing": 202169
   },
-  "oxfatwda": {
+  "340000398RRN": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000398RRN",
     "atcoCode": "340000398RRN",
     "easting": 455429,
@@ -1364,7 +1364,7 @@ module.exports = {
     "naptanCode": "oxfatwda",
     "northing": 207236
   },
-  "oxfamadj": {
+  "340000398PRS": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000398PRS",
     "atcoCode": "340000398PRS",
     "easting": 455437,
@@ -1375,7 +1375,7 @@ module.exports = {
     "naptanCode": "oxfamadj",
     "northing": 207240
   },
-  "oxfamawj": {
+  "340000340KAS": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000340KAS",
     "atcoCode": "340000340KAS",
     "easting": 454712,
@@ -1386,7 +1386,7 @@ module.exports = {
     "naptanCode": "oxfamawj",
     "northing": 202187
   },
-  "oxfamawm": {
+  "340000335SCH": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000335SCH",
     "atcoCode": "340000335SCH",
     "easting": 458062,
@@ -1397,7 +1397,7 @@ module.exports = {
     "naptanCode": "oxfamawm",
     "northing": 202246
   },
-  "oxfamawp": {
+  "340000335PH": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000335PH",
     "atcoCode": "340000335PH",
     "easting": 458049,
@@ -1408,7 +1408,7 @@ module.exports = {
     "naptanCode": "oxfamawp",
     "northing": 202247
   },
-  "oxfamawt": {
+  "340000335OGS": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000335OGS",
     "atcoCode": "340000335OGS",
     "easting": 458229,
@@ -1419,7 +1419,7 @@ module.exports = {
     "naptanCode": "oxfamawt",
     "northing": 202453
   },
-  "oxfamdja": {
+  "340000324FPR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000324FPR",
     "atcoCode": "340000324FPR",
     "easting": 450988,
@@ -1430,7 +1430,7 @@ module.exports = {
     "naptanCode": "oxfamdja",
     "northing": 208678
   },
-  "oxfatpat": {
+  "340000320OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000320OPP",
     "atcoCode": "340000320OPP",
     "easting": 458453,
@@ -1441,7 +1441,7 @@ module.exports = {
     "naptanCode": "oxfatpat",
     "northing": 207963
   },
-  "oxfamajp": {
+  "340000320CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000320CNR",
     "atcoCode": "340000320CNR",
     "easting": 458444,
@@ -1452,7 +1452,7 @@ module.exports = {
     "naptanCode": "oxfamajp",
     "northing": 207965
   },
-  "oxfapjaj": {
+  "340000864A5": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000864A5",
     "atcoCode": "340000864A5",
     "easting": 451002,
@@ -1463,7 +1463,7 @@ module.exports = {
     "naptanCode": "oxfapjaj",
     "northing": 206341
   },
-  "oxfapgtj": {
+  "340000864A3": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000864A3",
     "atcoCode": "340000864A3",
     "easting": 451151,
@@ -1474,7 +1474,7 @@ module.exports = {
     "naptanCode": "oxfapgtj",
     "northing": 206367
   },
-  "oxfapjat": {
+  "340000864A1": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000864A1",
     "atcoCode": "340000864A1",
     "easting": 451205,
@@ -1485,7 +1485,7 @@ module.exports = {
     "naptanCode": "oxfapjat",
     "northing": 206381
   },
-  "oxfawtjp": {
+  "340000838OFR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000838OFR",
     "atcoCode": "340000838OFR",
     "easting": 457389,
@@ -1496,7 +1496,7 @@ module.exports = {
     "naptanCode": "oxfawtjp",
     "northing": 210516
   },
-  "oxfapjgd": {
+  "340000817OCH": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000817OCH",
     "atcoCode": "340000817OCH",
     "easting": 459568,
@@ -1507,7 +1507,7 @@ module.exports = {
     "naptanCode": "oxfapjgd",
     "northing": 205802
   },
-  "oxfamwgd": {
+  "340000760WIL": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000760WIL",
     "atcoCode": "340000760WIL",
     "easting": 456714,
@@ -1518,7 +1518,7 @@ module.exports = {
     "naptanCode": "oxfamwgd",
     "northing": 200710
   },
-  "oxfapagp": {
+  "340000751H": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000751H",
     "atcoCode": "340000751H",
     "easting": 454427,
@@ -1529,7 +1529,7 @@ module.exports = {
     "naptanCode": "oxfapagp",
     "northing": 206197
   },
-  "oxfgadjd": {
+  "340000731OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000731OPP",
     "atcoCode": "340000731OPP",
     "easting": 449292,
@@ -1540,7 +1540,7 @@ module.exports = {
     "naptanCode": "oxfgadjd",
     "northing": 200378
   },
-  "oxfapagt": {
+  "340000705V": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000705V",
     "atcoCode": "340000705V",
     "easting": 457642,
@@ -1551,7 +1551,7 @@ module.exports = {
     "naptanCode": "oxfapagt",
     "northing": 209199
   },
-  "oxfapwdm": {
+  "340000699CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000699CNR",
     "atcoCode": "340000699CNR",
     "easting": 460231,
@@ -1562,7 +1562,7 @@ module.exports = {
     "naptanCode": "oxfapwdm",
     "northing": 198572
   },
-  "oxfawdgp": {
+  "340000699COT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000699COT",
     "atcoCode": "340000699COT",
     "easting": 460182,
@@ -1573,7 +1573,7 @@ module.exports = {
     "naptanCode": "oxfawdgp",
     "northing": 198154
   },
-  "oxfapgwt": {
+  "340000865CS": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000865CS",
     "atcoCode": "340000865CS",
     "easting": 451200,
@@ -1584,7 +1584,7 @@ module.exports = {
     "naptanCode": "oxfapgwt",
     "northing": 206600
   },
-  "oxfapjad": {
+  "340000864B2": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000864B2",
     "atcoCode": "340000864B2",
     "easting": 451225,
@@ -1595,7 +1595,7 @@ module.exports = {
     "naptanCode": "oxfapjad",
     "northing": 206400
   },
-  "oxfapjgj": {
+  "340000864B1": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000864B1",
     "atcoCode": "340000864B1",
     "easting": 451024,
@@ -1606,7 +1606,7 @@ module.exports = {
     "naptanCode": "oxfapjgj",
     "northing": 206349
   },
-  "oxfapgwd": {
+  "340000874CR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000874CR",
     "atcoCode": "340000874CR",
     "easting": 458140,
@@ -1617,7 +1617,7 @@ module.exports = {
     "naptanCode": "oxfapgwd",
     "northing": 205046
   },
-  "oxfgmtpg": {
+  "340000874CRO": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000874CRO",
     "atcoCode": "340000874CRO",
     "easting": 458124,
@@ -1628,7 +1628,7 @@ module.exports = {
     "naptanCode": "oxfgmtpg",
     "northing": 205037
   },
-  "oxfapgwa": {
+  "340000874GAR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000874GAR",
     "atcoCode": "340000874GAR",
     "easting": 455784,
@@ -1639,7 +1639,7 @@ module.exports = {
     "naptanCode": "oxfapgwa",
     "northing": 204511
   },
-  "oxfgpmdj": {
+  "340000875OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000875OPP",
     "atcoCode": "340000875OPP",
     "easting": 458397,
@@ -1650,7 +1650,7 @@ module.exports = {
     "naptanCode": "oxfgpmdj",
     "northing": 205044
   },
-  "oxfagmtg": {
+  "340001387CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001387CNR",
     "atcoCode": "340001387CNR",
     "easting": 450326,
@@ -1661,7 +1661,7 @@ module.exports = {
     "naptanCode": "oxfagmtg",
     "northing": 198476
   },
-  "oxfagpag": {
+  "340001380OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001380OPP",
     "atcoCode": "340001380OPP",
     "easting": 450812,
@@ -1672,7 +1672,7 @@ module.exports = {
     "naptanCode": "oxfagpag",
     "northing": 201992
   },
-  "oxfagpaj": {
+  "340001380CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001380CNR",
     "atcoCode": "340001380CNR",
     "easting": 450826,
@@ -1683,7 +1683,7 @@ module.exports = {
     "naptanCode": "oxfagpaj",
     "northing": 201910
   },
-  "oxfagpap": {
+  "340001378CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001378CNR",
     "atcoCode": "340001378CNR",
     "easting": 449399,
@@ -1694,7 +1694,7 @@ module.exports = {
     "naptanCode": "oxfagpap",
     "northing": 201981
   },
-  "oxfagpat": {
+  "340001377OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001377OPP",
     "atcoCode": "340001377OPP",
     "easting": 449265,
@@ -1705,7 +1705,7 @@ module.exports = {
     "naptanCode": "oxfagpat",
     "northing": 201673
   },
-  "oxfagmgm": {
+  "340001376BWP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001376BWP",
     "atcoCode": "340001376BWP",
     "easting": 449934,
@@ -1716,7 +1716,7 @@ module.exports = {
     "naptanCode": "oxfagmgm",
     "northing": 201537
   },
-  "oxfagmwg": {
+  "340001376BNH": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001376BNH",
     "atcoCode": "340001376BNH",
     "easting": 449941,
@@ -1727,7 +1727,7 @@ module.exports = {
     "naptanCode": "oxfagmwg",
     "northing": 201537
   },
-  "oxfagmap": {
+  "340001375OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001375OPP",
     "atcoCode": "340001375OPP",
     "easting": 449558,
@@ -1738,7 +1738,7 @@ module.exports = {
     "naptanCode": "oxfagmap",
     "northing": 200563
   },
-  "oxfagmat": {
+  "340001374OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001374OPP",
     "atcoCode": "340001374OPP",
     "easting": 448920,
@@ -1749,7 +1749,7 @@ module.exports = {
     "naptanCode": "oxfagmat",
     "northing": 199489
   },
-  "oxfagmdm": {
+  "340001372CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001372CNR",
     "atcoCode": "340001372CNR",
     "easting": 450350,
@@ -1760,7 +1760,7 @@ module.exports = {
     "naptanCode": "oxfagmdm",
     "northing": 198739
   },
-  "oxfagmdw": {
+  "340001370OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001370OUT",
     "atcoCode": "340001370OUT",
     "easting": 455194,
@@ -1771,7 +1771,7 @@ module.exports = {
     "naptanCode": "oxfagmdw",
     "northing": 206354
   },
-  "oxfagmga": {
+  "340001369OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001369OPP",
     "atcoCode": "340001369OPP",
     "easting": 454690,
@@ -1782,7 +1782,7 @@ module.exports = {
     "naptanCode": "oxfagmga",
     "northing": 204358
   },
-  "oxfagmpd": {
+  "340001369CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001369CNR",
     "atcoCode": "340001369CNR",
     "easting": 454708,
@@ -1793,7 +1793,7 @@ module.exports = {
     "naptanCode": "oxfagmpd",
     "northing": 204379
   },
-  "oxfagmgj": {
+  "340001368MAR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001368MAR",
     "atcoCode": "340001368MAR",
     "easting": 454836,
@@ -1804,7 +1804,7 @@ module.exports = {
     "naptanCode": "oxfagmgj",
     "northing": 204656
   },
-  "oxfagmam": {
+  "340001368HOP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001368HOP",
     "atcoCode": "340001368HOP",
     "easting": 454805,
@@ -1815,7 +1815,7 @@ module.exports = {
     "naptanCode": "oxfagmam",
     "northing": 204605
   },
-  "oxfgmapd": {
+  "340001367TRC": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001367TRC",
     "atcoCode": "340001367TRC",
     "easting": 455461,
@@ -1826,7 +1826,7 @@ module.exports = {
     "naptanCode": "oxfgmapd",
     "northing": 204623
   },
-  "oxfagmgp": {
+  "340001367PRC": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001367PRC",
     "atcoCode": "340001367PRC",
     "easting": 455357,
@@ -1837,7 +1837,7 @@ module.exports = {
     "naptanCode": "oxfagmgp",
     "northing": 204639
   },
-  "oxfagmgw": {
+  "340001366OPF": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001366OPF",
     "atcoCode": "340001366OPF",
     "easting": 455155,
@@ -1848,7 +1848,7 @@ module.exports = {
     "naptanCode": "oxfagmgw",
     "northing": 204871
   },
-  "oxfagmja": {
+  "340001365OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001365OPP",
     "atcoCode": "340001365OPP",
     "easting": 455045,
@@ -1859,7 +1859,7 @@ module.exports = {
     "naptanCode": "oxfagmja",
     "northing": 205075
   },
-  "oxfagmjd": {
+  "340001365CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001365CNR",
     "atcoCode": "340001365CNR",
     "easting": 455053,
@@ -1870,7 +1870,7 @@ module.exports = {
     "naptanCode": "oxfagmjd",
     "northing": 205070
   },
-  "oxfagmjp": {
+  "340001363OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001363OPP",
     "atcoCode": "340001363OPP",
     "easting": 453707,
@@ -1881,7 +1881,7 @@ module.exports = {
     "naptanCode": "oxfagmjp",
     "northing": 207224
   },
-  "oxfagmjt": {
+  "340001363CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001363CNR",
     "atcoCode": "340001363CNR",
     "easting": 453694,
@@ -1892,7 +1892,7 @@ module.exports = {
     "naptanCode": "oxfagmjt",
     "northing": 207224
   },
-  "oxfajada": {
+  "340001361OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001361OPP",
     "atcoCode": "340001361OPP",
     "easting": 454866,
@@ -1903,7 +1903,7 @@ module.exports = {
     "naptanCode": "oxfajada",
     "northing": 206460
   },
-  "oxfajmwd": {
+  "340001361ENT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001361ENT",
     "atcoCode": "340001361ENT",
     "easting": 454841,
@@ -1914,7 +1914,7 @@ module.exports = {
     "naptanCode": "oxfajmwd",
     "northing": 206493
   },
-  "oxfajgdw": {
+  "340001360CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001360CNR",
     "atcoCode": "340001360CNR",
     "easting": 454768,
@@ -1925,7 +1925,7 @@ module.exports = {
     "naptanCode": "oxfajgdw",
     "northing": 206671
   },
-  "oxfajdwt": {
+  "340001331OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001331OPP",
     "atcoCode": "340001331OPP",
     "easting": 455147,
@@ -1936,7 +1936,7 @@ module.exports = {
     "naptanCode": "oxfajdwt",
     "northing": 207783
   },
-  "oxfajgad": {
+  "340001330RBT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001330RBT",
     "atcoCode": "340001330RBT",
     "easting": 455604,
@@ -1947,7 +1947,7 @@ module.exports = {
     "naptanCode": "oxfajgad",
     "northing": 207993
   },
-  "oxfajgag": {
+  "340001329OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001329OPP",
     "atcoCode": "340001329OPP",
     "easting": 455369,
@@ -1958,7 +1958,7 @@ module.exports = {
     "naptanCode": "oxfajgag",
     "northing": 208009
   },
-  "oxfajgaj": {
+  "340001328OPA": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001328OPA",
     "atcoCode": "340001328OPA",
     "easting": 455024,
@@ -1969,7 +1969,7 @@ module.exports = {
     "naptanCode": "oxfajgaj",
     "northing": 208151
   },
-  "oxfajgap": {
+  "340001326OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001326OPP",
     "atcoCode": "340001326OPP",
     "easting": 453863,
@@ -1980,7 +1980,7 @@ module.exports = {
     "naptanCode": "oxfajgap",
     "northing": 206288
   },
-  "oxfajgat": {
+  "340001326ENT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001326ENT",
     "atcoCode": "340001326ENT",
     "easting": 453870,
@@ -1991,7 +1991,7 @@ module.exports = {
     "naptanCode": "oxfajgat",
     "northing": 206272
   },
-  "oxfajgaw": {
+  "340001325OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001325OPP",
     "atcoCode": "340001325OPP",
     "easting": 452936,
@@ -2002,7 +2002,7 @@ module.exports = {
     "naptanCode": "oxfajgaw",
     "northing": 205975
   },
-  "oxfajgdg": {
+  "340001324OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001324OPP",
     "atcoCode": "340001324OPP",
     "easting": 453427,
@@ -2013,7 +2013,7 @@ module.exports = {
     "naptanCode": "oxfajgdg",
     "northing": 205982
   },
-  "oxfajmaj": {
+  "340001324CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001324CNR",
     "atcoCode": "340001324CNR",
     "easting": 453381,
@@ -2024,7 +2024,7 @@ module.exports = {
     "naptanCode": "oxfajmaj",
     "northing": 205968
   },
-  "oxfajdwj": {
+  "340001323MA": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001323MA",
     "atcoCode": "340001323MA",
     "easting": 452730,
@@ -2035,7 +2035,7 @@ module.exports = {
     "naptanCode": "oxfajdwj",
     "northing": 206096
   },
-  "oxfajmgp": {
+  "340001322ENT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001322ENT",
     "atcoCode": "340001322ENT",
     "easting": 454491,
@@ -2046,7 +2046,7 @@ module.exports = {
     "naptanCode": "oxfajmgp",
     "northing": 206279
   },
-  "oxfajmgt": {
+  "340001321HEA": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001321HEA",
     "atcoCode": "340001321HEA",
     "easting": 452815,
@@ -2057,7 +2057,7 @@ module.exports = {
     "naptanCode": "oxfajmgt",
     "northing": 206234
   },
-  "oxfajmgw": {
+  "340001320OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001320OUT",
     "atcoCode": "340001320OUT",
     "easting": 452847,
@@ -2068,7 +2068,7 @@ module.exports = {
     "naptanCode": "oxfajmgw",
     "northing": 206753
   },
-  "oxfajmja": {
+  "340001320OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001320OPP",
     "atcoCode": "340001320OPP",
     "easting": 452867,
@@ -2079,7 +2079,7 @@ module.exports = {
     "naptanCode": "oxfajmja",
     "northing": 206689
   },
-  "oxfgdjdm": {
+  "340001746OUB": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001746OUB",
     "atcoCode": "340001746OUB",
     "easting": 456926,
@@ -2090,7 +2090,7 @@ module.exports = {
     "naptanCode": "oxfgdjdm",
     "northing": 210910
   },
-  "oxfgatmw": {
+  "340001718ENT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001718ENT",
     "atcoCode": "340001718ENT",
     "easting": 461117,
@@ -2101,7 +2101,7 @@ module.exports = {
     "naptanCode": "oxfgatmw",
     "northing": 205148
   },
-  "oxfgawaw": {
+  "340001714OXH": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001714OXH",
     "atcoCode": "340001714OXH",
     "easting": 449531,
@@ -2112,7 +2112,7 @@ module.exports = {
     "naptanCode": "oxfgawaw",
     "northing": 210002
   },
-  "oxfgatda": {
+  "340001701WST": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001701WST",
     "atcoCode": "340001701WST",
     "easting": 457863,
@@ -2123,7 +2123,7 @@ module.exports = {
     "naptanCode": "oxfgatda",
     "northing": 207325
   },
-  "oxfgataw": {
+  "340001701EST": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001701EST",
     "atcoCode": "340001701EST",
     "easting": 458016,
@@ -2134,7 +2134,7 @@ module.exports = {
     "naptanCode": "oxfgataw",
     "northing": 207291
   },
-  "oxfgatdg": {
+  "340001700WT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001700WT",
     "atcoCode": "340001700WT",
     "easting": 459558,
@@ -2145,7 +2145,7 @@ module.exports = {
     "naptanCode": "oxfgatdg",
     "northing": 206256
   },
-  "oxfgatdj": {
+  "340001699WST": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001699WST",
     "atcoCode": "340001699WST",
     "easting": 459527,
@@ -2156,7 +2156,7 @@ module.exports = {
     "naptanCode": "oxfgatdj",
     "northing": 206074
   },
-  "oxfgatdm": {
+  "340001698CPS": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001698CPS",
     "atcoCode": "340001698CPS",
     "easting": 460454,
@@ -2167,7 +2167,7 @@ module.exports = {
     "naptanCode": "oxfgatdm",
     "northing": 205988
   },
-  "oxfgatgt": {
+  "340001693KA": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001693KA",
     "atcoCode": "340001693KA",
     "easting": 461028,
@@ -2178,7 +2178,7 @@ module.exports = {
     "naptanCode": "oxfgatgt",
     "northing": 205235
   },
-  "oxfgatwd": {
+  "340001687OAV": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001687OAV",
     "atcoCode": "340001687OAV",
     "easting": 460557,
@@ -2189,7 +2189,7 @@ module.exports = {
     "naptanCode": "oxfgatwd",
     "northing": 205517
   },
-  "oxfgawmw": {
+  "340001687CAV": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001687CAV",
     "atcoCode": "340001687CAV",
     "easting": 460537,
@@ -2200,7 +2200,7 @@ module.exports = {
     "naptanCode": "oxfgawmw",
     "northing": 205518
   },
-  "oxfgawpa": {
+  "340001686OAR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001686OAR",
     "atcoCode": "340001686OAR",
     "easting": 460359,
@@ -2211,7 +2211,7 @@ module.exports = {
     "naptanCode": "oxfgawpa",
     "northing": 205618
   },
-  "oxfgawpd": {
+  "340001686CAR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001686CAR",
     "atcoCode": "340001686CAR",
     "easting": 460266,
@@ -2222,7 +2222,7 @@ module.exports = {
     "naptanCode": "oxfgawpd",
     "northing": 205652
   },
-  "oxfgawpj": {
+  "340001685OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001685OPP",
     "atcoCode": "340001685OPP",
     "easting": 459501,
@@ -2233,7 +2233,7 @@ module.exports = {
     "naptanCode": "oxfgawpj",
     "northing": 205838
   },
-  "oxfgawpm": {
+  "340001684OBC": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001684OBC",
     "atcoCode": "340001684OBC",
     "easting": 459163,
@@ -2244,7 +2244,7 @@ module.exports = {
     "naptanCode": "oxfgawpm",
     "northing": 205758
   },
-  "oxfgawpw": {
+  "340001683OLR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001683OLR",
     "atcoCode": "340001683OLR",
     "easting": 457897,
@@ -2255,7 +2255,7 @@ module.exports = {
     "naptanCode": "oxfgawpw",
     "northing": 204998
   },
-  "oxfgawtj": {
+  "340001679OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001679OUT",
     "atcoCode": "340001679OUT",
     "easting": 455621,
@@ -2266,7 +2266,7 @@ module.exports = {
     "naptanCode": "oxfgawtj",
     "northing": 204565
   },
-  "oxfgawmt": {
+  "340001679OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001679OPP",
     "atcoCode": "340001679OPP",
     "easting": 455642,
@@ -2277,7 +2277,7 @@ module.exports = {
     "naptanCode": "oxfgawmt",
     "northing": 204544
   },
-  "oxfgawtw": {
+  "340001678OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001678OPP",
     "atcoCode": "340001678OPP",
     "easting": 460420,
@@ -2288,7 +2288,7 @@ module.exports = {
     "naptanCode": "oxfgawtw",
     "northing": 198757
   },
-  "oxfawpgw": {
+  "340001677WES": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001677WES",
     "atcoCode": "340001677WES",
     "easting": 457430,
@@ -2299,7 +2299,7 @@ module.exports = {
     "naptanCode": "oxfawpgw",
     "northing": 204690
   },
-  "oxfgdadg": {
+  "340001676OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001676OUT",
     "atcoCode": "340001676OUT",
     "easting": 457186,
@@ -2310,7 +2310,7 @@ module.exports = {
     "naptanCode": "oxfgdadg",
     "northing": 204712
   },
-  "oxfawpja": {
+  "340001676OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001676OPP",
     "atcoCode": "340001676OPP",
     "easting": 457241,
@@ -2321,7 +2321,7 @@ module.exports = {
     "naptanCode": "oxfawpja",
     "northing": 204704
   },
-  "oxfgdpta": {
+  "340001639OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001639OUT",
     "atcoCode": "340001639OUT",
     "easting": 459316,
@@ -2332,7 +2332,7 @@ module.exports = {
     "naptanCode": "oxfgdpta",
     "northing": 198856
   },
-  "oxfgdpmt": {
+  "340001639OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001639OPP",
     "atcoCode": "340001639OPP",
     "easting": 459329,
@@ -2343,7 +2343,7 @@ module.exports = {
     "naptanCode": "oxfgdpmt",
     "northing": 198815
   },
-  "oxfgdtdm": {
+  "340001638OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001638OPP",
     "atcoCode": "340001638OPP",
     "easting": 457275,
@@ -2354,7 +2354,7 @@ module.exports = {
     "naptanCode": "oxfgdtdm",
     "northing": 202829
   },
-  "oxfgdpjm": {
+  "340001638CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001638CNR",
     "atcoCode": "340001638CNR",
     "easting": 457302,
@@ -2365,7 +2365,7 @@ module.exports = {
     "naptanCode": "oxfgdpjm",
     "northing": 202817
   },
-  "oxfgdmwm": {
+  "340001537OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001537OPP",
     "atcoCode": "340001537OPP",
     "easting": 448201,
@@ -2376,7 +2376,7 @@ module.exports = {
     "naptanCode": "oxfgdmwm",
     "northing": 212321
   },
-  "oxfgdpdg": {
+  "340001530A": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001530A",
     "atcoCode": "340001530A",
     "easting": 453941,
@@ -2387,7 +2387,7 @@ module.exports = {
     "naptanCode": "oxfgdpdg",
     "northing": 206188
   },
-  "oxfgdmwj": {
+  "340001528OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001528OUT",
     "atcoCode": "340001528OUT",
     "easting": 454762,
@@ -2398,7 +2398,7 @@ module.exports = {
     "naptanCode": "oxfgdmwj",
     "northing": 206516
   },
-  "oxfgdpdm": {
+  "340001528OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001528OPP",
     "atcoCode": "340001528OPP",
     "easting": 454779,
@@ -2409,7 +2409,7 @@ module.exports = {
     "naptanCode": "oxfgdpdm",
     "northing": 206507
   },
-  "oxfgmatp": {
+  "340001527OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001527OPP",
     "atcoCode": "340001527OPP",
     "easting": 454506,
@@ -2420,7 +2420,7 @@ module.exports = {
     "naptanCode": "oxfgmatp",
     "northing": 205970
   },
-  "oxfgdpdp": {
+  "340001527OCD": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001527OCD",
     "atcoCode": "340001527OCD",
     "easting": 454381,
@@ -2431,7 +2431,7 @@ module.exports = {
     "naptanCode": "oxfgdpdp",
     "northing": 205678
   },
-  "oxfgdpdt": {
+  "340001527ENT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001527ENT",
     "atcoCode": "340001527ENT",
     "easting": 454270,
@@ -2442,7 +2442,7 @@ module.exports = {
     "naptanCode": "oxfgdpdt",
     "northing": 206049
   },
-  "oxfawgtj": {
+  "340001527EAS": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001527EAS",
     "atcoCode": "340001527EAS",
     "easting": 454494,
@@ -2453,7 +2453,7 @@ module.exports = {
     "naptanCode": "oxfawgtj",
     "northing": 205978
   },
-  "oxfgdpdw": {
+  "340001527CHS": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001527CHS",
     "atcoCode": "340001527CHS",
     "easting": 454235,
@@ -2464,7 +2464,7 @@ module.exports = {
     "naptanCode": "oxfgdpdw",
     "northing": 205745
   },
-  "oxfgdpga": {
+  "340001526OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001526OUT",
     "atcoCode": "340001526OUT",
     "easting": 454560,
@@ -2475,7 +2475,7 @@ module.exports = {
     "naptanCode": "oxfgdpga",
     "northing": 206448
   },
-  "oxfgdpgd": {
+  "340001526OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001526OPP",
     "atcoCode": "340001526OPP",
     "easting": 454558,
@@ -2486,7 +2486,7 @@ module.exports = {
     "naptanCode": "oxfgdpgd",
     "northing": 206458
   },
-  "oxfagtdg": {
+  "340001491OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001491OPP",
     "atcoCode": "340001491OPP",
     "easting": 453450,
@@ -2497,7 +2497,7 @@ module.exports = {
     "naptanCode": "oxfagtdg",
     "northing": 201825
   },
-  "oxfagtdj": {
+  "340001491CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001491CNR",
     "atcoCode": "340001491CNR",
     "easting": 453539,
@@ -2508,7 +2508,7 @@ module.exports = {
     "naptanCode": "oxfagtdj",
     "northing": 201754
   },
-  "oxfagpmd": {
+  "340001482OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001482OPP",
     "atcoCode": "340001482OPP",
     "easting": 456450,
@@ -2519,7 +2519,7 @@ module.exports = {
     "naptanCode": "oxfagpmd",
     "northing": 200520
   },
-  "oxfagwdm": {
+  "340001465OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001465OUT",
     "atcoCode": "340001465OUT",
     "easting": 455239,
@@ -2530,7 +2530,7 @@ module.exports = {
     "naptanCode": "oxfagwdm",
     "northing": 199278
   },
-  "oxfapwdg": {
+  "340001465OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001465OPP",
     "atcoCode": "340001465OPP",
     "easting": 455270,
@@ -2541,7 +2541,7 @@ module.exports = {
     "naptanCode": "oxfapwdg",
     "northing": 199249
   },
-  "oxfgmtmp": {
+  "340003331HHC": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003331HHC",
     "atcoCode": "340003331HHC",
     "easting": 453359,
@@ -2552,7 +2552,7 @@ module.exports = {
     "naptanCode": "oxfgmtmp",
     "northing": 206595
   },
-  "oxfawgpd": {
+  "34000400018": {
     "_about": "http://transport.data.gov.uk/id/stop-point/34000400018",
     "atcoCode": "34000400018",
     "easting": 450206,
@@ -2563,7 +2563,7 @@ module.exports = {
     "naptanCode": "oxfawgpd",
     "northing": 208348
   },
-  "oxfawgpa": {
+  "34000400043": {
     "_about": "http://transport.data.gov.uk/id/stop-point/34000400043",
     "atcoCode": "34000400043",
     "easting": 450214,
@@ -2574,7 +2574,7 @@ module.exports = {
     "naptanCode": "oxfawgpa",
     "northing": 208346
   },
-  "oxfawgmw": {
+  "340004000SOU": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004000SOU",
     "atcoCode": "340004000SOU",
     "easting": 450228,
@@ -2585,7 +2585,7 @@ module.exports = {
     "naptanCode": "oxfawgmw",
     "northing": 208235
   },
-  "oxfawgmt": {
+  "340004001BAN": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004001BAN",
     "atcoCode": "340004001BAN",
     "easting": 450447,
@@ -2596,7 +2596,7 @@ module.exports = {
     "naptanCode": "oxfawgmt",
     "northing": 208448
   },
-  "oxfawpmt": {
+  "340004058SOU": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004058SOU",
     "atcoCode": "340004058SOU",
     "easting": 450630,
@@ -2607,7 +2607,7 @@ module.exports = {
     "naptanCode": "oxfawpmt",
     "northing": 198660
   },
-  "oxfawpmp": {
+  "340004059NOR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004059NOR",
     "atcoCode": "340004059NOR",
     "easting": 450212,
@@ -2618,7 +2618,7 @@ module.exports = {
     "naptanCode": "oxfawpmp",
     "northing": 198901
   },
-  "oxfgpagm": {
+  "340004059SOU": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004059SOU",
     "atcoCode": "340004059SOU",
     "easting": 450218,
@@ -2629,7 +2629,7 @@ module.exports = {
     "naptanCode": "oxfgpagm",
     "northing": 198890
   },
-  "oxfawpmj": {
+  "340004060NOR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004060NOR",
     "atcoCode": "340004060NOR",
     "easting": 449929,
@@ -2640,7 +2640,7 @@ module.exports = {
     "naptanCode": "oxfawpmj",
     "northing": 198834
   },
-  "oxfawpma": {
+  "340004063NOR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004063NOR",
     "atcoCode": "340004063NOR",
     "easting": 449029,
@@ -2651,7 +2651,7 @@ module.exports = {
     "naptanCode": "oxfawpma",
     "northing": 198143
   },
-  "oxfgmapm": {
+  "340004063SOU": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004063SOU",
     "atcoCode": "340004063SOU",
     "easting": 449035,
@@ -2662,7 +2662,7 @@ module.exports = {
     "naptanCode": "oxfgmapm",
     "northing": 198153
   },
-  "oxfgmgwd": {
+  "340004092EAS": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004092EAS",
     "atcoCode": "340004092EAS",
     "easting": 449834,
@@ -2673,7 +2673,7 @@ module.exports = {
     "naptanCode": "oxfgmgwd",
     "northing": 210298
   },
-  "oxfgmgwg": {
+  "340004092WES": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004092WES",
     "atcoCode": "340004092WES",
     "easting": 449838,
@@ -2684,7 +2684,7 @@ module.exports = {
     "naptanCode": "oxfgmgwg",
     "northing": 210291
   },
-  "oxfgmgtj": {
+  "340004093EAS": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004093EAS",
     "atcoCode": "340004093EAS",
     "easting": 451094,
@@ -2695,7 +2695,7 @@ module.exports = {
     "naptanCode": "oxfgmgtj",
     "northing": 208429
   },
-  "oxfgmjad": {
+  "340004094EAS": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004094EAS",
     "atcoCode": "340004094EAS",
     "easting": 452868,
@@ -2706,7 +2706,7 @@ module.exports = {
     "naptanCode": "oxfgmjad",
     "northing": 203263
   },
-  "oxfgmjaj": {
+  "340004094WES": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004094WES",
     "atcoCode": "340004094WES",
     "easting": 452873,
@@ -2717,7 +2717,7 @@ module.exports = {
     "naptanCode": "oxfgmjaj",
     "northing": 203257
   },
-  "oxfgmgwp": {
+  "340004095EAS": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004095EAS",
     "atcoCode": "340004095EAS",
     "easting": 452820,
@@ -2728,7 +2728,7 @@ module.exports = {
     "naptanCode": "oxfgmgwp",
     "northing": 203073
   },
-  "oxfgmgmw": {
+  "340004095WES": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004095WES",
     "atcoCode": "340004095WES",
     "easting": 452820,
@@ -2739,7 +2739,7 @@ module.exports = {
     "naptanCode": "oxfgmgmw",
     "northing": 203064
   },
-  "oxfgmgpa": {
+  "340004096EAS": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004096EAS",
     "atcoCode": "340004096EAS",
     "easting": 453050,
@@ -2750,7 +2750,7 @@ module.exports = {
     "naptanCode": "oxfgmgpa",
     "northing": 203098
   },
-  "oxfgmgpd": {
+  "340004096WES": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004096WES",
     "atcoCode": "340004096WES",
     "easting": 453049,
@@ -2761,7 +2761,7 @@ module.exports = {
     "naptanCode": "oxfgmgpd",
     "northing": 203090
   },
-  "oxfgmgpg": {
+  "340004097SOU": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004097SOU",
     "atcoCode": "340004097SOU",
     "easting": 453177,
@@ -2772,7 +2772,7 @@ module.exports = {
     "naptanCode": "oxfgmgpg",
     "northing": 203030
   },
-  "oxfgmdmg": {
+  "340004098EAS": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004098EAS",
     "atcoCode": "340004098EAS",
     "easting": 453291,
@@ -2783,7 +2783,7 @@ module.exports = {
     "naptanCode": "oxfgmdmg",
     "northing": 203010
   },
-  "oxfgmdpd": {
+  "340004099EAS": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004099EAS",
     "atcoCode": "340004099EAS",
     "easting": 453589,
@@ -2794,7 +2794,7 @@ module.exports = {
     "naptanCode": "oxfgmdpd",
     "northing": 203191
   },
-  "oxfgmjgt": {
+  "340004099WES": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004099WES",
     "atcoCode": "340004099WES",
     "easting": 453595,
@@ -2805,7 +2805,7 @@ module.exports = {
     "naptanCode": "oxfgmjgt",
     "northing": 203185
   },
-  "oxfgmjma": {
+  "340004100NOR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004100NOR",
     "atcoCode": "340004100NOR",
     "easting": 453581,
@@ -2816,7 +2816,7 @@ module.exports = {
     "naptanCode": "oxfgmjma",
     "northing": 203464
   },
-  "oxfgmgdj": {
+  "340004100SOU": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004100SOU",
     "atcoCode": "340004100SOU",
     "easting": 453590,
@@ -2827,7 +2827,7 @@ module.exports = {
     "naptanCode": "oxfgmgdj",
     "northing": 203467
   },
-  "oxfgmdpw": {
+  "340004101NOR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004101NOR",
     "atcoCode": "340004101NOR",
     "easting": 453478,
@@ -2838,7 +2838,7 @@ module.exports = {
     "naptanCode": "oxfgmdpw",
     "northing": 203572
   },
-  "oxfgmdtj": {
+  "340004102EAS": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004102EAS",
     "atcoCode": "340004102EAS",
     "easting": 453555,
@@ -2849,7 +2849,7 @@ module.exports = {
     "naptanCode": "oxfgmdtj",
     "northing": 203597
   },
-  "oxfgmdtm": {
+  "340004102WES": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004102WES",
     "atcoCode": "340004102WES",
     "easting": 453551,
@@ -2860,7 +2860,7 @@ module.exports = {
     "naptanCode": "oxfgmdtm",
     "northing": 203590
   },
-  "oxfgmdtp": {
+  "340004103EAS": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004103EAS",
     "atcoCode": "340004103EAS",
     "easting": 453733,
@@ -2871,7 +2871,7 @@ module.exports = {
     "naptanCode": "oxfgmdtp",
     "northing": 203786
   },
-  "oxfgmdtw": {
+  "340004104NOR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004104NOR",
     "atcoCode": "340004104NOR",
     "easting": 453874,
@@ -2882,7 +2882,7 @@ module.exports = {
     "naptanCode": "oxfgmdtw",
     "northing": 203897
   },
-  "oxfgmdpt": {
+  "340004104SOU": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004104SOU",
     "atcoCode": "340004104SOU",
     "easting": 453883,
@@ -2893,7 +2893,7 @@ module.exports = {
     "naptanCode": "oxfgmdpt",
     "northing": 203900
   },
-  "oxfgmdwa": {
+  "340004105WES": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004105WES",
     "atcoCode": "340004105WES",
     "easting": 453167,
@@ -2904,7 +2904,7 @@ module.exports = {
     "naptanCode": "oxfgmdwa",
     "northing": 204719
   },
-  "oxfgmdwd": {
+  "340004106NOR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004106NOR",
     "atcoCode": "340004106NOR",
     "easting": 452768,
@@ -2915,7 +2915,7 @@ module.exports = {
     "naptanCode": "oxfgmdwd",
     "northing": 203790
   },
-  "oxfgmdwj": {
+  "340004106SOU": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004106SOU",
     "atcoCode": "340004106SOU",
     "easting": 452776,
@@ -2926,7 +2926,7 @@ module.exports = {
     "naptanCode": "oxfgmdwj",
     "northing": 203788
   },
-  "oxfgmgdw": {
+  "340004107SOU": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004107SOU",
     "atcoCode": "340004107SOU",
     "easting": 454912,
@@ -2937,7 +2937,7 @@ module.exports = {
     "naptanCode": "oxfgmgdw",
     "northing": 207069
   },
-  "oxfgmgtd": {
+  "340004108SOU": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004108SOU",
     "atcoCode": "340004108SOU",
     "easting": 455334,
@@ -2948,7 +2948,7 @@ module.exports = {
     "naptanCode": "oxfgmgtd",
     "northing": 206969
   },
-  "oxfgmjaw": {
+  "340004109EAS": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004109EAS",
     "atcoCode": "340004109EAS",
     "easting": 455290,
@@ -2959,7 +2959,7 @@ module.exports = {
     "naptanCode": "oxfgmjaw",
     "northing": 207286
   },
-  "oxfgmgtg": {
+  "340004109WES": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004109WES",
     "atcoCode": "340004109WES",
     "easting": 455295,
@@ -2970,7 +2970,7 @@ module.exports = {
     "naptanCode": "oxfgmgtg",
     "northing": 207280
   },
-  "oxfgmjam": {
+  "340004110SOU": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004110SOU",
     "atcoCode": "340004110SOU",
     "easting": 455169,
@@ -2981,7 +2981,7 @@ module.exports = {
     "naptanCode": "oxfgmjam",
     "northing": 207297
   },
-  "oxfgmjpw": {
+  "340004111NOR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004111NOR",
     "atcoCode": "340004111NOR",
     "easting": 454795,
@@ -2992,7 +2992,7 @@ module.exports = {
     "naptanCode": "oxfgmjpw",
     "northing": 205508
   },
-  "oxfgmjpt": {
+  "340004111SOU": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004111SOU",
     "atcoCode": "340004111SOU",
     "easting": 454803,
@@ -3003,7 +3003,7 @@ module.exports = {
     "naptanCode": "oxfgmjpt",
     "northing": 205512
   },
-  "oxfgmjpd": {
+  "340004112WES": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004112WES",
     "atcoCode": "340004112WES",
     "easting": 454937,
@@ -3014,7 +3014,7 @@ module.exports = {
     "naptanCode": "oxfgmjpd",
     "northing": 205468
   },
-  "oxfgmjpa": {
+  "340004113NOR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004113NOR",
     "atcoCode": "340004113NOR",
     "easting": 455035,
@@ -3025,7 +3025,7 @@ module.exports = {
     "naptanCode": "oxfgmjpa",
     "northing": 205567
   },
-  "oxfgmjmw": {
+  "340004113SOU": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004113SOU",
     "atcoCode": "340004113SOU",
     "easting": 455043,
@@ -3036,7 +3036,7 @@ module.exports = {
     "naptanCode": "oxfgmjmw",
     "northing": 205569
   },
-  "oxfgmjmj": {
+  "340004114SOU": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004114SOU",
     "atcoCode": "340004114SOU",
     "easting": 455122,
@@ -3047,7 +3047,7 @@ module.exports = {
     "naptanCode": "oxfgmjmj",
     "northing": 205762
   },
-  "oxfgmjga": {
+  "340004115NOR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004115NOR",
     "atcoCode": "340004115NOR",
     "easting": 455406,
@@ -3058,7 +3058,7 @@ module.exports = {
     "naptanCode": "oxfgmjga",
     "northing": 204827
   },
-  "oxfgmjdt": {
+  "340004115SOU": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004115SOU",
     "atcoCode": "340004115SOU",
     "easting": 455411,
@@ -3069,7 +3069,7 @@ module.exports = {
     "naptanCode": "oxfgmjdt",
     "northing": 204820
   },
-  "oxfgmjmg": {
+  "340004115WES": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004115WES",
     "atcoCode": "340004115WES",
     "easting": 455280,
@@ -3080,7 +3080,7 @@ module.exports = {
     "naptanCode": "oxfgmjmg",
     "northing": 205500
   },
-  "oxfgmjda": {
+  "340004116SOU": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004116SOU",
     "atcoCode": "340004116SOU",
     "easting": 455119,
@@ -3091,7 +3091,7 @@ module.exports = {
     "naptanCode": "oxfgmjda",
     "northing": 204488
   },
-  "oxfgmjdm": {
+  "340004117EAS": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004117EAS",
     "atcoCode": "340004117EAS",
     "easting": 455155,
@@ -3102,7 +3102,7 @@ module.exports = {
     "naptanCode": "oxfgmjdm",
     "northing": 204342
   },
-  "oxfgmjdg": {
+  "340004117WES": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004117WES",
     "atcoCode": "340004117WES",
     "easting": 455150,
@@ -3113,7 +3113,7 @@ module.exports = {
     "naptanCode": "oxfgmjdg",
     "northing": 204335
   },
-  "oxfgmjat": {
+  "340004118EAS": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004118EAS",
     "atcoCode": "340004118EAS",
     "easting": 455057,
@@ -3124,7 +3124,7 @@ module.exports = {
     "naptanCode": "oxfgmjat",
     "northing": 204262
   },
-  "oxfgmjdp": {
+  "340004118NOR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004118NOR",
     "atcoCode": "340004118NOR",
     "easting": 455222,
@@ -3135,7 +3135,7 @@ module.exports = {
     "naptanCode": "oxfgmjdp",
     "northing": 204247
   },
-  "oxfgmjgw": {
+  "340004118SOU": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004118SOU",
     "atcoCode": "340004118SOU",
     "easting": 455230,
@@ -3146,7 +3146,7 @@ module.exports = {
     "naptanCode": "oxfgmjgw",
     "northing": 204244
   },
-  "oxfgmjdw": {
+  "340004118WES": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004118WES",
     "atcoCode": "340004118WES",
     "easting": 455051,
@@ -3157,7 +3157,7 @@ module.exports = {
     "naptanCode": "oxfgmjdw",
     "northing": 204255
   },
-  "oxfgmatd": {
+  "34004138OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/34004138OPP",
     "atcoCode": "34004138OPP",
     "easting": 449666,
@@ -3168,7 +3168,7 @@ module.exports = {
     "naptanCode": "oxfgmatd",
     "northing": 198196
   },
-  "oxfadmad": {
+  "340001203GRN": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001203GRN",
     "atcoCode": "340001203GRN",
     "easting": 455822,
@@ -3179,7 +3179,7 @@ module.exports = {
     "naptanCode": "oxfadmad",
     "northing": 202249
   },
-  "oxfadagj": {
+  "340001134OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001134OPP",
     "atcoCode": "340001134OPP",
     "easting": 453250,
@@ -3190,7 +3190,7 @@ module.exports = {
     "naptanCode": "oxfadagj",
     "northing": 204116
   },
-  "oxfadagm": {
+  "340001134CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001134CNR",
     "atcoCode": "340001134CNR",
     "easting": 453244,
@@ -3201,7 +3201,7 @@ module.exports = {
     "naptanCode": "oxfadagm",
     "northing": 204107
   },
-  "oxfadamt": {
+  "340001133CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001133CNR",
     "atcoCode": "340001133CNR",
     "easting": 453125,
@@ -3212,7 +3212,7 @@ module.exports = {
     "naptanCode": "oxfadamt",
     "northing": 204247
   },
-  "oxfgjtwj": {
+  "340001132JER": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001132JER",
     "atcoCode": "340001132JER",
     "easting": 453363,
@@ -3223,7 +3223,7 @@ module.exports = {
     "naptanCode": "oxfgjtwj",
     "northing": 203308
   },
-  "oxfadagw": {
+  "340001132DSH": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001132DSH",
     "atcoCode": "340001132DSH",
     "easting": 453313,
@@ -3234,7 +3234,7 @@ module.exports = {
     "naptanCode": "oxfadagw",
     "northing": 203303
   },
-  "oxfadada": {
+  "340001131OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001131OPP",
     "atcoCode": "340001131OPP",
     "easting": 452762,
@@ -3245,7 +3245,7 @@ module.exports = {
     "naptanCode": "oxfadada",
     "northing": 205003
   },
-  "oxfadajm": {
+  "340001130ENT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001130ENT",
     "atcoCode": "340001130ENT",
     "easting": 452532,
@@ -3256,7 +3256,7 @@ module.exports = {
     "naptanCode": "oxfadajm",
     "northing": 205422
   },
-  "oxfadajp": {
+  "340001129OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001129OPP",
     "atcoCode": "340001129OPP",
     "easting": 452872,
@@ -3267,7 +3267,7 @@ module.exports = {
     "naptanCode": "oxfadajp",
     "northing": 204827
   },
-  "oxfadama": {
+  "340001128CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001128CNR",
     "atcoCode": "340001128CNR",
     "easting": 452612,
@@ -3278,7 +3278,7 @@ module.exports = {
     "naptanCode": "oxfadama",
     "northing": 205250
   },
-  "oxfadamd": {
+  "340001127OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001127OPP",
     "atcoCode": "340001127OPP",
     "easting": 453087,
@@ -3289,7 +3289,7 @@ module.exports = {
     "naptanCode": "oxfadamd",
     "northing": 204359
   },
-  "oxfadamg": {
+  "340001127CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001127CNR",
     "atcoCode": "340001127CNR",
     "easting": 453022,
@@ -3300,7 +3300,7 @@ module.exports = {
     "naptanCode": "oxfadamg",
     "northing": 204478
   },
-  "oxfadamj": {
+  "340001126YOR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001126YOR",
     "atcoCode": "340001126YOR",
     "easting": 452503,
@@ -3311,7 +3311,7 @@ module.exports = {
     "naptanCode": "oxfadamj",
     "northing": 206025
   },
-  "oxfadgjm": {
+  "340001126STH": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001126STH",
     "atcoCode": "340001126STH",
     "easting": 452344,
@@ -3322,7 +3322,7 @@ module.exports = {
     "naptanCode": "oxfadgjm",
     "northing": 205831
   },
-  "oxfadatw": {
+  "340001126DAW": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001126DAW",
     "atcoCode": "340001126DAW",
     "easting": 452421,
@@ -3333,7 +3333,7 @@ module.exports = {
     "naptanCode": "oxfadatw",
     "northing": 205992
   },
-  "oxfadgpm": {
+  "340001112WES": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001112WES",
     "atcoCode": "340001112WES",
     "easting": 449166,
@@ -3344,7 +3344,7 @@ module.exports = {
     "naptanCode": "oxfadgpm",
     "northing": 205512
   },
-  "oxfadgwp": {
+  "340001111OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001111OUT",
     "atcoCode": "340001111OUT",
     "easting": 448532,
@@ -3355,7 +3355,7 @@ module.exports = {
     "naptanCode": "oxfadgwp",
     "northing": 206119
   },
-  "oxfadgwt": {
+  "340001111OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001111OPP",
     "atcoCode": "340001111OPP",
     "easting": 448505,
@@ -3366,7 +3366,7 @@ module.exports = {
     "naptanCode": "oxfadgwt",
     "northing": 206126
   },
-  "oxfadjag": {
+  "340001109OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001109OPP",
     "atcoCode": "340001109OPP",
     "easting": 448216,
@@ -3377,7 +3377,7 @@ module.exports = {
     "naptanCode": "oxfadjag",
     "northing": 205971
   },
-  "oxfadjda": {
+  "340001105OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001105OPP",
     "atcoCode": "340001105OPP",
     "easting": 448266,
@@ -3388,7 +3388,7 @@ module.exports = {
     "naptanCode": "oxfadjda",
     "northing": 205937
   },
-  "oxfadgaw": {
+  "340001103CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001103CNR",
     "atcoCode": "340001103CNR",
     "easting": 448021,
@@ -3399,7 +3399,7 @@ module.exports = {
     "naptanCode": "oxfadgaw",
     "northing": 205955
   },
-  "oxfadgdm": {
+  "340001100FIN": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001100FIN",
     "atcoCode": "340001100FIN",
     "easting": 448629,
@@ -3410,7 +3410,7 @@ module.exports = {
     "naptanCode": "oxfadgdm",
     "northing": 205869
   },
-  "oxfadgdp": {
+  "340001099OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001099OUT",
     "atcoCode": "340001099OUT",
     "easting": 448159,
@@ -3421,7 +3421,7 @@ module.exports = {
     "naptanCode": "oxfadgdp",
     "northing": 205211
   },
-  "oxfadgdt": {
+  "340001098OPL": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001098OPL",
     "atcoCode": "340001098OPL",
     "easting": 448712,
@@ -3432,7 +3432,7 @@ module.exports = {
     "naptanCode": "oxfadgdt",
     "northing": 205195
   },
-  "oxfadgdw": {
+  "340001097OPS": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001097OPS",
     "atcoCode": "340001097OPS",
     "easting": 448724,
@@ -3443,7 +3443,7 @@ module.exports = {
     "naptanCode": "oxfadgdw",
     "northing": 205506
   },
-  "oxfadgja": {
+  "340001096OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001096OPP",
     "atcoCode": "340001096OPP",
     "easting": 448477,
@@ -3454,7 +3454,7 @@ module.exports = {
     "naptanCode": "oxfadgja",
     "northing": 205177
   },
-  "oxfadgjd": {
+  "340001095OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001095OUT",
     "atcoCode": "340001095OUT",
     "easting": 449201,
@@ -3465,7 +3465,7 @@ module.exports = {
     "naptanCode": "oxfadgjd",
     "northing": 206290
   },
-  "oxfadgpj": {
+  "340001095CP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001095CP",
     "atcoCode": "340001095CP",
     "easting": 449176,
@@ -3476,7 +3476,7 @@ module.exports = {
     "naptanCode": "oxfadgpj",
     "northing": 206453
   },
-  "oxfadgjp": {
+  "340001094RCR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001094RCR",
     "atcoCode": "340001094RCR",
     "easting": 449791,
@@ -3487,7 +3487,7 @@ module.exports = {
     "naptanCode": "oxfadgjp",
     "northing": 206211
   },
-  "oxfadgat": {
+  "340001094OPR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001094OPR",
     "atcoCode": "340001094OPR",
     "easting": 449782,
@@ -3498,7 +3498,7 @@ module.exports = {
     "naptanCode": "oxfadgat",
     "northing": 206228
   },
-  "oxfadgjw": {
+  "340001093OPB": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001093OPB",
     "atcoCode": "340001093OPB",
     "easting": 450221,
@@ -3509,7 +3509,7 @@ module.exports = {
     "naptanCode": "oxfadgjw",
     "northing": 206229
   },
-  "oxfadgmg": {
+  "340001092CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001092CNR",
     "atcoCode": "340001092CNR",
     "easting": 449487,
@@ -3520,7 +3520,7 @@ module.exports = {
     "naptanCode": "oxfadgmg",
     "northing": 206246
   },
-  "oxfadgmp": {
+  "340001091ENT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001091ENT",
     "atcoCode": "340001091ENT",
     "easting": 448960,
@@ -3531,7 +3531,7 @@ module.exports = {
     "naptanCode": "oxfadgmp",
     "northing": 206298
   },
-  "oxfagajm": {
+  "340001084SOU": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001084SOU",
     "atcoCode": "340001084SOU",
     "easting": 450687,
@@ -3542,7 +3542,7 @@ module.exports = {
     "naptanCode": "oxfagajm",
     "northing": 199980
   },
-  "oxfagajp": {
+  "340001084NOR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001084NOR",
     "atcoCode": "340001084NOR",
     "easting": 450633,
@@ -3553,7 +3553,7 @@ module.exports = {
     "naptanCode": "oxfagajp",
     "northing": 199855
   },
-  "oxfagapw": {
+  "34000107140": {
     "_about": "http://transport.data.gov.uk/id/stop-point/34000107140",
     "atcoCode": "34000107140",
     "easting": 449784,
@@ -3564,7 +3564,7 @@ module.exports = {
     "naptanCode": "oxfagapw",
     "northing": 210869
   },
-  "oxfagata": {
+  "340001070TOP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001070TOP",
     "atcoCode": "340001070TOP",
     "easting": 451274,
@@ -3575,7 +3575,7 @@ module.exports = {
     "naptanCode": "oxfagata",
     "northing": 208760
   },
-  "oxfagatj": {
+  "340001068CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001068CNR",
     "atcoCode": "340001068CNR",
     "easting": 450825,
@@ -3586,7 +3586,7 @@ module.exports = {
     "naptanCode": "oxfagatj",
     "northing": 210423
   },
-  "oxfagada": {
+  "340001067CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001067CNR",
     "atcoCode": "340001067CNR",
     "easting": 450645,
@@ -3597,7 +3597,7 @@ module.exports = {
     "naptanCode": "oxfagada",
     "northing": 210472
   },
-  "oxfagamp": {
+  "340001065CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001065CNR",
     "atcoCode": "340001065CNR",
     "easting": 450962,
@@ -3608,7 +3608,7 @@ module.exports = {
     "naptanCode": "oxfagamp",
     "northing": 210070
   },
-  "oxfgawpt": {
+  "340001684BCL": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001684BCL",
     "atcoCode": "340001684BCL",
     "easting": 459013,
@@ -3619,7 +3619,7 @@ module.exports = {
     "naptanCode": "oxfgawpt",
     "northing": 205783
   },
-  "oxfgawtp": {
+  "340001678OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001678OUT",
     "atcoCode": "340001678OUT",
     "easting": 460428,
@@ -3630,7 +3630,7 @@ module.exports = {
     "naptanCode": "oxfgawtp",
     "northing": 198751
   },
-  "oxfgdada": {
+  "340001677EAS": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001677EAS",
     "atcoCode": "340001677EAS",
     "easting": 457426,
@@ -3641,7 +3641,7 @@ module.exports = {
     "naptanCode": "oxfgdada",
     "northing": 204694
   },
-  "oxfgdmaw": {
+  "340001537OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001537OUT",
     "atcoCode": "340001537OUT",
     "easting": 448239,
@@ -3652,7 +3652,7 @@ module.exports = {
     "naptanCode": "oxfgdmaw",
     "northing": 212310
   },
-  "oxfadagd": {
+  "340001135NOR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001135NOR",
     "atcoCode": "340001135NOR",
     "easting": 453671,
@@ -3663,7 +3663,7 @@ module.exports = {
     "naptanCode": "oxfadagd",
     "northing": 203452
   },
-  "oxfagmtd": {
+  "340001387OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001387OPP",
     "atcoCode": "340001387OPP",
     "easting": 450304,
@@ -3674,7 +3674,7 @@ module.exports = {
     "naptanCode": "oxfagmtd",
     "northing": 198458
   },
-  "oxfagpam": {
+  "340001378OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001378OPP",
     "atcoCode": "340001378OPP",
     "easting": 449401,
@@ -3685,7 +3685,7 @@ module.exports = {
     "naptanCode": "oxfagpam",
     "northing": 201990
   },
-  "oxfagpaw": {
+  "340001377ENT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001377ENT",
     "atcoCode": "340001377ENT",
     "easting": 449243,
@@ -3696,7 +3696,7 @@ module.exports = {
     "naptanCode": "oxfagpaw",
     "northing": 201638
   },
-  "oxfagmaw": {
+  "340001374CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001374CNR",
     "atcoCode": "340001374CNR",
     "easting": 448930,
@@ -3707,7 +3707,7 @@ module.exports = {
     "naptanCode": "oxfagmaw",
     "northing": 199499
   },
-  "oxfawatw": {
+  "340001370OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001370OPP",
     "atcoCode": "340001370OPP",
     "easting": 455194,
@@ -3718,7 +3718,7 @@ module.exports = {
     "naptanCode": "oxfawatw",
     "northing": 206349
   },
-  "oxfagmgt": {
+  "340001366RID": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001366RID",
     "atcoCode": "340001366RID",
     "easting": 455160,
@@ -3729,7 +3729,7 @@ module.exports = {
     "naptanCode": "oxfagmgt",
     "northing": 204878
   },
-  "oxfagmjg": {
+  "340001364OPB": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001364OPB",
     "atcoCode": "340001364OPB",
     "easting": 455178,
@@ -3740,7 +3740,7 @@ module.exports = {
     "naptanCode": "oxfagmjg",
     "northing": 205276
   },
-  "oxfgmwmt": {
+  "340001332OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001332OUT",
     "atcoCode": "340001332OUT",
     "easting": 455234,
@@ -3751,7 +3751,7 @@ module.exports = {
     "naptanCode": "oxfgmwmt",
     "northing": 205930
   },
-  "oxfajgam": {
+  "340001327CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001327CNR",
     "atcoCode": "340001327CNR",
     "easting": 455037,
@@ -3762,7 +3762,7 @@ module.exports = {
     "naptanCode": "oxfajgam",
     "northing": 208020
   },
-  "oxfajgtg": {
+  "340001322OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001322OPP",
     "atcoCode": "340001322OPP",
     "easting": 454499,
@@ -3773,7 +3773,7 @@ module.exports = {
     "naptanCode": "oxfajgtg",
     "northing": 206291
   },
-  "oxfajmjm": {
+  "340001318OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001318OPP",
     "atcoCode": "340001318OPP",
     "easting": 453259,
@@ -3784,7 +3784,7 @@ module.exports = {
     "naptanCode": "oxfajmjm",
     "northing": 205959
   },
-  "oxfajmpa": {
+  "340001316OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001316OPP",
     "atcoCode": "340001316OPP",
     "easting": 453637,
@@ -3795,7 +3795,7 @@ module.exports = {
     "naptanCode": "oxfajmpa",
     "northing": 206087
   },
-  "oxfajmwg": {
+  "340001316CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001316CNR",
     "atcoCode": "340001316CNR",
     "easting": 453582,
@@ -3806,7 +3806,7 @@ module.exports = {
     "naptanCode": "oxfajmwg",
     "northing": 206037
   },
-  "oxfajmgm": {
+  "340001314OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001314OPP",
     "atcoCode": "340001314OPP",
     "easting": 453768,
@@ -3817,7 +3817,7 @@ module.exports = {
     "naptanCode": "oxfajmgm",
     "northing": 206503
   },
-  "oxfajmtd": {
+  "340001312CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001312CNR",
     "atcoCode": "340001312CNR",
     "easting": 454864,
@@ -3828,7 +3828,7 @@ module.exports = {
     "naptanCode": "oxfajmtd",
     "northing": 207261
   },
-  "oxfajmtg": {
+  "340001311OSS": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001311OSS",
     "atcoCode": "340001311OSS",
     "easting": 454225,
@@ -3839,7 +3839,7 @@ module.exports = {
     "naptanCode": "oxfajmtg",
     "northing": 206953
   },
-  "oxfajmtj": {
+  "340001311OPS": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001311OPS",
     "atcoCode": "340001311OPS",
     "easting": 454195,
@@ -3850,7 +3850,7 @@ module.exports = {
     "naptanCode": "oxfajmtj",
     "northing": 206950
   },
-  "oxfajmtm": {
+  "340001310ONR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001310ONR",
     "atcoCode": "340001310ONR",
     "easting": 455276,
@@ -3861,7 +3861,7 @@ module.exports = {
     "naptanCode": "oxfajmtm",
     "northing": 207377
   },
-  "oxfajmtp": {
+  "340001310NRC": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001310NRC",
     "atcoCode": "340001310NRC",
     "easting": 455361,
@@ -3872,7 +3872,7 @@ module.exports = {
     "naptanCode": "oxfajmtp",
     "northing": 207405
   },
-  "oxfajmtw": {
+  "340001309OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001309OUT",
     "atcoCode": "340001309OUT",
     "easting": 454493,
@@ -3883,7 +3883,7 @@ module.exports = {
     "naptanCode": "oxfajmtw",
     "northing": 207091
   },
-  "oxfajmwa": {
+  "340001309OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001309OPP",
     "atcoCode": "340001309OPP",
     "easting": 454593,
@@ -3894,7 +3894,7 @@ module.exports = {
     "naptanCode": "oxfajmwa",
     "northing": 207153
   },
-  "oxfgpmaj": {
+  "340001309COO": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001309COO",
     "atcoCode": "340001309COO",
     "easting": 454639,
@@ -3905,7 +3905,7 @@ module.exports = {
     "naptanCode": "oxfgpmaj",
     "northing": 207172
   },
-  "oxfgpmag": {
+  "340001309COI": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001309COI",
     "atcoCode": "340001309COI",
     "easting": 454584,
@@ -3916,7 +3916,7 @@ module.exports = {
     "naptanCode": "oxfgpmag",
     "northing": 207131
   },
-  "oxfgajtd": {
+  "340001309BBV": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001309BBV",
     "atcoCode": "340001309BBV",
     "easting": 454407,
@@ -3927,7 +3927,7 @@ module.exports = {
     "naptanCode": "oxfgajtd",
     "northing": 207065
   },
-  "oxfajmpd": {
+  "340001307PRC": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001307PRC",
     "atcoCode": "340001307PRC",
     "easting": 455065,
@@ -3938,7 +3938,7 @@ module.exports = {
     "naptanCode": "oxfajmpd",
     "northing": 205920
   },
-  "oxfajgtp": {
+  "340001307ARC": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001307ARC",
     "atcoCode": "340001307ARC",
     "easting": 455068,
@@ -3949,7 +3949,7 @@ module.exports = {
     "naptanCode": "oxfajgtp",
     "northing": 205914
   },
-  "oxfajgwa": {
+  "340001306PMC": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001306PMC",
     "atcoCode": "340001306PMC",
     "easting": 454981,
@@ -3960,7 +3960,7 @@ module.exports = {
     "naptanCode": "oxfajgwa",
     "northing": 205989
   },
-  "oxfajgwd": {
+  "340001305OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001305OPP",
     "atcoCode": "340001305OPP",
     "easting": 455223,
@@ -3971,7 +3971,7 @@ module.exports = {
     "naptanCode": "oxfajgwd",
     "northing": 206250
   },
-  "oxfawgpt": {
+  "340001304CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001304CNR",
     "atcoCode": "340001304CNR",
     "easting": 455243,
@@ -3982,7 +3982,7 @@ module.exports = {
     "naptanCode": "oxfawgpt",
     "northing": 206002
   },
-  "oxfajgwj": {
+  "340001303OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001303OUT",
     "atcoCode": "340001303OUT",
     "easting": 454819,
@@ -3993,7 +3993,7 @@ module.exports = {
     "naptanCode": "oxfajgwj",
     "northing": 206118
   },
-  "oxfajgwp": {
+  "340001302OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001302OPP",
     "atcoCode": "340001302OPP",
     "easting": 454616,
@@ -4004,7 +4004,7 @@ module.exports = {
     "naptanCode": "oxfajgwp",
     "northing": 206323
   },
-  "oxfajgwt": {
+  "340001302CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001302CNR",
     "atcoCode": "340001302CNR",
     "easting": 454628,
@@ -4015,7 +4015,7 @@ module.exports = {
     "naptanCode": "oxfajgwt",
     "northing": 206267
   },
-  "oxfajmad": {
+  "340001301OGC": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001301OGC",
     "atcoCode": "340001301OGC",
     "easting": 454578,
@@ -4026,7 +4026,7 @@ module.exports = {
     "naptanCode": "oxfajmad",
     "northing": 206136
   },
-  "oxfajmag": {
+  "340001301GCC": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001301GCC",
     "atcoCode": "340001301GCC",
     "easting": 454567,
@@ -4037,7 +4037,7 @@ module.exports = {
     "naptanCode": "oxfajmag",
     "northing": 206108
   },
-  "oxfajmam": {
+  "340001298WFR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001298WFR",
     "atcoCode": "340001298WFR",
     "easting": 455935,
@@ -4048,7 +4048,7 @@ module.exports = {
     "naptanCode": "oxfajmam",
     "northing": 207987
   },
-  "oxfajmaw": {
+  "340001295CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001295CNR",
     "atcoCode": "340001295CNR",
     "easting": 456057,
@@ -4059,7 +4059,7 @@ module.exports = {
     "naptanCode": "oxfajmaw",
     "northing": 207546
   },
-  "oxfajmda": {
+  "340001293OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001293OPP",
     "atcoCode": "340001293OPP",
     "easting": 455938,
@@ -4070,7 +4070,7 @@ module.exports = {
     "naptanCode": "oxfajmda",
     "northing": 207401
   },
-  "oxfajmdj": {
+  "340001292OPC": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001292OPC",
     "atcoCode": "340001292OPC",
     "easting": 455673,
@@ -4081,7 +4081,7 @@ module.exports = {
     "naptanCode": "oxfajmdj",
     "northing": 207553
   },
-  "oxfajmdm": {
+  "340001291OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001291OPP",
     "atcoCode": "340001291OPP",
     "easting": 455868,
@@ -4092,7 +4092,7 @@ module.exports = {
     "naptanCode": "oxfajmdm",
     "northing": 207333
   },
-  "oxfajmga": {
+  "340001287OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001287OPP",
     "atcoCode": "340001287OPP",
     "easting": 456001,
@@ -4103,7 +4103,7 @@ module.exports = {
     "naptanCode": "oxfajmga",
     "northing": 207117
   },
-  "oxfajmgd": {
+  "340001286BRD": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001286BRD",
     "atcoCode": "340001286BRD",
     "easting": 452501,
@@ -4114,7 +4114,7 @@ module.exports = {
     "naptanCode": "oxfajmgd",
     "northing": 209071
   },
-  "oxfgmtaj": {
+  "340001285OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001285OPP",
     "atcoCode": "340001285OPP",
     "easting": 452686,
@@ -4125,7 +4125,7 @@ module.exports = {
     "naptanCode": "oxfgmtaj",
     "northing": 208716
   },
-  "oxfgmtag": {
+  "340001284OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001284OUT",
     "atcoCode": "340001284OUT",
     "easting": 452793,
@@ -4136,7 +4136,7 @@ module.exports = {
     "naptanCode": "oxfgmtag",
     "northing": 208409
   },
-  "oxfajgdj": {
+  "340001281OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001281OPP",
     "atcoCode": "340001281OPP",
     "easting": 453126,
@@ -4147,7 +4147,7 @@ module.exports = {
     "naptanCode": "oxfajgdj",
     "northing": 208048
   },
-  "oxfatmjp": {
+  "340001281EMO": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001281EMO",
     "atcoCode": "340001281EMO",
     "easting": 453181,
@@ -4158,7 +4158,7 @@ module.exports = {
     "naptanCode": "oxfatmjp",
     "northing": 208204
   },
-  "oxfatmdt": {
+  "340001281EMC": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001281EMC",
     "atcoCode": "340001281EMC",
     "easting": 453179,
@@ -4169,7 +4169,7 @@ module.exports = {
     "naptanCode": "oxfatmdt",
     "northing": 208234
   },
-  "oxfajadg": {
+  "340001281COR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001281COR",
     "atcoCode": "340001281COR",
     "easting": 453111,
@@ -4180,7 +4180,7 @@ module.exports = {
     "naptanCode": "oxfajadg",
     "northing": 208015
   },
-  "oxfajadj": {
+  "340001280OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001280OPP",
     "atcoCode": "340001280OPP",
     "easting": 453691,
@@ -4191,7 +4191,7 @@ module.exports = {
     "naptanCode": "oxfajadj",
     "northing": 208167
   },
-  "oxfajadp": {
+  "340001279OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001279OPP",
     "atcoCode": "340001279OPP",
     "easting": 453481,
@@ -4202,7 +4202,7 @@ module.exports = {
     "naptanCode": "oxfajadp",
     "northing": 207561
   },
-  "oxfajadt": {
+  "340001279CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001279CNR",
     "atcoCode": "340001279CNR",
     "easting": 453460,
@@ -4213,7 +4213,7 @@ module.exports = {
     "naptanCode": "oxfajadt",
     "northing": 207605
   },
-  "oxfajadw": {
+  "340001278N": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001278N",
     "atcoCode": "340001278N",
     "easting": 453357,
@@ -4224,7 +4224,7 @@ module.exports = {
     "naptanCode": "oxfajadw",
     "northing": 207712
   },
-  "oxfajaga": {
+  "340001278DWA": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001278DWA",
     "atcoCode": "340001278DWA",
     "easting": 453190,
@@ -4235,7 +4235,7 @@ module.exports = {
     "naptanCode": "oxfajaga",
     "northing": 207876
   },
-  "oxfajagd": {
+  "340001276RBT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001276RBT",
     "atcoCode": "340001276RBT",
     "easting": 453843,
@@ -4246,7 +4246,7 @@ module.exports = {
     "naptanCode": "oxfajagd",
     "northing": 208113
   },
-  "oxfgmdgm": {
+  "340001276RBE": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001276RBE",
     "atcoCode": "340001276RBE",
     "easting": 453880,
@@ -4257,7 +4257,7 @@ module.exports = {
     "naptanCode": "oxfgmdgm",
     "northing": 208114
   },
-  "oxfajagm": {
+  "340001275CCC": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001275CCC",
     "atcoCode": "340001275CCC",
     "easting": 452956,
@@ -4268,7 +4268,7 @@ module.exports = {
     "naptanCode": "oxfajagm",
     "northing": 207682
   },
-  "oxfagwtw": {
+  "340001273ENT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001273ENT",
     "atcoCode": "340001273ENT",
     "easting": 452731,
@@ -4279,7 +4279,7 @@ module.exports = {
     "naptanCode": "oxfagwtw",
     "northing": 208240
   },
-  "oxfajaja": {
+  "340001272CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001272CNR",
     "atcoCode": "340001272CNR",
     "easting": 452751,
@@ -4290,7 +4290,7 @@ module.exports = {
     "naptanCode": "oxfajaja",
     "northing": 207940
   },
-  "oxfajajg": {
+  "340001271CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001271CNR",
     "atcoCode": "340001271CNR",
     "easting": 452723,
@@ -4301,7 +4301,7 @@ module.exports = {
     "naptanCode": "oxfajajg",
     "northing": 208026
   },
-  "oxfajajm": {
+  "340001270OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001270OPP",
     "atcoCode": "340001270OPP",
     "easting": 452857,
@@ -4312,7 +4312,7 @@ module.exports = {
     "naptanCode": "oxfajajm",
     "northing": 207448
   },
-  "oxfajajt": {
+  "340001269OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001269OPP",
     "atcoCode": "340001269OPP",
     "easting": 452834,
@@ -4323,7 +4323,7 @@ module.exports = {
     "naptanCode": "oxfajajt",
     "northing": 207228
   },
-  "oxfajajw": {
+  "340001269CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001269CNR",
     "atcoCode": "340001269CNR",
     "easting": 452850,
@@ -4334,7 +4334,7 @@ module.exports = {
     "naptanCode": "oxfajajw",
     "northing": 207120
   },
-  "oxfajamd": {
+  "340001268CHD": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001268CHD",
     "atcoCode": "340001268CHD",
     "easting": 452828,
@@ -4345,7 +4345,7 @@ module.exports = {
     "naptanCode": "oxfajamd",
     "northing": 208222
   },
-  "oxfajamg": {
+  "340001267EWN": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001267EWN",
     "atcoCode": "340001267EWN",
     "easting": 453030,
@@ -4356,7 +4356,7 @@ module.exports = {
     "naptanCode": "oxfajamg",
     "northing": 208014
   },
-  "oxfagwjt": {
+  "340001261OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001261OPP",
     "atcoCode": "340001261OPP",
     "easting": 454772,
@@ -4367,7 +4367,7 @@ module.exports = {
     "naptanCode": "oxfagwjt",
     "northing": 204111
   },
-  "oxfagwjw": {
+  "340001260OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001260OPP",
     "atcoCode": "340001260OPP",
     "easting": 455640,
@@ -4378,7 +4378,7 @@ module.exports = {
     "naptanCode": "oxfagwjw",
     "northing": 203442
   },
-  "oxfagwma": {
+  "340001260HAR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001260HAR",
     "atcoCode": "340001260HAR",
     "easting": 455632,
@@ -4389,7 +4389,7 @@ module.exports = {
     "naptanCode": "oxfagwma",
     "northing": 203435
   },
-  "oxfagwmd": {
+  "340001259OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001259OUT",
     "atcoCode": "340001259OUT",
     "easting": 455381,
@@ -4400,7 +4400,7 @@ module.exports = {
     "naptanCode": "oxfagwmd",
     "northing": 203668
   },
-  "oxfagwmw": {
+  "340001257OPT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001257OPT",
     "atcoCode": "340001257OPT",
     "easting": 454466,
@@ -4411,7 +4411,7 @@ module.exports = {
     "naptanCode": "oxfagwmw",
     "northing": 204247
   },
-  "oxfagwpg": {
+  "340001256OPN": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001256OPN",
     "atcoCode": "340001256OPN",
     "easting": 454252,
@@ -4422,7 +4422,7 @@ module.exports = {
     "naptanCode": "oxfagwpg",
     "northing": 204081
   },
-  "oxfagwpj": {
+  "340001256NEL": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001256NEL",
     "atcoCode": "340001256NEL",
     "easting": 454238,
@@ -4433,7 +4433,7 @@ module.exports = {
     "naptanCode": "oxfagwpj",
     "northing": 204057
   },
-  "oxfagwpm": {
+  "340001255OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001255OUT",
     "atcoCode": "340001255OUT",
     "easting": 454338,
@@ -4444,7 +4444,7 @@ module.exports = {
     "naptanCode": "oxfagwpm",
     "northing": 203926
   },
-  "oxfagwpt": {
+  "340001255OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001255OPP",
     "atcoCode": "340001255OPP",
     "easting": 454347,
@@ -4455,7 +4455,7 @@ module.exports = {
     "naptanCode": "oxfagwpt",
     "northing": 203993
   },
-  "oxfagwpw": {
+  "340001254OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001254OUT",
     "atcoCode": "340001254OUT",
     "easting": 453647,
@@ -4466,7 +4466,7 @@ module.exports = {
     "naptanCode": "oxfagwpw",
     "northing": 204013
   },
-  "oxfagwtg": {
+  "340001253CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001253CNR",
     "atcoCode": "340001253CNR",
     "easting": 454493,
@@ -4477,7 +4477,7 @@ module.exports = {
     "naptanCode": "oxfagwtg",
     "northing": 203572
   },
-  "oxfajatm": {
+  "340001252OPR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001252OPR",
     "atcoCode": "340001252OPR",
     "easting": 454254,
@@ -4488,7 +4488,7 @@ module.exports = {
     "naptanCode": "oxfajatm",
     "northing": 203598
   },
-  "oxfagwmt": {
+  "340001251OPF": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001251OPF",
     "atcoCode": "340001251OPF",
     "easting": 454541,
@@ -4499,7 +4499,7 @@ module.exports = {
     "naptanCode": "oxfagwmt",
     "northing": 203702
   },
-  "oxfajamp": {
+  "340001251OPB": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001251OPB",
     "atcoCode": "340001251OPB",
     "easting": 454642,
@@ -4510,7 +4510,7 @@ module.exports = {
     "naptanCode": "oxfajamp",
     "northing": 203625
   },
-  "oxfajdaw": {
+  "340001250FOX": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001250FOX",
     "atcoCode": "340001250FOX",
     "easting": 451959,
@@ -4521,7 +4521,7 @@ module.exports = {
     "naptanCode": "oxfajdaw",
     "northing": 204231
   },
-  "oxfajdga": {
+  "340001250CAN": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001250CAN",
     "atcoCode": "340001250CAN",
     "easting": 452000,
@@ -4532,7 +4532,7 @@ module.exports = {
     "naptanCode": "oxfajdga",
     "northing": 204227
   },
-  "oxfajdgj": {
+  "340001249CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001249CNR",
     "atcoCode": "340001249CNR",
     "easting": 452901,
@@ -4543,7 +4543,7 @@ module.exports = {
     "naptanCode": "oxfajdgj",
     "northing": 204616
   },
-  "oxfajdgm": {
+  "340001248SWI": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001248SWI",
     "atcoCode": "340001248SWI",
     "easting": 452646,
@@ -4554,7 +4554,7 @@ module.exports = {
     "naptanCode": "oxfajdgm",
     "northing": 204484
   },
-  "oxfajdgp": {
+  "340001248MED": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001248MED",
     "atcoCode": "340001248MED",
     "easting": 452546,
@@ -4565,7 +4565,7 @@ module.exports = {
     "naptanCode": "oxfajdgp",
     "northing": 204411
   },
-  "oxfajdgw": {
+  "340001247LYT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001247LYT",
     "atcoCode": "340001247LYT",
     "easting": 453585,
@@ -4576,7 +4576,7 @@ module.exports = {
     "naptanCode": "oxfajdgw",
     "northing": 204217
   },
-  "oxfajdja": {
+  "340001246OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001246OUT",
     "atcoCode": "340001246OUT",
     "easting": 453441,
@@ -4587,7 +4587,7 @@ module.exports = {
     "naptanCode": "oxfajdja",
     "northing": 204319
   },
-  "oxfajdjd": {
+  "340001246OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001246OPP",
     "atcoCode": "340001246OPP",
     "easting": 453408,
@@ -4598,7 +4598,7 @@ module.exports = {
     "naptanCode": "oxfajdjd",
     "northing": 204314
   },
-  "oxfajdjg": {
+  "340001245OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001245OUT",
     "atcoCode": "340001245OUT",
     "easting": 453199,
@@ -4609,7 +4609,7 @@ module.exports = {
     "naptanCode": "oxfajdjg",
     "northing": 204312
   },
-  "oxfajdat": {
+  "340001244CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001244CNR",
     "atcoCode": "340001244CNR",
     "easting": 453847,
@@ -4620,7 +4620,7 @@ module.exports = {
     "naptanCode": "oxfajdat",
     "northing": 202867
   },
-  "oxfgpmjd": {
+  "340001243SHW": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001243SHW",
     "atcoCode": "340001243SHW",
     "easting": 454354,
@@ -4631,7 +4631,7 @@ module.exports = {
     "naptanCode": "oxfgpmjd",
     "northing": 203180
   },
-  "oxfajdjw": {
+  "340001242OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001242OPP",
     "atcoCode": "340001242OPP",
     "easting": 454198,
@@ -4642,7 +4642,7 @@ module.exports = {
     "naptanCode": "oxfajdjw",
     "northing": 203360
   },
-  "oxfajdma": {
+  "340001240NEW": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001240NEW",
     "atcoCode": "340001240NEW",
     "easting": 453932,
@@ -4653,7 +4653,7 @@ module.exports = {
     "naptanCode": "oxfajdma",
     "northing": 203190
   },
-  "oxfajdmd": {
+  "340001240LNG": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001240LNG",
     "atcoCode": "340001240LNG",
     "easting": 453943,
@@ -4664,7 +4664,7 @@ module.exports = {
     "naptanCode": "oxfajdmd",
     "northing": 203199
   },
-  "oxfajdmg": {
+  "340001239OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001239OUT",
     "atcoCode": "340001239OUT",
     "easting": 454370,
@@ -4675,7 +4675,7 @@ module.exports = {
     "naptanCode": "oxfajdmg",
     "northing": 203289
   },
-  "oxfajdmp": {
+  "340001237LKF": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001237LKF",
     "atcoCode": "340001237LKF",
     "easting": 454029,
@@ -4686,7 +4686,7 @@ module.exports = {
     "naptanCode": "oxfajdmp",
     "northing": 202492
   },
-  "oxfajdmw": {
+  "340001236CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001236CNR",
     "atcoCode": "340001236CNR",
     "easting": 453936,
@@ -4697,7 +4697,7 @@ module.exports = {
     "naptanCode": "oxfajdmw",
     "northing": 202723
   },
-  "oxfajdpa": {
+  "340001235OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001235OPP",
     "atcoCode": "340001235OPP",
     "easting": 454141,
@@ -4708,7 +4708,7 @@ module.exports = {
     "naptanCode": "oxfajdpa",
     "northing": 202572
   },
-  "oxfajdpg": {
+  "340001233OMR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001233OMR",
     "atcoCode": "340001233OMR",
     "easting": 455116,
@@ -4719,7 +4719,7 @@ module.exports = {
     "naptanCode": "oxfajdpg",
     "northing": 202872
   },
-  "oxfajatw": {
+  "340001233OMO": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001233OMO",
     "atcoCode": "340001233OMO",
     "easting": 455180,
@@ -4730,7 +4730,7 @@ module.exports = {
     "naptanCode": "oxfajatw",
     "northing": 202818
   },
-  "oxfajdjt": {
+  "340001232CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001232CNR",
     "atcoCode": "340001232CNR",
     "easting": 455018,
@@ -4741,7 +4741,7 @@ module.exports = {
     "naptanCode": "oxfajdjt",
     "northing": 202557
   },
-  "oxfajdjm": {
+  "340001231CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001231CNR",
     "atcoCode": "340001231CNR",
     "easting": 456041,
@@ -4752,7 +4752,7 @@ module.exports = {
     "naptanCode": "oxfajdjm",
     "northing": 202768
   },
-  "oxfajapg": {
+  "340001229CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001229CNR",
     "atcoCode": "340001229CNR",
     "easting": 455526,
@@ -4763,7 +4763,7 @@ module.exports = {
     "naptanCode": "oxfajapg",
     "northing": 203166
   },
-  "oxfajapm": {
+  "340001228OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001228OPP",
     "atcoCode": "340001228OPP",
     "easting": 455307,
@@ -4774,7 +4774,7 @@ module.exports = {
     "naptanCode": "oxfajapm",
     "northing": 202651
   },
-  "oxfajapt": {
+  "340001227CNM": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001227CNM",
     "atcoCode": "340001227CNM",
     "easting": 455986,
@@ -4785,7 +4785,7 @@ module.exports = {
     "naptanCode": "oxfajapt",
     "northing": 202585
   },
-  "oxfajata": {
+  "340001225OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001225OPP",
     "atcoCode": "340001225OPP",
     "easting": 454666,
@@ -4796,7 +4796,7 @@ module.exports = {
     "naptanCode": "oxfajata",
     "northing": 203361
   },
-  "oxfajatd": {
+  "340001225CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001225CNR",
     "atcoCode": "340001225CNR",
     "easting": 454679,
@@ -4807,7 +4807,7 @@ module.exports = {
     "naptanCode": "oxfajatd",
     "northing": 203309
   },
-  "oxfajatg": {
+  "340001224CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001224CNR",
     "atcoCode": "340001224CNR",
     "easting": 455808,
@@ -4818,7 +4818,7 @@ module.exports = {
     "naptanCode": "oxfajatg",
     "northing": 202928
   },
-  "oxfajatp": {
+  "340001221OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001221OPP",
     "atcoCode": "340001221OPP",
     "easting": 455190,
@@ -4829,9 +4829,8 @@ module.exports = {
     "naptanCode": "oxfajatp",
     "northing": 202504
   },
-  "oxfatpmp": {
+  "340001220WIN": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001220WIN",
-    "alias": "Leisure Centre",
     "atcoCode": "340001220WIN",
     "easting": 455441,
     "indicator": "nr",
@@ -4841,7 +4840,7 @@ module.exports = {
     "naptanCode": "oxfatpmp",
     "northing": 202499
   },
-  "oxfajamw": {
+  "340001220OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001220OPP",
     "atcoCode": "340001220OPP",
     "easting": 455396,
@@ -4852,7 +4851,7 @@ module.exports = {
     "naptanCode": "oxfajamw",
     "northing": 202542
   },
-  "oxfajawa": {
+  "340001219CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001219CNR",
     "atcoCode": "340001219CNR",
     "easting": 455078,
@@ -4863,7 +4862,7 @@ module.exports = {
     "naptanCode": "oxfajawa",
     "northing": 202963
   },
-  "oxfajawd": {
+  "340001218CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001218CNR",
     "atcoCode": "340001218CNR",
     "easting": 455517,
@@ -4874,7 +4873,7 @@ module.exports = {
     "naptanCode": "oxfajawd",
     "northing": 202506
   },
-  "oxfajawj": {
+  "340001215SWC": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001215SWC",
     "atcoCode": "340001215SWC",
     "easting": 455957,
@@ -4885,7 +4884,7 @@ module.exports = {
     "naptanCode": "oxfajawj",
     "northing": 202360
   },
-  "oxfajawp": {
+  "340001214TER": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001214TER",
     "atcoCode": "340001214TER",
     "easting": 455266,
@@ -4896,7 +4895,7 @@ module.exports = {
     "naptanCode": "oxfajawp",
     "northing": 202183
   },
-  "oxfajawt": {
+  "340001214POT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001214POT",
     "atcoCode": "340001214POT",
     "easting": 455146,
@@ -4907,7 +4906,7 @@ module.exports = {
     "naptanCode": "oxfajawt",
     "northing": 202171
   },
-  "oxfajdad": {
+  "340001213CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001213CNR",
     "atcoCode": "340001213CNR",
     "easting": 456076,
@@ -4918,7 +4917,7 @@ module.exports = {
     "naptanCode": "oxfajdad",
     "northing": 202331
   },
-  "oxfajdag": {
+  "340001212OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001212OPP",
     "atcoCode": "340001212OPP",
     "easting": 455582,
@@ -4929,7 +4928,7 @@ module.exports = {
     "naptanCode": "oxfajdag",
     "northing": 202111
   },
-  "oxfajdam": {
+  "340001211OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001211OPP",
     "atcoCode": "340001211OPP",
     "easting": 455450,
@@ -4940,7 +4939,7 @@ module.exports = {
     "naptanCode": "oxfajdam",
     "northing": 202251
   },
-  "oxfagaja": {
+  "340001211CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001211CNR",
     "atcoCode": "340001211CNR",
     "easting": 455463,
@@ -4951,7 +4950,7 @@ module.exports = {
     "naptanCode": "oxfagaja",
     "northing": 202243
   },
-  "oxfatpwj": {
+  "340001210ONH": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001210ONH",
     "atcoCode": "340001210ONH",
     "easting": 456198,
@@ -4962,7 +4961,7 @@ module.exports = {
     "naptanCode": "oxfatpwj",
     "northing": 202493
   },
-  "oxfagdwt": {
+  "340001208SPR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001208SPR",
     "atcoCode": "340001208SPR",
     "easting": 455382,
@@ -4973,7 +4972,7 @@ module.exports = {
     "naptanCode": "oxfagdwt",
     "northing": 202011
   },
-  "oxfadjtp": {
+  "340001207SW": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001207SW",
     "atcoCode": "340001207SW",
     "easting": 455675,
@@ -4984,7 +4983,7 @@ module.exports = {
     "naptanCode": "oxfadjtp",
     "northing": 202126
   },
-  "oxfadjtw": {
+  "340001207CHC": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001207CHC",
     "atcoCode": "340001207CHC",
     "easting": 455659,
@@ -4995,7 +4994,7 @@ module.exports = {
     "naptanCode": "oxfadjtw",
     "northing": 202134
   },
-  "oxfadjwj": {
+  "340001205CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001205CNR",
     "atcoCode": "340001205CNR",
     "easting": 455912,
@@ -5006,7 +5005,7 @@ module.exports = {
     "naptanCode": "oxfadjwj",
     "northing": 202356
   },
-  "oxfadjwm": {
+  "340001204CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001204CNR",
     "atcoCode": "340001204CNR",
     "easting": 456017,
@@ -5017,7 +5016,7 @@ module.exports = {
     "naptanCode": "oxfadjwm",
     "northing": 202150
   },
-  "oxfadjwp": {
+  "340001204BHL": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001204BHL",
     "atcoCode": "340001204BHL",
     "easting": 456045,
@@ -5028,7 +5027,7 @@ module.exports = {
     "naptanCode": "oxfadjwp",
     "northing": 202242
   },
-  "oxfadjwt": {
+  "340001203KIN": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001203KIN",
     "atcoCode": "340001203KIN",
     "easting": 455829,
@@ -5039,7 +5038,7 @@ module.exports = {
     "naptanCode": "oxfadjwt",
     "northing": 202255
   },
-  "oxfadjtj": {
+  "340001201OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001201OPP",
     "atcoCode": "340001201OPP",
     "easting": 454151,
@@ -5050,9 +5049,8 @@ module.exports = {
     "naptanCode": "oxfadjtj",
     "northing": 204481
   },
-  "oxfadmda": {
+  "340001199PEM": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001199PEM",
-    "alias": "James Street",
     "atcoCode": "340001199PEM",
     "easting": 452726,
     "indicator": "Opposite",
@@ -5062,7 +5060,7 @@ module.exports = {
     "naptanCode": "oxfadmda",
     "northing": 205765
   },
-  "oxfadmdg": {
+  "340001199CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001199CNR",
     "atcoCode": "340001199CNR",
     "easting": 452773,
@@ -5073,7 +5071,7 @@ module.exports = {
     "naptanCode": "oxfadmdg",
     "northing": 205721
   },
-  "oxfadmdj": {
+  "340001198OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001198OUT",
     "atcoCode": "340001198OUT",
     "easting": 453070,
@@ -5084,7 +5082,7 @@ module.exports = {
     "naptanCode": "oxfadmdj",
     "northing": 205575
   },
-  "oxfadmdm": {
+  "340001198OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001198OPP",
     "atcoCode": "340001198OPP",
     "easting": 452979,
@@ -5095,7 +5093,7 @@ module.exports = {
     "naptanCode": "oxfadmdm",
     "northing": 205619
   },
-  "oxfadmdp": {
+  "340001197OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001197OPP",
     "atcoCode": "340001197OPP",
     "easting": 453508,
@@ -5106,7 +5104,7 @@ module.exports = {
     "naptanCode": "oxfadmdp",
     "northing": 205133
   },
-  "oxfadmdt": {
+  "340001197CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001197CNR",
     "atcoCode": "340001197CNR",
     "easting": 453535,
@@ -5117,9 +5115,8 @@ module.exports = {
     "naptanCode": "oxfadmdt",
     "northing": 205117
   },
-  "oxfadjmp": {
+  "340001195OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001195OUT",
-    "alias": "Magdalen Road",
     "atcoCode": "340001195OUT",
     "easting": 453296,
     "indicator": "adj",
@@ -5129,7 +5126,7 @@ module.exports = {
     "naptanCode": "oxfadjmp",
     "northing": 205381
   },
-  "oxfadjmw": {
+  "340001186OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001186OPP",
     "atcoCode": "340001186OPP",
     "easting": 451105,
@@ -5140,7 +5137,7 @@ module.exports = {
     "naptanCode": "oxfadjmw",
     "northing": 198273
   },
-  "oxfadjpg": {
+  "340001185CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001185CNR",
     "atcoCode": "340001185CNR",
     "easting": 452343,
@@ -5151,7 +5148,7 @@ module.exports = {
     "naptanCode": "oxfadjpg",
     "northing": 198780
   },
-  "oxfadjpj": {
+  "340001184OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001184OUT",
     "atcoCode": "340001184OUT",
     "easting": 452497,
@@ -5162,7 +5159,7 @@ module.exports = {
     "naptanCode": "oxfadjpj",
     "northing": 199131
   },
-  "oxfadjpm": {
+  "340001184OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001184OPP",
     "atcoCode": "340001184OPP",
     "easting": 452468,
@@ -5173,7 +5170,7 @@ module.exports = {
     "naptanCode": "oxfadjpm",
     "northing": 199169
   },
-  "oxfadjpt": {
+  "340001183OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001183OUT",
     "atcoCode": "340001183OUT",
     "easting": 452187,
@@ -5184,7 +5181,7 @@ module.exports = {
     "naptanCode": "oxfadjpt",
     "northing": 199346
   },
-  "oxfadjmg": {
+  "340001181OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001181OUT",
     "atcoCode": "340001181OUT",
     "easting": 452476,
@@ -5195,7 +5192,7 @@ module.exports = {
     "naptanCode": "oxfadjmg",
     "northing": 200558
   },
-  "oxfadmgd": {
+  "340001181OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001181OPP",
     "atcoCode": "340001181OPP",
     "easting": 452494,
@@ -5206,7 +5203,7 @@ module.exports = {
     "naptanCode": "oxfadmgd",
     "northing": 200492
   },
-  "oxfadmwj": {
+  "340001180SND": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001180SND",
     "atcoCode": "340001180SND",
     "easting": 452433,
@@ -5217,7 +5214,7 @@ module.exports = {
     "naptanCode": "oxfadmwj",
     "northing": 201110
   },
-  "oxfadmwm": {
+  "340001180OSL": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001180OSL",
     "atcoCode": "340001180OSL",
     "easting": 452427,
@@ -5228,7 +5225,7 @@ module.exports = {
     "naptanCode": "oxfadmwm",
     "northing": 201100
   },
-  "oxfadmwp": {
+  "340001179OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001179OUT",
     "atcoCode": "340001179OUT",
     "easting": 452297,
@@ -5239,7 +5236,7 @@ module.exports = {
     "naptanCode": "oxfadmwp",
     "northing": 201866
   },
-  "oxfadpad": {
+  "340001178OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001178OUT",
     "atcoCode": "340001178OUT",
     "easting": 452256,
@@ -5250,7 +5247,7 @@ module.exports = {
     "naptanCode": "oxfadpad",
     "northing": 202177
   },
-  "oxfadpag": {
+  "340001178OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001178OPP",
     "atcoCode": "340001178OPP",
     "easting": 452239,
@@ -5261,7 +5258,7 @@ module.exports = {
     "naptanCode": "oxfadpag",
     "northing": 202202
   },
-  "oxfadpaj": {
+  "340001177OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001177OPP",
     "atcoCode": "340001177OPP",
     "easting": 452235,
@@ -5272,7 +5269,7 @@ module.exports = {
     "naptanCode": "oxfadpaj",
     "northing": 202606
   },
-  "oxfadpaw": {
+  "340001175OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001175OPP",
     "atcoCode": "340001175OPP",
     "easting": 451920,
@@ -5283,9 +5280,8 @@ module.exports = {
     "naptanCode": "oxfadpaw",
     "northing": 203184
   },
-  "oxfadpdg": {
+  "340001174PON": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001174PON",
-    "alias": "Egrove Park",
     "atcoCode": "340001174PON",
     "easting": 451790,
     "indicator": "Opposite",
@@ -5295,7 +5291,7 @@ module.exports = {
     "naptanCode": "oxfadpdg",
     "northing": 203380
   },
-  "oxfadpgd": {
+  "340001171CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001171CNR",
     "atcoCode": "340001171CNR",
     "easting": 448220,
@@ -5306,9 +5302,8 @@ module.exports = {
     "naptanCode": "oxfadpgd",
     "northing": 198432
   },
-  "oxfgwada": {
+  "340001169OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001169OPP",
-    "alias": "Dunmore Farm",
     "atcoCode": "340001169OPP",
     "easting": 448936,
     "indicator": "opposite",
@@ -5318,9 +5313,8 @@ module.exports = {
     "naptanCode": "oxfgwada",
     "northing": 199026
   },
-  "oxfgpgdg": {
+  "340001169EAS": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001169EAS",
-    "alias": "Dunmore Farm",
     "atcoCode": "340001169EAS",
     "easting": 448920,
     "indicator": "Outside",
@@ -5330,7 +5324,7 @@ module.exports = {
     "naptanCode": "oxfgpgdg",
     "northing": 199104
   },
-  "oxfadpgt": {
+  "340001168OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001168OPP",
     "atcoCode": "340001168OPP",
     "easting": 448762,
@@ -5341,7 +5335,7 @@ module.exports = {
     "naptanCode": "oxfadpgt",
     "northing": 199507
   },
-  "oxfadpgw": {
+  "340001168CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001168CNR",
     "atcoCode": "340001168CNR",
     "easting": 448774,
@@ -5352,7 +5346,7 @@ module.exports = {
     "naptanCode": "oxfadpgw",
     "northing": 199501
   },
-  "oxfadmpj": {
+  "340001167SOU": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001167SOU",
     "atcoCode": "340001167SOU",
     "easting": 448654,
@@ -5363,7 +5357,7 @@ module.exports = {
     "naptanCode": "oxfadmpj",
     "northing": 199756
   },
-  "oxfadpdj": {
+  "340001167NOR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001167NOR",
     "atcoCode": "340001167NOR",
     "easting": 448639,
@@ -5374,7 +5368,7 @@ module.exports = {
     "naptanCode": "oxfadpdj",
     "northing": 199770
   },
-  "oxfadmgt": {
+  "340001165SOU": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001165SOU",
     "atcoCode": "340001165SOU",
     "easting": 448423,
@@ -5385,7 +5379,7 @@ module.exports = {
     "naptanCode": "oxfadmgt",
     "northing": 200104
   },
-  "oxfadmgw": {
+  "340001165NOR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001165NOR",
     "atcoCode": "340001165NOR",
     "easting": 448385,
@@ -5396,7 +5390,7 @@ module.exports = {
     "naptanCode": "oxfadmgw",
     "northing": 200138
   },
-  "oxfadmja": {
+  "340001164HNY": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001164HNY",
     "atcoCode": "340001164HNY",
     "easting": 448089,
@@ -5407,7 +5401,7 @@ module.exports = {
     "naptanCode": "oxfadmja",
     "northing": 200562
   },
-  "oxfgadgw": {
+  "340001164EAS": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001164EAS",
     "atcoCode": "340001164EAS",
     "easting": 448128,
@@ -5418,7 +5412,7 @@ module.exports = {
     "naptanCode": "oxfgadgw",
     "northing": 200620
   },
-  "oxfadmta": {
+  "340001157OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001157OPP",
     "atcoCode": "340001157OPP",
     "easting": 451187,
@@ -5429,7 +5423,7 @@ module.exports = {
     "naptanCode": "oxfadmta",
     "northing": 203402
   },
-  "oxfadmtg": {
+  "340001156OXC": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001156OXC",
     "atcoCode": "340001156OXC",
     "easting": 450589,
@@ -5440,7 +5434,7 @@ module.exports = {
     "naptanCode": "oxfadmtg",
     "northing": 202864
   },
-  "oxfadadm": {
+  "340001137OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001137OPP",
     "atcoCode": "340001137OPP",
     "easting": 453635,
@@ -5451,7 +5445,7 @@ module.exports = {
     "naptanCode": "oxfadadm",
     "northing": 203362
   },
-  "oxfadadp": {
+  "340001137CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001137CNR",
     "atcoCode": "340001137CNR",
     "easting": 453591,
@@ -5462,7 +5456,7 @@ module.exports = {
     "naptanCode": "oxfadadp",
     "northing": 203362
   },
-  "oxfamgmd": {
+  "340000056F3": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000056F3",
     "atcoCode": "340000056F3",
     "easting": 451247,
@@ -5473,7 +5467,7 @@ module.exports = {
     "naptanCode": "oxfamgmd",
     "northing": 206150
   },
-  "oxfatmjw": {
+  "340000013OCH": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000013OCH",
     "atcoCode": "340000013OCH",
     "easting": 452717,
@@ -5484,7 +5478,7 @@ module.exports = {
     "naptanCode": "oxfatmjw",
     "northing": 208829
   },
-  "oxfamjdw": {
+  "340000013CHU": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000013CHU",
     "atcoCode": "340000013CHU",
     "easting": 452755,
@@ -5495,7 +5489,7 @@ module.exports = {
     "naptanCode": "oxfamjdw",
     "northing": 208840
   },
-  "oxfgmwgj": {
+  "340000008JR2": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000008JR2",
     "atcoCode": "340000008JR2",
     "easting": 453991,
@@ -5506,9 +5500,8 @@ module.exports = {
     "naptanCode": "oxfgmwgj",
     "northing": 207406
   },
-  "oxfgpgtd": {
+  "340000007M3": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000007M3",
-    "alias": "Castle Street M3 DEL",
     "atcoCode": "340000007M3",
     "easting": 451073,
     "indicator": "Stop M3",
@@ -5518,7 +5511,7 @@ module.exports = {
     "naptanCode": "oxfgpgtd",
     "northing": 206052
   },
-  "oxfagwdw": {
+  "34000000002": {
     "_about": "http://transport.data.gov.uk/id/stop-point/34000000002",
     "atcoCode": "34000000002",
     "easting": 451003,
@@ -5529,7 +5522,7 @@ module.exports = {
     "naptanCode": "oxfagwdw",
     "northing": 206380
   },
-  "oxfawtgt": {
+  "340000131OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000131OUT",
     "atcoCode": "340000131OUT",
     "easting": 450892,
@@ -5540,7 +5533,7 @@ module.exports = {
     "naptanCode": "oxfawtgt",
     "northing": 198709
   },
-  "oxfampma": {
+  "340000160AL": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000160AL",
     "atcoCode": "340000160AL",
     "easting": 450390,
@@ -5551,7 +5544,7 @@ module.exports = {
     "naptanCode": "oxfampma",
     "northing": 199376
   },
-  "oxfampjt": {
+  "340000160ER": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000160ER",
     "atcoCode": "340000160ER",
     "easting": 449139,
@@ -5562,7 +5555,7 @@ module.exports = {
     "naptanCode": "oxfampjt",
     "northing": 198296
   },
-  "oxfawtaw": {
+  "340000335DEN": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000335DEN",
     "atcoCode": "340000335DEN",
     "easting": 458238,
@@ -5573,7 +5566,7 @@ module.exports = {
     "naptanCode": "oxfawtaw",
     "northing": 202444
   },
-  "oxfapjpg": {
+  "340000505BC": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000505BC",
     "atcoCode": "340000505BC",
     "easting": 458729,
@@ -5584,7 +5577,7 @@ module.exports = {
     "naptanCode": "oxfapjpg",
     "northing": 205537
   },
-  "oxfgmjgd": {
+  "340000509SOU": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000509SOU",
     "atcoCode": "340000509SOU",
     "easting": 454737,
@@ -5595,7 +5588,7 @@ module.exports = {
     "naptanCode": "oxfgmjgd",
     "northing": 205384
   },
-  "oxfapjgt": {
+  "340000525SS": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000525SS",
     "atcoCode": "340000525SS",
     "easting": 456249,
@@ -5606,7 +5599,7 @@ module.exports = {
     "naptanCode": "oxfapjgt",
     "northing": 199286
   },
-  "oxfatagt": {
+  "340000589LBN": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000589LBN",
     "atcoCode": "340000589LBN",
     "easting": 455376,
@@ -5617,7 +5610,7 @@ module.exports = {
     "naptanCode": "oxfatagt",
     "northing": 199025
   },
-  "oxfatgjg": {
+  "340000627OST": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000627OST",
     "atcoCode": "340000627OST",
     "easting": 452545,
@@ -5628,7 +5621,7 @@ module.exports = {
     "naptanCode": "oxfatgjg",
     "northing": 198900
   },
-  "oxfawtjg": {
+  "340000705OV": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000705OV",
     "atcoCode": "340000705OV",
     "easting": 457668,
@@ -5639,7 +5632,7 @@ module.exports = {
     "naptanCode": "oxfawtjg",
     "northing": 209153
   },
-  "oxfapdpg": {
+  "340000817CHU": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000817CHU",
     "atcoCode": "340000817CHU",
     "easting": 459579,
@@ -5650,7 +5643,7 @@ module.exports = {
     "naptanCode": "oxfapdpg",
     "northing": 205805
   },
-  "oxfapgjm": {
+  "340000835V": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000835V",
     "atcoCode": "340000835V",
     "easting": 453534,
@@ -5661,7 +5654,7 @@ module.exports = {
     "naptanCode": "oxfapgjm",
     "northing": 212089
   },
-  "oxfapgtw": {
+  "340000874IND": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000874IND",
     "atcoCode": "340000874IND",
     "easting": 455845,
@@ -5672,7 +5665,7 @@ module.exports = {
     "naptanCode": "oxfapgtw",
     "northing": 204485
   },
-  "oxfgpmdg": {
+  "340000875WAY": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000875WAY",
     "atcoCode": "340000875WAY",
     "easting": 458393,
@@ -5683,7 +5676,7 @@ module.exports = {
     "naptanCode": "oxfgpmdg",
     "northing": 205059
   },
-  "oxfgadjg": {
+  "340000082OV": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000082OV",
     "atcoCode": "340000082OV",
     "easting": 450056,
@@ -5694,7 +5687,7 @@ module.exports = {
     "naptanCode": "oxfgadjg",
     "northing": 201193
   },
-  "oxfawtjt": {
+  "340000084OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000084OPP",
     "atcoCode": "340000084OPP",
     "easting": 456502,
@@ -5705,7 +5698,7 @@ module.exports = {
     "naptanCode": "oxfawtjt",
     "northing": 211209
   },
-  "oxfampwm": {
+  "340000084OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000084OUT",
     "atcoCode": "340000084OUT",
     "easting": 456499,
@@ -5716,7 +5709,7 @@ module.exports = {
     "naptanCode": "oxfampwm",
     "northing": 211215
   },
-  "oxfajpdt": {
+  "340000256AR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000256AR",
     "atcoCode": "340000256AR",
     "easting": 455392,
@@ -5727,7 +5720,7 @@ module.exports = {
     "naptanCode": "oxfajpdt",
     "northing": 206164
   },
-  "oxfampjw": {
+  "340000160DRL": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000160DRL",
     "atcoCode": "340000160DRL",
     "easting": 449541,
@@ -5738,7 +5731,7 @@ module.exports = {
     "naptanCode": "oxfampjw",
     "northing": 199009
   },
-  "oxfadpwa": {
+  "340000991OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000991OUT",
     "atcoCode": "340000991OUT",
     "easting": 451850,
@@ -5749,7 +5742,7 @@ module.exports = {
     "naptanCode": "oxfadpwa",
     "northing": 204267
   },
-  "oxfadpwg": {
+  "340000990OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000990OPP",
     "atcoCode": "340000990OPP",
     "easting": 451780,
@@ -5760,7 +5753,7 @@ module.exports = {
     "naptanCode": "oxfadpwg",
     "northing": 204496
   },
-  "oxfadpwp": {
+  "340000989CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000989CNR",
     "atcoCode": "340000989CNR",
     "easting": 451578,
@@ -5771,7 +5764,7 @@ module.exports = {
     "naptanCode": "oxfadpwp",
     "northing": 204940
   },
-  "oxfadpta": {
+  "340000988CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000988CNR",
     "atcoCode": "340000988CNR",
     "easting": 451497,
@@ -5782,7 +5775,7 @@ module.exports = {
     "naptanCode": "oxfadpta",
     "northing": 205149
   },
-  "oxfadtjw": {
+  "340000987OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000987OPP",
     "atcoCode": "340000987OPP",
     "easting": 451459,
@@ -5793,7 +5786,7 @@ module.exports = {
     "naptanCode": "oxfadtjw",
     "northing": 205287
   },
-  "oxfadwdj": {
+  "340000986RBT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000986RBT",
     "atcoCode": "340000986RBT",
     "easting": 449777,
@@ -5804,7 +5797,7 @@ module.exports = {
     "naptanCode": "oxfadwdj",
     "northing": 210102
   },
-  "oxfgpagd": {
+  "340000983SOU": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000983SOU",
     "atcoCode": "340000983SOU",
     "easting": 449878,
@@ -5815,7 +5808,7 @@ module.exports = {
     "naptanCode": "oxfgpagd",
     "northing": 198496
   },
-  "oxfadwgd": {
+  "340000981BEN": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000981BEN",
     "atcoCode": "340000981BEN",
     "easting": 449316,
@@ -5826,7 +5819,7 @@ module.exports = {
     "naptanCode": "oxfadwgd",
     "northing": 198657
   },
-  "oxfadwmw": {
+  "340000980BVC": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000980BVC",
     "atcoCode": "340000980BVC",
     "easting": 449244,
@@ -5837,7 +5830,7 @@ module.exports = {
     "naptanCode": "oxfadwmw",
     "northing": 198336
   },
-  "oxfadwjp": {
+  "340000967XRD": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000967XRD",
     "atcoCode": "340000967XRD",
     "easting": 450763,
@@ -5848,7 +5841,7 @@ module.exports = {
     "naptanCode": "oxfadwjp",
     "northing": 200705
   },
-  "oxfgadjm": {
+  "340000967CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000967CNR",
     "atcoCode": "340000967CNR",
     "easting": 450814,
@@ -5859,7 +5852,7 @@ module.exports = {
     "naptanCode": "oxfgadjm",
     "northing": 200772
   },
-  "oxfadwjt": {
+  "340000966BL": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000966BL",
     "atcoCode": "340000966BL",
     "easting": 450662,
@@ -5870,7 +5863,7 @@ module.exports = {
     "naptanCode": "oxfadwjt",
     "northing": 202825
   },
-  "oxfadwja": {
+  "340000960OWC": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000960OWC",
     "atcoCode": "340000960OWC",
     "easting": 448740,
@@ -5881,7 +5874,7 @@ module.exports = {
     "naptanCode": "oxfadwja",
     "northing": 209524
   },
-  "oxfadwgt": {
+  "340000958OSW": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000958OSW",
     "atcoCode": "340000958OSW",
     "easting": 454162,
@@ -5892,7 +5885,7 @@ module.exports = {
     "naptanCode": "oxfadwgt",
     "northing": 203183
   },
-  "oxfapwdj": {
+  "340000699TKP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000699TKP",
     "atcoCode": "340000699TKP",
     "easting": 460172,
@@ -5903,7 +5896,7 @@ module.exports = {
     "naptanCode": "oxfapwdj",
     "northing": 198154
   },
-  "oxfapjpa": {
+  "340000509TF": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000509TF",
     "atcoCode": "340000509TF",
     "easting": 454726,
@@ -5914,7 +5907,7 @@ module.exports = {
     "naptanCode": "oxfapjpa",
     "northing": 205382
   },
-  "oxfgjwpj": {
+  "340000525OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000525OUT",
     "atcoCode": "340000525OUT",
     "easting": 456258,
@@ -5925,7 +5918,7 @@ module.exports = {
     "naptanCode": "oxfgjwpj",
     "northing": 199280
   },
-  "oxfapwtm": {
+  "340000589LBS": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000589LBS",
     "atcoCode": "340000589LBS",
     "easting": 455415,
@@ -5936,7 +5929,7 @@ module.exports = {
     "naptanCode": "oxfapwtm",
     "northing": 198981
   },
-  "oxfgapjt": {
+  "340000699GRN": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000699GRN",
     "atcoCode": "340000699GRN",
     "easting": 460207,
@@ -5947,7 +5940,7 @@ module.exports = {
     "naptanCode": "oxfgapjt",
     "northing": 198491
   },
-  "oxfapdaj": {
+  "340000731V": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000731V",
     "atcoCode": "340000731V",
     "easting": 449277,
@@ -5958,7 +5951,7 @@ module.exports = {
     "naptanCode": "oxfapdaj",
     "northing": 200374
   },
-  "oxfgjwpm": {
+  "340000760CRO": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000760CRO",
     "atcoCode": "340000760CRO",
     "easting": 456705,
@@ -5969,7 +5962,7 @@ module.exports = {
     "naptanCode": "oxfgjwpm",
     "northing": 200720
   },
-  "oxfapgjg": {
+  "340000838PO": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000838PO",
     "atcoCode": "340000838PO",
     "easting": 457389,
@@ -5980,7 +5973,7 @@ module.exports = {
     "naptanCode": "oxfapgjg",
     "northing": 210507
   },
-  "oxfapgtp": {
+  "340000877BD": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000877BD",
     "atcoCode": "340000877BD",
     "easting": 455411,
@@ -5991,7 +5984,7 @@ module.exports = {
     "naptanCode": "oxfapgtp",
     "northing": 204931
   },
-  "oxfatjdj": {
+  "340000958OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000958OPP",
     "atcoCode": "340000958OPP",
     "easting": 454157,
@@ -6002,7 +5995,7 @@ module.exports = {
     "naptanCode": "oxfatjdj",
     "northing": 203175
   },
-  "oxfadtwd": {
+  "340000960WCL": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000960WCL",
     "atcoCode": "340000960WCL",
     "easting": 448731,
@@ -6013,7 +6006,7 @@ module.exports = {
     "naptanCode": "oxfadtwd",
     "northing": 209513
   },
-  "oxfadpwm": {
+  "340000989OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000989OPP",
     "atcoCode": "340000989OPP",
     "easting": 451654,
@@ -6024,7 +6017,7 @@ module.exports = {
     "naptanCode": "oxfadpwm",
     "northing": 204800
   },
-  "oxfadpwd": {
+  "340000991CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000991CNR",
     "atcoCode": "340000991CNR",
     "easting": 451838,
@@ -6035,7 +6028,7 @@ module.exports = {
     "naptanCode": "oxfadpwd",
     "northing": 204335
   },
-  "oxfadptm": {
+  "340000993CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000993CNR",
     "atcoCode": "340000993CNR",
     "easting": 450095,
@@ -6046,7 +6039,7 @@ module.exports = {
     "naptanCode": "oxfadptm",
     "northing": 209688
   },
-  "oxfadptj": {
+  "340000993OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000993OPP",
     "atcoCode": "340000993OPP",
     "easting": 450018,
@@ -6057,7 +6050,7 @@ module.exports = {
     "naptanCode": "oxfadptj",
     "northing": 209738
   },
-  "oxfadptd": {
+  "340000994OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000994OPP",
     "atcoCode": "340000994OPP",
     "easting": 450293,
@@ -6068,7 +6061,7 @@ module.exports = {
     "naptanCode": "oxfadptd",
     "northing": 209393
   },
-  "oxfadtad": {
+  "340000995CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000995CNR",
     "atcoCode": "340000995CNR",
     "easting": 450367,
@@ -6079,7 +6072,7 @@ module.exports = {
     "naptanCode": "oxfadtad",
     "northing": 209138
   },
-  "oxfadpmw": {
+  "340000995OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000995OPP",
     "atcoCode": "340000995OPP",
     "easting": 450374,
@@ -6090,7 +6083,7 @@ module.exports = {
     "naptanCode": "oxfadpmw",
     "northing": 209143
   },
-  "oxfadpmt": {
+  "340000996CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000996CNR",
     "atcoCode": "340000996CNR",
     "easting": 450477,
@@ -6101,7 +6094,7 @@ module.exports = {
     "naptanCode": "oxfadpmt",
     "northing": 208967
   },
-  "oxfadpmg": {
+  "340000997OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000997OPP",
     "atcoCode": "340000997OPP",
     "easting": 450615,
@@ -6112,7 +6105,7 @@ module.exports = {
     "naptanCode": "oxfadpmg",
     "northing": 208670
   },
-  "oxfadpmd": {
+  "340000998WR3": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000998WR3",
     "atcoCode": "340000998WR3",
     "easting": 450698,
@@ -6123,7 +6116,7 @@ module.exports = {
     "naptanCode": "oxfadpmd",
     "northing": 208299
   },
-  "oxfadpma": {
+  "340000998WR4": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000998WR4",
     "atcoCode": "340000998WR4",
     "easting": 450675,
@@ -6134,7 +6127,7 @@ module.exports = {
     "naptanCode": "oxfadpma",
     "northing": 208348
   },
-  "oxfadpjw": {
+  "340000999OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000999OPP",
     "atcoCode": "340000999OPP",
     "easting": 450777,
@@ -6145,7 +6138,7 @@ module.exports = {
     "naptanCode": "oxfadpjw",
     "northing": 207946
   },
-  "oxfadpjt": {
+  "340000999OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000999OUT",
     "atcoCode": "340000999OUT",
     "easting": 450766,
@@ -6156,7 +6149,7 @@ module.exports = {
     "naptanCode": "oxfadpjt",
     "northing": 207934
   },
-  "oxfadpjp": {
+  "34000100072": {
     "_about": "http://transport.data.gov.uk/id/stop-point/34000100072",
     "atcoCode": "34000100072",
     "easting": 450829,
@@ -6167,7 +6160,7 @@ module.exports = {
     "naptanCode": "oxfadpjp",
     "northing": 207670
   },
-  "oxfadtdw": {
+  "340001001CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001001CNR",
     "atcoCode": "340001001CNR",
     "easting": 450888,
@@ -6178,7 +6171,7 @@ module.exports = {
     "naptanCode": "oxfadtdw",
     "northing": 207464
   },
-  "oxfadtjt": {
+  "340001002OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001002OUT",
     "atcoCode": "340001002OUT",
     "easting": 451024,
@@ -6189,7 +6182,7 @@ module.exports = {
     "naptanCode": "oxfadtjt",
     "northing": 207163
   },
-  "oxfgmtjt": {
+  "340001003CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001003CNR",
     "atcoCode": "340001003CNR",
     "easting": 449598,
@@ -6200,9 +6193,8 @@ module.exports = {
     "naptanCode": "oxfgmtjt",
     "northing": 210011
   },
-  "oxfadtjd": {
+  "340001005FAR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001005FAR",
-    "alias": "Wolvercote School",
     "atcoCode": "340001005FAR",
     "easting": 449716,
     "indicator": "nr",
@@ -6212,7 +6204,7 @@ module.exports = {
     "naptanCode": "oxfadtjd",
     "northing": 209891
   },
-  "oxfadtgt": {
+  "340001008NOR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001008NOR",
     "atcoCode": "340001008NOR",
     "easting": 448908,
@@ -6223,7 +6215,7 @@ module.exports = {
     "naptanCode": "oxfadtgt",
     "northing": 209875
   },
-  "oxfadtgp": {
+  "340001008SOU": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001008SOU",
     "atcoCode": "340001008SOU",
     "easting": 448945,
@@ -6234,7 +6226,7 @@ module.exports = {
     "naptanCode": "oxfadtgp",
     "northing": 209730
   },
-  "oxfadtgm": {
+  "340001010OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001010OPP",
     "atcoCode": "340001010OPP",
     "easting": 449143,
@@ -6245,7 +6237,7 @@ module.exports = {
     "naptanCode": "oxfadtgm",
     "northing": 209729
   },
-  "oxfadtgj": {
+  "340001010OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001010OUT",
     "atcoCode": "340001010OUT",
     "easting": 449120,
@@ -6256,7 +6248,7 @@ module.exports = {
     "naptanCode": "oxfadtgj",
     "northing": 209736
   },
-  "oxfagdpm": {
+  "340001042OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001042OPP",
     "atcoCode": "340001042OPP",
     "easting": 450544,
@@ -6267,7 +6259,7 @@ module.exports = {
     "naptanCode": "oxfagdpm",
     "northing": 207579
   },
-  "oxfagdpg": {
+  "340001043WEL": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001043WEL",
     "atcoCode": "340001043WEL",
     "easting": 450566,
@@ -6278,7 +6270,7 @@ module.exports = {
     "naptanCode": "oxfagdpg",
     "northing": 207347
   },
-  "oxfagdmw": {
+  "340001045OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001045OPP",
     "atcoCode": "340001045OPP",
     "easting": 450872,
@@ -6289,7 +6281,7 @@ module.exports = {
     "naptanCode": "oxfagdmw",
     "northing": 206942
   },
-  "oxfagdmg": {
+  "340001047LYB": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001047LYB",
     "atcoCode": "340001047LYB",
     "easting": 450335,
@@ -6300,7 +6292,7 @@ module.exports = {
     "naptanCode": "oxfagdmg",
     "northing": 210968
   },
-  "oxfagatm": {
+  "340001049CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001049CNR",
     "atcoCode": "340001049CNR",
     "easting": 450384,
@@ -6311,7 +6303,7 @@ module.exports = {
     "naptanCode": "oxfagatm",
     "northing": 210357
   },
-  "oxfadwtp": {
+  "340001049OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001049OPP",
     "atcoCode": "340001049OPP",
     "easting": 450352,
@@ -6322,7 +6314,7 @@ module.exports = {
     "naptanCode": "oxfadwtp",
     "northing": 210422
   },
-  "oxfagdap": {
+  "340001050CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001050CNR",
     "atcoCode": "340001050CNR",
     "easting": 450465,
@@ -6333,7 +6325,7 @@ module.exports = {
     "naptanCode": "oxfagdap",
     "northing": 209955
   },
-  "oxfagagm": {
+  "340001050OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001050OPP",
     "atcoCode": "340001050OPP",
     "easting": 450470,
@@ -6344,7 +6336,7 @@ module.exports = {
     "naptanCode": "oxfagagm",
     "northing": 209971
   },
-  "oxfagagj": {
+  "340001051OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001051OPP",
     "atcoCode": "340001051OPP",
     "easting": 450621,
@@ -6355,7 +6347,7 @@ module.exports = {
     "naptanCode": "oxfagagj",
     "northing": 209617
   },
-  "oxfagadt": {
+  "340001053SPB": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001053SPB",
     "atcoCode": "340001053SPB",
     "easting": 450752,
@@ -6366,7 +6358,7 @@ module.exports = {
     "naptanCode": "oxfagadt",
     "northing": 209222
   },
-  "oxfagadp": {
+  "340001053SPD": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001053SPD",
     "atcoCode": "340001053SPD",
     "easting": 450808,
@@ -6377,7 +6369,7 @@ module.exports = {
     "naptanCode": "oxfagadp",
     "northing": 209035
   },
-  "oxfgpdpw": {
+  "340001054CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001054CNR",
     "atcoCode": "340001054CNR",
     "easting": 450822,
@@ -6388,7 +6380,7 @@ module.exports = {
     "naptanCode": "oxfgpdpw",
     "northing": 208920
   },
-  "oxfagadm": {
+  "340001054OPE": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001054OPE",
     "atcoCode": "340001054OPE",
     "easting": 450818,
@@ -6399,7 +6391,7 @@ module.exports = {
     "naptanCode": "oxfagadm",
     "northing": 208937
   },
-  "oxfagadj": {
+  "340001054OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001054OPP",
     "atcoCode": "340001054OPP",
     "easting": 450886,
@@ -6410,7 +6402,7 @@ module.exports = {
     "naptanCode": "oxfagadj",
     "northing": 208730
   },
-  "oxfagagt": {
+  "340001056BR2": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001056BR2",
     "atcoCode": "340001056BR2",
     "easting": 450986,
@@ -6421,7 +6413,7 @@ module.exports = {
     "naptanCode": "oxfagagt",
     "northing": 208228
   },
-  "oxfadwtm": {
+  "34000105792": {
     "_about": "http://transport.data.gov.uk/id/stop-point/34000105792",
     "atcoCode": "34000105792",
     "easting": 451043,
@@ -6432,7 +6424,7 @@ module.exports = {
     "naptanCode": "oxfadwtm",
     "northing": 208007
   },
-  "oxfadwtg": {
+  "340001058OPC": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001058OPC",
     "atcoCode": "340001058OPC",
     "easting": 451100,
@@ -6443,7 +6435,7 @@ module.exports = {
     "naptanCode": "oxfadwtg",
     "northing": 207686
   },
-  "oxfadwpw": {
+  "340001059OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001059OUT",
     "atcoCode": "340001059OUT",
     "easting": 451136,
@@ -6454,7 +6446,7 @@ module.exports = {
     "naptanCode": "oxfadwpw",
     "northing": 207368
   },
-  "oxfadwpm": {
+  "340001060OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001060OPP",
     "atcoCode": "340001060OPP",
     "easting": 451164,
@@ -6465,7 +6457,7 @@ module.exports = {
     "naptanCode": "oxfadwpm",
     "northing": 206994
   },
-  "oxfadwpj": {
+  "340001061CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001061CNR",
     "atcoCode": "340001061CNR",
     "easting": 451203,
@@ -6476,7 +6468,7 @@ module.exports = {
     "naptanCode": "oxfadwpj",
     "northing": 207907
   },
-  "oxfgmgwm": {
+  "340001061EAS": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001061EAS",
     "atcoCode": "340001061EAS",
     "easting": 451200,
@@ -6487,7 +6479,7 @@ module.exports = {
     "naptanCode": "oxfgmgwm",
     "northing": 207916
   },
-  "oxfatdmp": {
+  "340001064SOU": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001064SOU",
     "atcoCode": "340001064SOU",
     "easting": 451081,
@@ -6498,7 +6490,7 @@ module.exports = {
     "naptanCode": "oxfatdmp",
     "northing": 209984
   },
-  "oxfagatg": {
+  "340001069OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001069OPP",
     "atcoCode": "340001069OPP",
     "easting": 450582,
@@ -6509,7 +6501,7 @@ module.exports = {
     "naptanCode": "oxfagatg",
     "northing": 210299
   },
-  "oxfagatd": {
+  "340001070OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001070OUT",
     "atcoCode": "340001070OUT",
     "easting": 451136,
@@ -6520,7 +6512,7 @@ module.exports = {
     "naptanCode": "oxfagatd",
     "northing": 208733
   },
-  "oxfagapt": {
+  "34000107149": {
     "_about": "http://transport.data.gov.uk/id/stop-point/34000107149",
     "atcoCode": "34000107149",
     "easting": 449875,
@@ -6531,7 +6523,7 @@ module.exports = {
     "naptanCode": "oxfagapt",
     "northing": 210653
   },
-  "oxfagapm": {
+  "340001072CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001072CNR",
     "atcoCode": "340001072CNR",
     "easting": 450086,
@@ -6542,7 +6534,7 @@ module.exports = {
     "naptanCode": "oxfagapm",
     "northing": 210297
   },
-  "oxfgmgdm": {
+  "340001072NOR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001072NOR",
     "atcoCode": "340001072NOR",
     "easting": 450077,
@@ -6553,7 +6545,7 @@ module.exports = {
     "naptanCode": "oxfgmgdm",
     "northing": 210304
   },
-  "oxfagapj": {
+  "340001073RFR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001073RFR",
     "atcoCode": "340001073RFR",
     "easting": 450222,
@@ -6564,7 +6556,7 @@ module.exports = {
     "naptanCode": "oxfagapj",
     "northing": 210229
   },
-  "oxfgmgwj": {
+  "340001073WES": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001073WES",
     "atcoCode": "340001073WES",
     "easting": 450221,
@@ -6575,7 +6567,7 @@ module.exports = {
     "naptanCode": "oxfgmgwj",
     "northing": 210219
   },
-  "oxfadgmj": {
+  "340001091OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001091OPP",
     "atcoCode": "340001091OPP",
     "easting": 448968,
@@ -6586,7 +6578,7 @@ module.exports = {
     "naptanCode": "oxfadgmj",
     "northing": 206315
   },
-  "oxfadgmd": {
+  "340001092OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001092OPP",
     "atcoCode": "340001092OPP",
     "easting": 449535,
@@ -6597,7 +6589,7 @@ module.exports = {
     "naptanCode": "oxfadgmd",
     "northing": 206253
   },
-  "oxfadgma": {
+  "340001093BSC": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001093BSC",
     "atcoCode": "340001093BSC",
     "easting": 450179,
@@ -6608,7 +6600,7 @@ module.exports = {
     "naptanCode": "oxfadgma",
     "northing": 206217
   },
-  "oxfgmwjp": {
+  "340001099OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001099OPP",
     "atcoCode": "340001099OPP",
     "easting": 448204,
@@ -6619,7 +6611,7 @@ module.exports = {
     "naptanCode": "oxfgmwjp",
     "northing": 205210
   },
-  "oxfadgwg": {
+  "340001103OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001103OPP",
     "atcoCode": "340001103OPP",
     "easting": 448009,
@@ -6630,7 +6622,7 @@ module.exports = {
     "naptanCode": "oxfadgwg",
     "northing": 205944
   },
-  "oxfadjad": {
+  "340001110OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001110OUT",
     "atcoCode": "340001110OUT",
     "easting": 448940,
@@ -6641,7 +6633,7 @@ module.exports = {
     "naptanCode": "oxfadjad",
     "northing": 205745
   },
-  "oxfatdag": {
+  "340001112ORP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001112ORP",
     "atcoCode": "340001112ORP",
     "easting": 449196,
@@ -6652,7 +6644,7 @@ module.exports = {
     "naptanCode": "oxfatdag",
     "northing": 205495
   },
-  "oxfadjdj": {
+  "340001126OPC": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001126OPC",
     "atcoCode": "340001126OPC",
     "easting": 452338,
@@ -6663,7 +6655,7 @@ module.exports = {
     "naptanCode": "oxfadjdj",
     "northing": 205855
   },
-  "oxfadajw": {
+  "340001128OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001128OPP",
     "atcoCode": "340001128OPP",
     "easting": 452582,
@@ -6674,7 +6666,7 @@ module.exports = {
     "naptanCode": "oxfadajw",
     "northing": 205285
   },
-  "oxfadajt": {
+  "340001129CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001129CNR",
     "atcoCode": "340001129CNR",
     "easting": 452923,
@@ -6685,7 +6677,7 @@ module.exports = {
     "naptanCode": "oxfadajt",
     "northing": 204736
   },
-  "oxfadajg": {
+  "340001130OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001130OPP",
     "atcoCode": "340001130OPP",
     "easting": 452510,
@@ -6696,7 +6688,7 @@ module.exports = {
     "naptanCode": "oxfadajg",
     "northing": 205564
   },
-  "oxfadmtj": {
+  "340001156OPO": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001156OPO",
     "atcoCode": "340001156OPO",
     "easting": 450648,
@@ -6707,7 +6699,7 @@ module.exports = {
     "naptanCode": "oxfadmtj",
     "northing": 202925
   },
-  "oxfadmjd": {
+  "340001164FOX": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001164FOX",
     "atcoCode": "340001164FOX",
     "easting": 448194,
@@ -6718,9 +6710,8 @@ module.exports = {
     "naptanCode": "oxfadmjd",
     "northing": 200446
   },
-  "oxfadpgm": {
+  "340001170CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001170CNR",
-    "alias": "Long Tow",
     "atcoCode": "340001170CNR",
     "easting": 448471,
     "indicator": "E-bound",
@@ -6730,7 +6721,7 @@ module.exports = {
     "naptanCode": "oxfadpgm",
     "northing": 198850
   },
-  "oxfadpga": {
+  "340001171OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001171OPP",
     "atcoCode": "340001171OPP",
     "easting": 448209,
@@ -6741,7 +6732,7 @@ module.exports = {
     "naptanCode": "oxfadpga",
     "northing": 198435
   },
-  "oxfadpjd": {
+  "340001175KNC": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001175KNC",
     "atcoCode": "340001175KNC",
     "easting": 451901,
@@ -6752,7 +6743,7 @@ module.exports = {
     "naptanCode": "oxfadpjd",
     "northing": 203209
   },
-  "oxfadpam": {
+  "340001177CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001177CNR",
     "atcoCode": "340001177CNR",
     "easting": 452214,
@@ -6763,7 +6754,7 @@ module.exports = {
     "naptanCode": "oxfadpam",
     "northing": 202631
   },
-  "oxfadmwt": {
+  "340001179OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001179OPP",
     "atcoCode": "340001179OPP",
     "easting": 452306,
@@ -6774,7 +6765,7 @@ module.exports = {
     "naptanCode": "oxfadmwt",
     "northing": 201875
   },
-  "oxfadmpd": {
+  "340001182OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001182OPP",
     "atcoCode": "340001182OPP",
     "easting": 452243,
@@ -6785,7 +6776,7 @@ module.exports = {
     "naptanCode": "oxfadmpd",
     "northing": 199529
   },
-  "oxfadjta": {
+  "340001182OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001182OUT",
     "atcoCode": "340001182OUT",
     "easting": 452257,
@@ -6796,7 +6787,7 @@ module.exports = {
     "naptanCode": "oxfadjta",
     "northing": 199610
   },
-  "oxfadjpa": {
+  "340001186CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001186CNR",
     "atcoCode": "340001186CNR",
     "easting": 451095,
@@ -6807,7 +6798,7 @@ module.exports = {
     "naptanCode": "oxfadjpa",
     "northing": 198277
   },
-  "oxfadmga": {
+  "340001196OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001196OPP",
     "atcoCode": "340001196OPP",
     "easting": 453624,
@@ -6818,7 +6809,7 @@ module.exports = {
     "naptanCode": "oxfadmga",
     "northing": 204984
   },
-  "oxfadmdw": {
+  "340001196OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001196OUT",
     "atcoCode": "340001196OUT",
     "easting": 453701,
@@ -6829,7 +6820,7 @@ module.exports = {
     "naptanCode": "oxfadmdw",
     "northing": 204929
   },
-  "oxfadmaw": {
+  "340001200OPH": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001200OPH",
     "atcoCode": "340001200OPH",
     "easting": 454002,
@@ -6840,7 +6831,7 @@ module.exports = {
     "naptanCode": "oxfadmaw",
     "northing": 204641
   },
-  "oxfadmat": {
+  "340001200OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001200OPP",
     "atcoCode": "340001200OPP",
     "easting": 453935,
@@ -6851,7 +6842,7 @@ module.exports = {
     "naptanCode": "oxfadmat",
     "northing": 204702
   },
-  "oxfadmgj": {
+  "340001202VLT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001202VLT",
     "atcoCode": "340001202VLT",
     "easting": 455253,
@@ -6862,7 +6853,7 @@ module.exports = {
     "naptanCode": "oxfadmgj",
     "northing": 201992
   },
-  "oxfadjwg": {
+  "340001205OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001205OPP",
     "atcoCode": "340001205OPP",
     "easting": 455908,
@@ -6873,7 +6864,7 @@ module.exports = {
     "naptanCode": "oxfadjwg",
     "northing": 202347
   },
-  "oxfajdaj": {
+  "340001212CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001212CNR",
     "atcoCode": "340001212CNR",
     "easting": 455563,
@@ -6884,7 +6875,7 @@ module.exports = {
     "naptanCode": "oxfajdaj",
     "northing": 202115
   },
-  "oxfajawm": {
+  "340001215PRM": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001215PRM",
     "atcoCode": "340001215PRM",
     "easting": 455993,
@@ -6895,7 +6886,7 @@ module.exports = {
     "naptanCode": "oxfajawm",
     "northing": 202378
   },
-  "oxfgmjtw": {
+  "340001216NUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001216NUT",
     "atcoCode": "340001216NUT",
     "easting": 455138,
@@ -6906,7 +6897,7 @@ module.exports = {
     "naptanCode": "oxfgmjtw",
     "northing": 202075
   },
-  "oxfajawg": {
+  "340001217OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001217OPP",
     "atcoCode": "340001217OPP",
     "easting": 455540,
@@ -6917,7 +6908,7 @@ module.exports = {
     "naptanCode": "oxfajawg",
     "northing": 202290
   },
-  "oxfajdap": {
+  "340001222CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001222CNR",
     "atcoCode": "340001222CNR",
     "easting": 455688,
@@ -6928,7 +6919,7 @@ module.exports = {
     "naptanCode": "oxfajdap",
     "northing": 202520
   },
-  "oxfajatj": {
+  "340001223CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001223CNR",
     "atcoCode": "340001223CNR",
     "easting": 455820,
@@ -6939,7 +6930,7 @@ module.exports = {
     "naptanCode": "oxfajatj",
     "northing": 202555
   },
-  "oxfajapd": {
+  "340001230ERB": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001230ERB",
     "atcoCode": "340001230ERB",
     "easting": 454906,
@@ -6950,7 +6941,7 @@ module.exports = {
     "naptanCode": "oxfajapd",
     "northing": 202996
   },
-  "oxfajapa": {
+  "340001230OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001230OPP",
     "atcoCode": "340001230OPP",
     "easting": 454943,
@@ -6961,7 +6952,7 @@ module.exports = {
     "naptanCode": "oxfajapa",
     "northing": 202955
   },
-  "oxfajdpd": {
+  "340001234CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001234CNR",
     "atcoCode": "340001234CNR",
     "easting": 455203,
@@ -6972,7 +6963,7 @@ module.exports = {
     "naptanCode": "oxfajdpd",
     "northing": 203079
   },
-  "oxfajdmt": {
+  "340001236OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001236OPP",
     "atcoCode": "340001236OPP",
     "easting": 453936,
@@ -6983,7 +6974,7 @@ module.exports = {
     "naptanCode": "oxfajdmt",
     "northing": 202714
   },
-  "oxfatdam": {
+  "340001238CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001238CNR",
     "atcoCode": "340001238CNR",
     "easting": 454041,
@@ -6994,7 +6985,7 @@ module.exports = {
     "naptanCode": "oxfatdam",
     "northing": 203406
   },
-  "oxfatdaj": {
+  "340001238OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001238OPP",
     "atcoCode": "340001238OPP",
     "easting": 454008,
@@ -7005,7 +6996,7 @@ module.exports = {
     "naptanCode": "oxfatdaj",
     "northing": 203320
   },
-  "oxfajdmj": {
+  "340001238OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001238OUT",
     "atcoCode": "340001238OUT",
     "easting": 454099,
@@ -7016,7 +7007,7 @@ module.exports = {
     "naptanCode": "oxfajdmj",
     "northing": 203359
   },
-  "oxfgpmja": {
+  "340001243SHE": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001243SHE",
     "atcoCode": "340001243SHE",
     "easting": 454354,
@@ -7027,7 +7018,7 @@ module.exports = {
     "naptanCode": "oxfgpmja",
     "northing": 203200
   },
-  "oxfagamw": {
+  "3400010662A": {
     "_about": "http://transport.data.gov.uk/id/stop-point/3400010662A",
     "atcoCode": "3400010662A",
     "easting": 450371,
@@ -7038,7 +7029,7 @@ module.exports = {
     "naptanCode": "oxfagamw",
     "northing": 210528
   },
-  "oxfadwtj": {
+  "340001057BR3": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001057BR3",
     "atcoCode": "340001057BR3",
     "easting": 451028,
@@ -7049,7 +7040,7 @@ module.exports = {
     "naptanCode": "oxfadwtj",
     "northing": 208003
   },
-  "oxfadwtw": {
+  "340001056BR1": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001056BR1",
     "atcoCode": "340001056BR1",
     "easting": 451006,
@@ -7060,7 +7051,7 @@ module.exports = {
     "naptanCode": "oxfadwtw",
     "northing": 208214
   },
-  "oxfadwpa": {
+  "340001055OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001055OPP",
     "atcoCode": "340001055OPP",
     "easting": 450942,
@@ -7071,7 +7062,7 @@ module.exports = {
     "naptanCode": "oxfadwpa",
     "northing": 208514
   },
-  "oxfagadg": {
+  "340001055COR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001055COR",
     "atcoCode": "340001055COR",
     "easting": 450933,
@@ -7082,7 +7073,7 @@ module.exports = {
     "naptanCode": "oxfagadg",
     "northing": 208490
   },
-  "oxfagadw": {
+  "340001052OPV": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001052OPV",
     "atcoCode": "340001052OPV",
     "easting": 450671,
@@ -7093,7 +7084,7 @@ module.exports = {
     "naptanCode": "oxfagadw",
     "northing": 209470
   },
-  "oxfagdma": {
+  "340001048CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001048CNR",
     "atcoCode": "340001048CNR",
     "easting": 450340,
@@ -7104,7 +7095,7 @@ module.exports = {
     "naptanCode": "oxfagdma",
     "northing": 210490
   },
-  "oxfagdmd": {
+  "340001047OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001047OPP",
     "atcoCode": "340001047OPP",
     "easting": 450348,
@@ -7115,7 +7106,7 @@ module.exports = {
     "naptanCode": "oxfagdmd",
     "northing": 210786
   },
-  "oxfagdmj": {
+  "340001046OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001046OUT",
     "atcoCode": "340001046OUT",
     "easting": 450943,
@@ -7126,7 +7117,7 @@ module.exports = {
     "naptanCode": "oxfagdmj",
     "northing": 206641
   },
-  "oxfagdmt": {
+  "340001045OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001045OUT",
     "atcoCode": "340001045OUT",
     "easting": 450888,
@@ -7137,7 +7128,7 @@ module.exports = {
     "naptanCode": "oxfagdmt",
     "northing": 206907
   },
-  "oxfagdpd": {
+  "340001044OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001044OPP",
     "atcoCode": "340001044OPP",
     "easting": 450709,
@@ -7148,7 +7139,7 @@ module.exports = {
     "naptanCode": "oxfagdpd",
     "northing": 207126
   },
-  "oxfagdjt": {
+  "340001042CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001042CNR",
     "atcoCode": "340001042CNR",
     "easting": 450554,
@@ -7159,7 +7150,7 @@ module.exports = {
     "naptanCode": "oxfagdjt",
     "northing": 207497
   },
-  "oxfadtag": {
+  "340001011NOR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001011NOR",
     "atcoCode": "340001011NOR",
     "easting": 448958,
@@ -7170,7 +7161,7 @@ module.exports = {
     "naptanCode": "oxfadtag",
     "northing": 209917
   },
-  "oxfadtja": {
+  "340001005OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001005OUT",
     "atcoCode": "340001005OUT",
     "easting": 449740,
@@ -7181,7 +7172,7 @@ module.exports = {
     "naptanCode": "oxfadtja",
     "northing": 209874
   },
-  "oxfadtjp": {
+  "340001003OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001003OPP",
     "atcoCode": "340001003OPP",
     "easting": 449612,
@@ -7192,7 +7183,7 @@ module.exports = {
     "naptanCode": "oxfadtjp",
     "northing": 210005
   },
-  "oxfadtgd": {
+  "340001001OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001001OPP",
     "atcoCode": "340001001OPP",
     "easting": 450921,
@@ -7203,7 +7194,7 @@ module.exports = {
     "naptanCode": "oxfadtgd",
     "northing": 207412
   },
-  "oxfadpjm": {
+  "340001000WR1": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001000WR1",
     "atcoCode": "340001000WR1",
     "easting": 450814,
@@ -7214,7 +7205,7 @@ module.exports = {
     "naptanCode": "oxfadpjm",
     "northing": 207687
   },
-  "oxfadpmj": {
+  "340000997CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000997CNR",
     "atcoCode": "340000997CNR",
     "easting": 450627,
@@ -7225,7 +7216,7 @@ module.exports = {
     "naptanCode": "oxfadpmj",
     "northing": 208659
   },
-  "oxfadpmp": {
+  "340000996OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000996OPP",
     "atcoCode": "340000996OPP",
     "easting": 450467,
@@ -7236,7 +7227,7 @@ module.exports = {
     "naptanCode": "oxfadpmp",
     "northing": 208960
   },
-  "oxfadptp": {
+  "340000992WR2": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000992WR2",
     "atcoCode": "340000992WR2",
     "easting": 449861,
@@ -7247,7 +7238,7 @@ module.exports = {
     "naptanCode": "oxfadptp",
     "northing": 209934
   },
-  "oxfadptw": {
+  "340000992WR1": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000992WR1",
     "atcoCode": "340000992WR1",
     "easting": 449894,
@@ -7258,7 +7249,7 @@ module.exports = {
     "naptanCode": "oxfadptw",
     "northing": 209898
   },
-  "oxfadpwj": {
+  "340000990CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000990CNR",
     "atcoCode": "340000990CNR",
     "easting": 451752,
@@ -7269,7 +7260,7 @@ module.exports = {
     "naptanCode": "oxfadpwj",
     "northing": 204548
   },
-  "oxfadwdg": {
+  "340000987CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000987CNR",
     "atcoCode": "340000987CNR",
     "easting": 451468,
@@ -7280,7 +7271,7 @@ module.exports = {
     "naptanCode": "oxfadwdg",
     "northing": 205293
   },
-  "oxfadwga": {
+  "340000983COR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000983COR",
     "atcoCode": "340000983COR",
     "easting": 449863,
@@ -7291,7 +7282,7 @@ module.exports = {
     "naptanCode": "oxfadwga",
     "northing": 198487
   },
-  "oxfgadgd": {
+  "340000981SHE": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000981SHE",
     "atcoCode": "340000981SHE",
     "easting": 449414,
@@ -7302,7 +7293,7 @@ module.exports = {
     "naptanCode": "oxfgadgd",
     "northing": 198719
   },
-  "oxfatapd": {
+  "340000627STN": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000627STN",
     "atcoCode": "340000627STN",
     "easting": 452559,
@@ -7313,7 +7304,7 @@ module.exports = {
     "naptanCode": "oxfatapd",
     "northing": 198922
   },
-  "oxfapjwd": {
+  "340000505OBC": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000505OBC",
     "atcoCode": "340000505OBC",
     "easting": 458729,
@@ -7324,7 +7315,7 @@ module.exports = {
     "naptanCode": "oxfapjwd",
     "northing": 205547
   },
-  "oxfawtam": {
+  "340000433OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000433OUT",
     "atcoCode": "340000433OUT",
     "easting": 456998,
@@ -7335,7 +7326,7 @@ module.exports = {
     "naptanCode": "oxfawtam",
     "northing": 202184
   },
-  "oxfgmjta": {
+  "340004116NOR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004116NOR",
     "atcoCode": "340004116NOR",
     "easting": 455110,
@@ -7346,7 +7337,7 @@ module.exports = {
     "naptanCode": "oxfgmjta",
     "northing": 204491
   },
-  "oxfgmjmp": {
+  "340004114NOR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004114NOR",
     "atcoCode": "340004114NOR",
     "easting": 455155,
@@ -7357,7 +7348,7 @@ module.exports = {
     "naptanCode": "oxfgmjmp",
     "northing": 205760
   },
-  "oxfgmgpm": {
+  "340004110NOR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004110NOR",
     "atcoCode": "340004110NOR",
     "easting": 455161,
@@ -7368,7 +7359,7 @@ module.exports = {
     "naptanCode": "oxfgmgpm",
     "northing": 207294
   },
-  "oxfgmjdj": {
+  "340004107NOR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004107NOR",
     "atcoCode": "340004107NOR",
     "easting": 454903,
@@ -7379,7 +7370,7 @@ module.exports = {
     "naptanCode": "oxfgmjdj",
     "northing": 207066
   },
-  "oxfawpmg": {
+  "340004061NOR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004061NOR",
     "atcoCode": "340004061NOR",
     "easting": 450010,
@@ -7390,7 +7381,7 @@ module.exports = {
     "naptanCode": "oxfawpmg",
     "northing": 198653
   },
-  "oxfawtat": {
+  "340003283CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003283CNR",
     "atcoCode": "340003283CNR",
     "easting": 459935,
@@ -7401,7 +7392,7 @@ module.exports = {
     "naptanCode": "oxfawtat",
     "northing": 203429
   },
-  "oxfawtaj": {
+  "340003277OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003277OUT",
     "atcoCode": "340003277OUT",
     "easting": 458500,
@@ -7412,7 +7403,7 @@ module.exports = {
     "naptanCode": "oxfawtaj",
     "northing": 201538
   },
-  "oxfawpdw": {
+  "340003277OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003277OPP",
     "atcoCode": "340003277OPP",
     "easting": 458493,
@@ -7423,7 +7414,7 @@ module.exports = {
     "naptanCode": "oxfawpdw",
     "northing": 201541
   },
-  "oxfawpga": {
+  "340003276SOU": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003276SOU",
     "atcoCode": "340003276SOU",
     "easting": 458484,
@@ -7434,7 +7425,7 @@ module.exports = {
     "naptanCode": "oxfawpga",
     "northing": 201844
   },
-  "oxfawpgj": {
+  "340003275OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003275OUT",
     "atcoCode": "340003275OUT",
     "easting": 457920,
@@ -7445,7 +7436,7 @@ module.exports = {
     "naptanCode": "oxfawpgj",
     "northing": 202512
   },
-  "oxfawpgm": {
+  "340003275OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003275OPP",
     "atcoCode": "340003275OPP",
     "easting": 457936,
@@ -7456,7 +7447,7 @@ module.exports = {
     "naptanCode": "oxfawpgm",
     "northing": 202502
   },
-  "oxfawpgp": {
+  "340003274EAS": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003274EAS",
     "atcoCode": "340003274EAS",
     "easting": 457624,
@@ -7467,7 +7458,7 @@ module.exports = {
     "naptanCode": "oxfawpgp",
     "northing": 202670
   },
-  "oxfawtap": {
+  "340003269OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003269OPP",
     "atcoCode": "340003269OPP",
     "easting": 451006,
@@ -7478,7 +7469,7 @@ module.exports = {
     "naptanCode": "oxfawtap",
     "northing": 198934
   },
-  "oxfawtwp": {
+  "340003268CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003268CNR",
     "atcoCode": "340003268CNR",
     "easting": 450811,
@@ -7489,7 +7480,7 @@ module.exports = {
     "naptanCode": "oxfawtwp",
     "northing": 199193
   },
-  "oxfgadgm": {
+  "340003263CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003263CNR",
     "atcoCode": "340003263CNR",
     "easting": 450116,
@@ -7500,7 +7491,7 @@ module.exports = {
     "naptanCode": "oxfgadgm",
     "northing": 199465
   },
-  "oxfgadjp": {
+  "340003262SOU": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003262SOU",
     "atcoCode": "340003262SOU",
     "easting": 450792,
@@ -7511,7 +7502,7 @@ module.exports = {
     "naptanCode": "oxfgadjp",
     "northing": 204050
   },
-  "oxfgadjt": {
+  "340003262NOR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003262NOR",
     "atcoCode": "340003262NOR",
     "easting": 450586,
@@ -7522,7 +7513,7 @@ module.exports = {
     "naptanCode": "oxfgadjt",
     "northing": 204230
   },
-  "oxfawjtj": {
+  "340003247CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003247CNR",
     "atcoCode": "340003247CNR",
     "easting": 449506,
@@ -7533,7 +7524,7 @@ module.exports = {
     "naptanCode": "oxfawjtj",
     "northing": 210635
   },
-  "oxfgajta": {
+  "340003174CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003174CNR",
     "atcoCode": "340003174CNR",
     "easting": 450855,
@@ -7544,7 +7535,7 @@ module.exports = {
     "naptanCode": "oxfgajta",
     "northing": 210251
   },
-  "oxfatjda": {
+  "340003149SOU": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003149SOU",
     "atcoCode": "340003149SOU",
     "easting": 452026,
@@ -7555,7 +7546,7 @@ module.exports = {
     "naptanCode": "oxfatjda",
     "northing": 203704
   },
-  "oxfatjdg": {
+  "340003149NOR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003149NOR",
     "atcoCode": "340003149NOR",
     "easting": 451993,
@@ -7566,7 +7557,7 @@ module.exports = {
     "naptanCode": "oxfatjdg",
     "northing": 203703
   },
-  "oxfgjmwd": {
+  "340001992J1": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001992J1",
     "atcoCode": "340001992J1",
     "easting": 451834,
@@ -7577,7 +7568,7 @@ module.exports = {
     "naptanCode": "oxfgjmwd",
     "northing": 206249
   },
-  "oxfgjpaw": {
+  "340001992J2": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001992J2",
     "atcoCode": "340001992J2",
     "easting": 451823,
@@ -7588,7 +7579,7 @@ module.exports = {
     "naptanCode": "oxfgjpaw",
     "northing": 206252
   },
-  "oxfgjmjt": {
+  "340001992J3": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001992J3",
     "atcoCode": "340001992J3",
     "easting": 451809,
@@ -7599,7 +7590,7 @@ module.exports = {
     "naptanCode": "oxfgjmjt",
     "northing": 206254
   },
-  "oxfgjmtp": {
+  "340001992K2": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001992K2",
     "atcoCode": "340001992K2",
     "easting": 451775,
@@ -7610,7 +7601,7 @@ module.exports = {
     "naptanCode": "oxfgjmtp",
     "northing": 206275
   },
-  "oxfgdwmj": {
+  "340001992K3": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001992K3",
     "atcoCode": "340001992K3",
     "easting": 451785,
@@ -7621,7 +7612,7 @@ module.exports = {
     "naptanCode": "oxfgdwmj",
     "northing": 206273
   },
-  "oxfgjmwa": {
+  "340001992K4": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001992K4",
     "atcoCode": "340001992K4",
     "easting": 451811,
@@ -7632,7 +7623,7 @@ module.exports = {
     "naptanCode": "oxfgjmwa",
     "northing": 206270
   },
-  "oxfgjmtm": {
+  "340001992K1": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001992K1",
     "atcoCode": "340001992K1",
     "easting": 451762,
@@ -7643,7 +7634,7 @@ module.exports = {
     "naptanCode": "oxfgjmtm",
     "northing": 206275
   },
-  "oxfgjmpj": {
+  "340001992J5": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001992J5",
     "atcoCode": "340001992J5",
     "easting": 451760,
@@ -7654,7 +7645,7 @@ module.exports = {
     "naptanCode": "oxfgjmpj",
     "northing": 206260
   },
-  "oxfgjpat": {
+  "340001992K5": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001992K5",
     "atcoCode": "340001992K5",
     "easting": 451821,
@@ -7665,7 +7656,7 @@ module.exports = {
     "naptanCode": "oxfgjpat",
     "northing": 206268
   },
-  "oxfgjmpg": {
+  "340001992J4": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001992J4",
     "atcoCode": "340001992J4",
     "easting": 451798,
@@ -7676,7 +7667,7 @@ module.exports = {
     "naptanCode": "oxfgjmpg",
     "northing": 206256
   },
-  "oxfatwmt": {
+  "340002070R8": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340002070R8",
     "atcoCode": "340002070R8",
     "easting": 450632,
@@ -7687,7 +7678,7 @@ module.exports = {
     "naptanCode": "oxfatwmt",
     "northing": 206261
   },
-  "oxfatwmp": {
+  "340002070R9": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340002070R9",
     "atcoCode": "340002070R9",
     "easting": 450622,
@@ -7698,7 +7689,7 @@ module.exports = {
     "naptanCode": "oxfatwmp",
     "northing": 206244
   },
-  "oxfatwpa": {
+  "340002070R10": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340002070R10",
     "atcoCode": "340002070R10",
     "easting": 450606,
@@ -7709,7 +7700,7 @@ module.exports = {
     "naptanCode": "oxfatwpa",
     "northing": 206243
   },
-  "oxfawgpm": {
+  "340003099OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003099OPP",
     "atcoCode": "340003099OPP",
     "easting": 450361,
@@ -7720,7 +7711,7 @@ module.exports = {
     "naptanCode": "oxfawgpm",
     "northing": 208522
   },
-  "oxfatdwt": {
+  "340003060OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003060OPP",
     "atcoCode": "340003060OPP",
     "easting": 455813,
@@ -7731,7 +7722,7 @@ module.exports = {
     "naptanCode": "oxfatdwt",
     "northing": 202019
   },
-  "oxfgmtad": {
+  "340001284OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001284OPP",
     "atcoCode": "340001284OPP",
     "easting": 452804,
@@ -7742,7 +7733,7 @@ module.exports = {
     "naptanCode": "oxfgmtad",
     "northing": 208444
   },
-  "oxfajajd": {
+  "340001271OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001271OPP",
     "atcoCode": "340001271OPP",
     "easting": 452756,
@@ -7753,7 +7744,7 @@ module.exports = {
     "naptanCode": "oxfajajd",
     "northing": 207976
   },
-  "oxfagwtp": {
+  "340001257OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001257OUT",
     "atcoCode": "340001257OUT",
     "easting": 454572,
@@ -7764,7 +7755,7 @@ module.exports = {
     "naptanCode": "oxfagwtp",
     "northing": 204222
   },
-  "oxfajdgd": {
+  "340001249OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001249OPP",
     "atcoCode": "340001249OPP",
     "easting": 452868,
@@ -7775,7 +7766,7 @@ module.exports = {
     "naptanCode": "oxfajdgd",
     "northing": 204610
   },
-  "oxfatdat": {
+  "340003070NAB": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003070NAB",
     "atcoCode": "340003070NAB",
     "easting": 454125,
@@ -7786,7 +7777,7 @@ module.exports = {
     "naptanCode": "oxfatdat",
     "northing": 203607
   },
-  "oxfatpgt": {
+  "340003022N": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003022N",
     "atcoCode": "340003022N",
     "easting": 453893,
@@ -7797,7 +7788,7 @@ module.exports = {
     "naptanCode": "oxfatpgt",
     "northing": 206903
   },
-  "oxfatpwd": {
+  "340003013W": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003013W",
     "atcoCode": "340003013W",
     "easting": 454063,
@@ -7808,7 +7799,7 @@ module.exports = {
     "naptanCode": "oxfatpwd",
     "northing": 206364
   },
-  "oxfgjgja": {
+  "340001851OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001851OPP",
     "atcoCode": "340001851OPP",
     "easting": 455999,
@@ -7819,7 +7810,7 @@ module.exports = {
     "naptanCode": "oxfgjgja",
     "northing": 208534
   },
-  "oxfajmap": {
+  "340001308CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001308CNR",
     "atcoCode": "340001308CNR",
     "easting": 455085,
@@ -7830,7 +7821,7 @@ module.exports = {
     "naptanCode": "oxfajmap",
     "northing": 207332
   },
-  "oxfajamj": {
+  "340001266OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001266OUT",
     "atcoCode": "340001266OUT",
     "easting": 451954,
@@ -7841,7 +7832,7 @@ module.exports = {
     "naptanCode": "oxfajamj",
     "northing": 204051
   },
-  "oxfajdpm": {
+  "340001245OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001245OPP",
     "atcoCode": "340001245OPP",
     "easting": 453150,
@@ -7852,7 +7843,7 @@ module.exports = {
     "naptanCode": "oxfajdpm",
     "northing": 204302
   },
-  "oxfadgpw": {
+  "340001126CIR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001126CIR",
     "atcoCode": "340001126CIR",
     "easting": 452372,
@@ -7863,7 +7854,7 @@ module.exports = {
     "naptanCode": "oxfadgpw",
     "northing": 205900
   },
-  "oxfadgjg": {
+  "340001095OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001095OPP",
     "atcoCode": "340001095OPP",
     "easting": 449197,
@@ -7874,7 +7865,7 @@ module.exports = {
     "naptanCode": "oxfadgjg",
     "northing": 206275
   },
-  "oxfamdpt": {
+  "340000056F2": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000056F2",
     "atcoCode": "340000056F2",
     "easting": 451231,
@@ -7885,7 +7876,7 @@ module.exports = {
     "naptanCode": "oxfamdpt",
     "northing": 206145
   },
-  "oxfadwtd": {
+  "340001058OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001058OPP",
     "atcoCode": "340001058OPP",
     "easting": 451080,
@@ -7896,7 +7887,7 @@ module.exports = {
     "naptanCode": "oxfadwtd",
     "northing": 207729
   },
-  "oxfagmdj": {
+  "340001372OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001372OPP",
     "atcoCode": "340001372OPP",
     "easting": 450399,
@@ -7907,7 +7898,7 @@ module.exports = {
     "naptanCode": "oxfagmdj",
     "northing": 198840
   },
-  "oxfgjapa": {
+  "340001853GCC": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001853GCC",
     "atcoCode": "340001853GCC",
     "easting": 459573,
@@ -7918,7 +7909,7 @@ module.exports = {
     "naptanCode": "oxfgjapa",
     "northing": 205999
   },
-  "oxfgjpam": {
+  "340001993P1": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001993P1",
     "atcoCode": "340001993P1",
     "easting": 451431,
@@ -7929,7 +7920,7 @@ module.exports = {
     "naptanCode": "oxfgjpam",
     "northing": 205743
   },
-  "oxfgadpj": {
+  "340003187OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003187OPP",
     "atcoCode": "340003187OPP",
     "easting": 450208,
@@ -7940,7 +7931,7 @@ module.exports = {
     "naptanCode": "oxfgadpj",
     "northing": 208451
   },
-  "oxfadwpd": {
+  "340001063CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001063CNR",
     "atcoCode": "340001063CNR",
     "easting": 451257,
@@ -7951,7 +7942,7 @@ module.exports = {
     "naptanCode": "oxfadwpd",
     "northing": 208329
   },
-  "oxfadwpt": {
+  "340001060CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001060CNR",
     "atcoCode": "340001060CNR",
     "easting": 451182,
@@ -7962,7 +7953,7 @@ module.exports = {
     "naptanCode": "oxfadwpt",
     "northing": 206900
   },
-  "oxfagagd": {
+  "340001051CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001051CNR",
     "atcoCode": "340001051CNR",
     "easting": 450569,
@@ -7973,7 +7964,7 @@ module.exports = {
     "naptanCode": "oxfagagd",
     "northing": 209705
   },
-  "oxfagdwm": {
+  "340001043PLT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001043PLT",
     "atcoCode": "340001043PLT",
     "easting": 450599,
@@ -7984,7 +7975,7 @@ module.exports = {
     "naptanCode": "oxfagdwm",
     "northing": 207288
   },
-  "oxfadptg": {
+  "340001002OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001002OPP",
     "atcoCode": "340001002OPP",
     "easting": 451069,
@@ -7995,7 +7986,7 @@ module.exports = {
     "naptanCode": "oxfadptg",
     "northing": 207097
   },
-  "oxfadpjg": {
+  "340000994CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000994CNR",
     "atcoCode": "340000994CNR",
     "easting": 450183,
@@ -8006,7 +7997,7 @@ module.exports = {
     "naptanCode": "oxfadpjg",
     "northing": 209572
   },
-  "oxfadwgm": {
+  "340000980OPB": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000980OPB",
     "atcoCode": "340000980OPB",
     "easting": 449197,
@@ -8017,7 +8008,7 @@ module.exports = {
     "naptanCode": "oxfadwgm",
     "northing": 198376
   },
-  "oxfadadw": {
+  "340001136OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001136OPP",
     "atcoCode": "340001136OPP",
     "easting": 453612,
@@ -8028,7 +8019,7 @@ module.exports = {
     "naptanCode": "oxfadadw",
     "northing": 203688
   },
-  "oxfadagp": {
+  "340001133OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001133OPP",
     "atcoCode": "340001133OPP",
     "easting": 453141,
@@ -8039,7 +8030,7 @@ module.exports = {
     "naptanCode": "oxfadagp",
     "northing": 204246
   },
-  "oxfadamp": {
+  "340001126TYN": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001126TYN",
     "atcoCode": "340001126TYN",
     "easting": 452452,
@@ -8050,7 +8041,7 @@ module.exports = {
     "naptanCode": "oxfadamp",
     "northing": 205879
   },
-  "oxfgpadw": {
+  "340001119NOR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001119NOR",
     "atcoCode": "340001119NOR",
     "easting": 451532,
@@ -8061,7 +8052,7 @@ module.exports = {
     "naptanCode": "oxfgpadw",
     "northing": 198462
   },
-  "oxfadwpg": {
+  "340001062CHU": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001062CHU",
     "atcoCode": "340001062CHU",
     "easting": 451248,
@@ -8072,7 +8063,7 @@ module.exports = {
     "naptanCode": "oxfadwpg",
     "northing": 208330
   },
-  "oxfagaga": {
+  "340001052CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001052CNR",
     "atcoCode": "340001052CNR",
     "easting": 450733,
@@ -8083,7 +8074,7 @@ module.exports = {
     "naptanCode": "oxfagaga",
     "northing": 209325
   },
-  "oxfagdjw": {
+  "340001048ENT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001048ENT",
     "atcoCode": "340001048ENT",
     "easting": 450308,
@@ -8094,7 +8085,7 @@ module.exports = {
     "naptanCode": "oxfagdjw",
     "northing": 210564
   },
-  "oxfagdpa": {
+  "340001044OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001044OUT",
     "atcoCode": "340001044OUT",
     "easting": 450722,
@@ -8105,7 +8096,7 @@ module.exports = {
     "naptanCode": "oxfagdpa",
     "northing": 207098
   },
-  "oxfajmpj": {
+  "340001308OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001308OPP",
     "atcoCode": "340001308OPP",
     "easting": 455188,
@@ -8116,7 +8107,7 @@ module.exports = {
     "naptanCode": "oxfajmpj",
     "northing": 207367
   },
-  "oxfajgtm": {
+  "340001297WFR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001297WFR",
     "atcoCode": "340001297WFR",
     "easting": 455877,
@@ -8127,7 +8118,7 @@ module.exports = {
     "naptanCode": "oxfajgtm",
     "northing": 207550
   },
-  "oxfajmat": {
+  "340001296TC": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001296TC",
     "atcoCode": "340001296TC",
     "easting": 456075,
@@ -8138,7 +8129,7 @@ module.exports = {
     "naptanCode": "oxfajmat",
     "northing": 207882
   },
-  "oxfajmdg": {
+  "340001293CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001293CNR",
     "atcoCode": "340001293CNR",
     "easting": 455849,
@@ -8149,7 +8140,7 @@ module.exports = {
     "naptanCode": "oxfajmdg",
     "northing": 207380
   },
-  "oxfajmdt": {
+  "340001289OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001289OPP",
     "atcoCode": "340001289OPP",
     "easting": 455982,
@@ -8160,7 +8151,7 @@ module.exports = {
     "naptanCode": "oxfajmdt",
     "northing": 206912
   },
-  "oxfajmdw": {
+  "34000128820C": {
     "_about": "http://transport.data.gov.uk/id/stop-point/34000128820C",
     "atcoCode": "34000128820C",
     "easting": 456057,
@@ -8171,7 +8162,7 @@ module.exports = {
     "naptanCode": "oxfajmdw",
     "northing": 206941
   },
-  "oxfgmtam": {
+  "340001285OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001285OUT",
     "atcoCode": "340001285OUT",
     "easting": 452676,
@@ -8182,7 +8173,7 @@ module.exports = {
     "naptanCode": "oxfgmtam",
     "northing": 208750
   },
-  "oxfajdpj": {
+  "340001283OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001283OPP",
     "atcoCode": "340001283OPP",
     "easting": 453226,
@@ -8193,7 +8184,7 @@ module.exports = {
     "naptanCode": "oxfajdpj",
     "northing": 208460
   },
-  "oxfagwtm": {
+  "340001283CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001283CNR",
     "atcoCode": "340001283CNR",
     "easting": 453218,
@@ -8204,7 +8195,7 @@ module.exports = {
     "naptanCode": "oxfagwtm",
     "northing": 208465
   },
-  "oxfajadm": {
+  "340001280CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001280CNR",
     "atcoCode": "340001280CNR",
     "easting": 453698,
@@ -8215,7 +8206,7 @@ module.exports = {
     "naptanCode": "oxfajadm",
     "northing": 208192
   },
-  "oxfgmtpm": {
+  "340001278OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001278OPP",
     "atcoCode": "340001278OPP",
     "easting": 453159,
@@ -8226,7 +8217,7 @@ module.exports = {
     "naptanCode": "oxfgmtpm",
     "northing": 207887
   },
-  "oxfatmjg": {
+  "340001278ODA": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001278ODA",
     "atcoCode": "340001278ODA",
     "easting": 453287,
@@ -8237,7 +8228,7 @@ module.exports = {
     "naptanCode": "oxfatmjg",
     "northing": 207770
   },
-  "oxfgmtmt": {
+  "340001277CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001277CNR",
     "atcoCode": "340001277CNR",
     "easting": 453311,
@@ -8248,7 +8239,7 @@ module.exports = {
     "naptanCode": "oxfgmtmt",
     "northing": 208015
   },
-  "oxfajagj": {
+  "340001275OCC": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001275OCC",
     "atcoCode": "340001275OCC",
     "easting": 452956,
@@ -8259,7 +8250,7 @@ module.exports = {
     "naptanCode": "oxfajagj",
     "northing": 207709
   },
-  "oxfajagt": {
+  "340001273OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001273OPP",
     "atcoCode": "340001273OPP",
     "easting": 452749,
@@ -8270,7 +8261,7 @@ module.exports = {
     "naptanCode": "oxfajagt",
     "northing": 208230
   },
-  "oxfajajp": {
+  "340001270CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001270CNR",
     "atcoCode": "340001270CNR",
     "easting": 452862,
@@ -8281,7 +8272,7 @@ module.exports = {
     "naptanCode": "oxfajajp",
     "northing": 207380
   },
-  "oxfajama": {
+  "340001268EWN": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001268EWN",
     "atcoCode": "340001268EWN",
     "easting": 452839,
@@ -8292,7 +8283,7 @@ module.exports = {
     "naptanCode": "oxfajama",
     "northing": 208201
   },
-  "oxfagwpa": {
+  "340001266OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001266OPP",
     "atcoCode": "340001266OPP",
     "easting": 451942,
@@ -8303,7 +8294,7 @@ module.exports = {
     "naptanCode": "oxfagwpa",
     "northing": 204038
   },
-  "oxfagwjd": {
+  "340001263ENT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001263ENT",
     "atcoCode": "340001263ENT",
     "easting": 455134,
@@ -8314,7 +8305,7 @@ module.exports = {
     "naptanCode": "oxfagwjd",
     "northing": 203509
   },
-  "oxfagwjg": {
+  "340001262OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001262OPP",
     "atcoCode": "340001262OPP",
     "easting": 453957,
@@ -8325,7 +8316,7 @@ module.exports = {
     "naptanCode": "oxfagwjg",
     "northing": 204018
   },
-  "oxfagwjm": {
+  "340001262CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001262CNR",
     "atcoCode": "340001262CNR",
     "easting": 453965,
@@ -8336,7 +8327,7 @@ module.exports = {
     "naptanCode": "oxfagwjm",
     "northing": 204007
   },
-  "oxfagwjp": {
+  "340001261OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001261OUT",
     "atcoCode": "340001261OUT",
     "easting": 454748,
@@ -8347,7 +8338,7 @@ module.exports = {
     "naptanCode": "oxfagwjp",
     "northing": 204120
   },
-  "oxfagwmg": {
+  "340001259OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001259OPP",
     "atcoCode": "340001259OPP",
     "easting": 455363,
@@ -8358,7 +8349,7 @@ module.exports = {
     "naptanCode": "oxfagwmg",
     "northing": 203666
   },
-  "oxfagwmj": {
+  "340001258OSH": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001258OSH",
     "atcoCode": "340001258OSH",
     "easting": 455030,
@@ -8369,7 +8360,7 @@ module.exports = {
     "naptanCode": "oxfagwmj",
     "northing": 203878
   },
-  "oxfagwmp": {
+  "340001258OSB": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001258OSB",
     "atcoCode": "340001258OSB",
     "easting": 455017,
@@ -8380,7 +8371,7 @@ module.exports = {
     "naptanCode": "oxfagwmp",
     "northing": 203905
   },
-  "oxfagwpd": {
+  "340001257BTW": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001257BTW",
     "atcoCode": "340001257BTW",
     "easting": 454502,
@@ -8391,7 +8382,7 @@ module.exports = {
     "naptanCode": "oxfagwpd",
     "northing": 204213
   },
-  "oxfagwta": {
+  "340001254OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001254OPP",
     "atcoCode": "340001254OPP",
     "easting": 453680,
@@ -8402,7 +8393,7 @@ module.exports = {
     "naptanCode": "oxfagwta",
     "northing": 204021
   },
-  "oxfagwtd": {
+  "340001253OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001253OPP",
     "atcoCode": "340001253OPP",
     "easting": 454544,
@@ -8413,7 +8404,7 @@ module.exports = {
     "naptanCode": "oxfagwtd",
     "northing": 203593
   },
-  "oxfajdgt": {
+  "340001247OPO": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001247OPO",
     "atcoCode": "340001247OPO",
     "easting": 453592,
@@ -8424,7 +8415,7 @@ module.exports = {
     "naptanCode": "oxfajdgt",
     "northing": 204189
   },
-  "oxfajdjp": {
+  "340001244OPS": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001244OPS",
     "atcoCode": "340001244OPS",
     "easting": 453823,
@@ -8435,7 +8426,7 @@ module.exports = {
     "naptanCode": "oxfajdjp",
     "northing": 202859
   },
-  "oxfatjdp": {
+  "340001242CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001242CNR",
     "atcoCode": "340001242CNR",
     "easting": 454213,
@@ -8446,7 +8437,7 @@ module.exports = {
     "naptanCode": "oxfatjdp",
     "northing": 203361
   },
-  "oxfatjdm": {
+  "340001239CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001239CNR",
     "atcoCode": "340001239CNR",
     "easting": 454384,
@@ -8457,7 +8448,7 @@ module.exports = {
     "naptanCode": "oxfatjdm",
     "northing": 203291
   },
-  "oxfajapj": {
+  "340001228OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001228OUT",
     "atcoCode": "340001228OUT",
     "easting": 455293,
@@ -8468,7 +8459,7 @@ module.exports = {
     "naptanCode": "oxfajapj",
     "northing": 202685
   },
-  "oxfajapw": {
+  "340001226OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001226OPP",
     "atcoCode": "340001226OPP",
     "easting": 455133,
@@ -8479,7 +8470,7 @@ module.exports = {
     "naptanCode": "oxfajapw",
     "northing": 202690
   },
-  "oxfadadg": {
+  "340001210NH": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001210NH",
     "atcoCode": "340001210NH",
     "easting": 456179,
@@ -8490,7 +8481,7 @@ module.exports = {
     "naptanCode": "oxfadadg",
     "northing": 202464
   },
-  "oxfadjwa": {
+  "340001206TD": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001206TD",
     "atcoCode": "340001206TD",
     "easting": 455745,
@@ -8501,7 +8492,7 @@ module.exports = {
     "naptanCode": "oxfadjwa",
     "northing": 202200
   },
-  "oxfadmaj": {
+  "340001202TER": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001202TER",
     "atcoCode": "340001202TER",
     "easting": 455212,
@@ -8512,7 +8503,7 @@ module.exports = {
     "naptanCode": "oxfadmaj",
     "northing": 202033
   },
-  "oxfadmap": {
+  "340001201CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001201CNR",
     "atcoCode": "340001201CNR",
     "easting": 454194,
@@ -8523,7 +8514,7 @@ module.exports = {
     "naptanCode": "oxfadmap",
     "northing": 204413
   },
-  "oxfadjpd": {
+  "340001185OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001185OPP",
     "atcoCode": "340001185OPP",
     "easting": 452342,
@@ -8534,7 +8525,7 @@ module.exports = {
     "naptanCode": "oxfadjpd",
     "northing": 198787
   },
-  "oxfadpap": {
+  "340001176OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001176OPP",
     "atcoCode": "340001176OPP",
     "easting": 452055,
@@ -8545,7 +8536,7 @@ module.exports = {
     "naptanCode": "oxfadpap",
     "northing": 202936
   },
-  "oxfadpat": {
+  "340001176KNC": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001176KNC",
     "atcoCode": "340001176KNC",
     "easting": 452055,
@@ -8556,7 +8547,7 @@ module.exports = {
     "naptanCode": "oxfadpat",
     "northing": 202917
   },
-  "oxfgjdjw": {
+  "340001903OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001903OPP",
     "atcoCode": "340001903OPP",
     "easting": 450188,
@@ -8567,7 +8558,7 @@ module.exports = {
     "naptanCode": "oxfgjdjw",
     "northing": 211560
   },
-  "oxfgjdjp": {
+  "340001903OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001903OUT",
     "atcoCode": "340001903OUT",
     "easting": 450193,
@@ -8578,9 +8569,8 @@ module.exports = {
     "naptanCode": "oxfgjdjp",
     "northing": 211566
   },
-  "oxfgpgpw": {
+  "340001915D5": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001915D5",
-    "alias": "Bonn Square D5 DEL",
     "atcoCode": "340001915D5",
     "easting": 451171,
     "lat": "51.7516307877",
@@ -8589,7 +8579,7 @@ module.exports = {
     "naptanCode": "oxfgpgpw",
     "northing": 206140
   },
-  "oxfatmgd": {
+  "340001959OCW": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001959OCW",
     "atcoCode": "340001959OCW",
     "easting": 453674,
@@ -8600,7 +8590,7 @@ module.exports = {
     "naptanCode": "oxfatmgd",
     "northing": 201577
   },
-  "oxfawtdg": {
+  "340001975VHL": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001975VHL",
     "atcoCode": "340001975VHL",
     "easting": 459831,
@@ -8611,7 +8601,7 @@ module.exports = {
     "naptanCode": "oxfawtdg",
     "northing": 202932
   },
-  "oxfawtda": {
+  "340001976OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001976OUT",
     "atcoCode": "340001976OUT",
     "easting": 459555,
@@ -8622,7 +8612,7 @@ module.exports = {
     "naptanCode": "oxfawtda",
     "northing": 202517
   },
-  "oxfgjgtm": {
+  "340001989S1": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001989S1",
     "atcoCode": "340001989S1",
     "easting": 451352,
@@ -8633,7 +8623,7 @@ module.exports = {
     "naptanCode": "oxfgjgtm",
     "northing": 205786
   },
-  "oxfgjmap": {
+  "340001989S2": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001989S2",
     "atcoCode": "340001989S2",
     "easting": 451308,
@@ -8644,7 +8634,7 @@ module.exports = {
     "naptanCode": "oxfgjmap",
     "northing": 205789
   },
-  "oxfgjmja": {
+  "340001993P2": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001993P2",
     "atcoCode": "340001993P2",
     "easting": 451420,
@@ -8655,7 +8645,7 @@ module.exports = {
     "naptanCode": "oxfgjmja",
     "northing": 205727
   },
-  "oxfatwtp": {
+  "340002053CR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340002053CR",
     "atcoCode": "340002053CR",
     "easting": 450490,
@@ -8666,7 +8656,7 @@ module.exports = {
     "naptanCode": "oxfatwtp",
     "northing": 206903
   },
-  "oxfatwtm": {
+  "340002053VS": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340002053VS",
     "atcoCode": "340002053VS",
     "easting": 450497,
@@ -8677,7 +8667,7 @@ module.exports = {
     "naptanCode": "oxfatwtm",
     "northing": 206872
   },
-  "oxfatwtj": {
+  "340002054EAS": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340002054EAS",
     "atcoCode": "340002054EAS",
     "easting": 450694,
@@ -8688,7 +8678,7 @@ module.exports = {
     "naptanCode": "oxfatwtj",
     "northing": 207112
   },
-  "oxfatwtg": {
+  "340002054WES": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340002054WES",
     "atcoCode": "340002054WES",
     "easting": 450689,
@@ -8699,7 +8689,7 @@ module.exports = {
     "naptanCode": "oxfatwtg",
     "northing": 207118
   },
-  "oxfatwtd": {
+  "340002055CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340002055CNR",
     "atcoCode": "340002055CNR",
     "easting": 450553,
@@ -8710,7 +8700,7 @@ module.exports = {
     "naptanCode": "oxfatwtd",
     "northing": 207705
   },
-  "oxfatwta": {
+  "340002055OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340002055OPP",
     "atcoCode": "340002055OPP",
     "easting": 450543,
@@ -8721,7 +8711,7 @@ module.exports = {
     "naptanCode": "oxfatwta",
     "northing": 207751
   },
-  "oxfatwpw": {
+  "340002057CRS": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340002057CRS",
     "atcoCode": "340002057CRS",
     "easting": 450487,
@@ -8732,7 +8722,7 @@ module.exports = {
     "naptanCode": "oxfatwpw",
     "northing": 210063
   },
-  "oxfatwmj": {
+  "340002071A": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340002071A",
     "atcoCode": "340002071A",
     "easting": 455407,
@@ -8743,7 +8733,7 @@ module.exports = {
     "naptanCode": "oxfatwmj",
     "northing": 202026
   },
-  "oxfawajw": {
+  "340002092OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340002092OUT",
     "atcoCode": "340002092OUT",
     "easting": 455158,
@@ -8754,7 +8744,7 @@ module.exports = {
     "naptanCode": "oxfawajw",
     "northing": 206762
   },
-  "oxfatmtg": {
+  "340002092WYW": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340002092WYW",
     "atcoCode": "340002092WYW",
     "easting": 455156,
@@ -8765,7 +8755,7 @@ module.exports = {
     "naptanCode": "oxfatmtg",
     "northing": 206770
   },
-  "oxfatpwg": {
+  "340003013E": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003013E",
     "atcoCode": "340003013E",
     "easting": 454095,
@@ -8776,7 +8766,7 @@ module.exports = {
     "naptanCode": "oxfatpwg",
     "northing": 206381
   },
-  "oxfatpwa": {
+  "340003014E": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003014E",
     "atcoCode": "340003014E",
     "easting": 453183,
@@ -8787,7 +8777,7 @@ module.exports = {
     "naptanCode": "oxfatpwa",
     "northing": 207933
   },
-  "oxfatptw": {
+  "340003015E": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003015E",
     "atcoCode": "340003015E",
     "easting": 453511,
@@ -8798,7 +8788,7 @@ module.exports = {
     "naptanCode": "oxfatptw",
     "northing": 208073
   },
-  "oxfatptm": {
+  "340003017W": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003017W",
     "atcoCode": "340003017W",
     "easting": 453326,
@@ -8809,7 +8799,7 @@ module.exports = {
     "naptanCode": "oxfatptm",
     "northing": 207919
   },
-  "oxfatptj": {
+  "340003018S": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003018S",
     "atcoCode": "340003018S",
     "easting": 453616,
@@ -8820,7 +8810,7 @@ module.exports = {
     "naptanCode": "oxfatptj",
     "northing": 208022
   },
-  "oxfatptd": {
+  "340003020S": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003020S",
     "atcoCode": "340003020S",
     "easting": 453624,
@@ -8831,7 +8821,7 @@ module.exports = {
     "naptanCode": "oxfatptd",
     "northing": 207771
   },
-  "oxfawatj": {
+  "340003025N": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003025N",
     "atcoCode": "340003025N",
     "easting": 456282,
@@ -8842,7 +8832,7 @@ module.exports = {
     "naptanCode": "oxfawatj",
     "northing": 202687
   },
-  "oxfatpmd": {
+  "340003026W": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003026W",
     "atcoCode": "340003026W",
     "easting": 450206,
@@ -8853,7 +8843,7 @@ module.exports = {
     "naptanCode": "oxfatpmd",
     "northing": 211872
   },
-  "oxfatwam": {
+  "340003054CRP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003054CRP",
     "atcoCode": "340003054CRP",
     "easting": 453617,
@@ -8864,7 +8854,7 @@ module.exports = {
     "naptanCode": "oxfatwam",
     "northing": 203630
   },
-  "oxfatwag": {
+  "340003055COR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003055COR",
     "atcoCode": "340003055COR",
     "easting": 455000,
@@ -8875,7 +8865,7 @@ module.exports = {
     "naptanCode": "oxfatwag",
     "northing": 204764
   },
-  "oxfatwaj": {
+  "340003055OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003055OPP",
     "atcoCode": "340003055OPP",
     "easting": 455086,
@@ -8886,7 +8876,7 @@ module.exports = {
     "naptanCode": "oxfatwaj",
     "northing": 204743
   },
-  "oxfatwad": {
+  "340003056COR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003056COR",
     "atcoCode": "340003056COR",
     "easting": 455109,
@@ -8897,7 +8887,7 @@ module.exports = {
     "naptanCode": "oxfatwad",
     "northing": 205671
   },
-  "oxfatpwt": {
+  "340003056OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003056OPP",
     "atcoCode": "340003056OPP",
     "easting": 455151,
@@ -8908,7 +8898,7 @@ module.exports = {
     "naptanCode": "oxfatpwt",
     "northing": 205596
   },
-  "oxfatpwp": {
+  "340003057COR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003057COR",
     "atcoCode": "340003057COR",
     "easting": 454568,
@@ -8919,7 +8909,7 @@ module.exports = {
     "naptanCode": "oxfatpwp",
     "northing": 206360
   },
-  "oxfawdgm": {
+  "340003057OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003057OPP",
     "atcoCode": "340003057OPP",
     "easting": 454426,
@@ -8930,7 +8920,7 @@ module.exports = {
     "naptanCode": "oxfawdgm",
     "northing": 206363
   },
-  "oxfawatm": {
+  "340003058EAS": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003058EAS",
     "atcoCode": "340003058EAS",
     "easting": 454935,
@@ -8941,7 +8931,7 @@ module.exports = {
     "naptanCode": "oxfawatm",
     "northing": 204895
   },
-  "oxfawatg": {
+  "340003059NOR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003059NOR",
     "atcoCode": "340003059NOR",
     "easting": 456087,
@@ -8952,7 +8942,7 @@ module.exports = {
     "naptanCode": "oxfawatg",
     "northing": 202132
   },
-  "oxfawatd": {
+  "340003059SOU": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003059SOU",
     "atcoCode": "340003059SOU",
     "easting": 456094,
@@ -8963,7 +8953,7 @@ module.exports = {
     "naptanCode": "oxfawatd",
     "northing": 202114
   },
-  "oxfawata": {
+  "340003060OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003060OUT",
     "atcoCode": "340003060OUT",
     "easting": 455831,
@@ -8974,7 +8964,7 @@ module.exports = {
     "naptanCode": "oxfawata",
     "northing": 202033
   },
-  "oxfatdja": {
+  "340003062FRY": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003062FRY",
     "atcoCode": "340003062FRY",
     "easting": 455344,
@@ -8985,7 +8975,7 @@ module.exports = {
     "naptanCode": "oxfatdja",
     "northing": 201917
   },
-  "oxfatdjd": {
+  "340003062GRE": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003062GRE",
     "atcoCode": "340003062GRE",
     "easting": 455298,
@@ -8996,7 +8986,7 @@ module.exports = {
     "naptanCode": "oxfatdjd",
     "northing": 201845
   },
-  "oxfatdjp": {
+  "340003070NAL": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003070NAL",
     "atcoCode": "340003070NAL",
     "easting": 454058,
@@ -9007,7 +8997,7 @@ module.exports = {
     "naptanCode": "oxfatdjp",
     "northing": 203535
   },
-  "oxfatmjd": {
+  "340003073JGW": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003073JGW",
     "atcoCode": "340003073JGW",
     "easting": 452856,
@@ -9018,7 +9008,7 @@ module.exports = {
     "naptanCode": "oxfatmjd",
     "northing": 206788
   },
-  "oxfawawj": {
+  "340003074CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003074CNR",
     "atcoCode": "340003074CNR",
     "easting": 453952,
@@ -9029,7 +9019,7 @@ module.exports = {
     "naptanCode": "oxfawawj",
     "northing": 204424
   },
-  "oxfawdmj": {
+  "340003074OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003074OPP",
     "atcoCode": "340003074OPP",
     "easting": 453957,
@@ -9040,7 +9030,7 @@ module.exports = {
     "naptanCode": "oxfawdmj",
     "northing": 204441
   },
-  "oxfawdtj": {
+  "340003075CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003075CNR",
     "atcoCode": "340003075CNR",
     "easting": 453865,
@@ -9051,7 +9041,7 @@ module.exports = {
     "naptanCode": "oxfawdtj",
     "northing": 204290
   },
-  "oxfawawp": {
+  "340003075OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003075OPP",
     "atcoCode": "340003075OPP",
     "easting": 453896,
@@ -9062,7 +9052,7 @@ module.exports = {
     "naptanCode": "oxfawawp",
     "northing": 204264
   },
-  "oxfawgjt": {
+  "340003098OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003098OPP",
     "atcoCode": "340003098OPP",
     "easting": 450463,
@@ -9073,7 +9063,7 @@ module.exports = {
     "naptanCode": "oxfawgjt",
     "northing": 208580
   },
-  "oxfawgta": {
+  "340003098OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003098OUT",
     "atcoCode": "340003098OUT",
     "easting": 450466,
@@ -9084,7 +9074,7 @@ module.exports = {
     "naptanCode": "oxfawgta",
     "northing": 208576
   },
-  "oxfawgpg": {
+  "340003099FRN": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003099FRN",
     "atcoCode": "340003099FRN",
     "easting": 450284,
@@ -9095,7 +9085,7 @@ module.exports = {
     "naptanCode": "oxfawgpg",
     "northing": 208498
   },
-  "oxfatdpg": {
+  "340003099FRW": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003099FRW",
     "atcoCode": "340003099FRW",
     "easting": 450285,
@@ -9106,7 +9096,7 @@ module.exports = {
     "naptanCode": "oxfatdpg",
     "northing": 208486
   },
-  "oxfawgwm": {
+  "340003099OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003099OUT",
     "atcoCode": "340003099OUT",
     "easting": 450376,
@@ -9117,7 +9107,7 @@ module.exports = {
     "naptanCode": "oxfawgwm",
     "northing": 208541
   },
-  "oxfatgjm": {
+  "340003100OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003100OPP",
     "atcoCode": "340003100OPP",
     "easting": 452464,
@@ -9128,7 +9118,7 @@ module.exports = {
     "naptanCode": "oxfatgjm",
     "northing": 200718
   },
-  "oxfatgjp": {
+  "340003100OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003100OUT",
     "atcoCode": "340003100OUT",
     "easting": 452453,
@@ -9139,7 +9129,7 @@ module.exports = {
     "naptanCode": "oxfatgjp",
     "northing": 200760
   },
-  "oxfatgjd": {
+  "340003101CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003101CNR",
     "atcoCode": "340003101CNR",
     "easting": 452070,
@@ -9150,7 +9140,7 @@ module.exports = {
     "naptanCode": "oxfatgjd",
     "northing": 198699
   },
-  "oxfatgja": {
+  "340003101OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003101OPP",
     "atcoCode": "340003101OPP",
     "easting": 452110,
@@ -9161,7 +9151,7 @@ module.exports = {
     "naptanCode": "oxfatgja",
     "northing": 198717
   },
-  "oxfatdwp": {
+  "340003102OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003102OPP",
     "atcoCode": "340003102OPP",
     "easting": 451360,
@@ -9172,7 +9162,7 @@ module.exports = {
     "naptanCode": "oxfatdwp",
     "northing": 198378
   },
-  "oxfgadpm": {
+  "340003187CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003187CNR",
     "atcoCode": "340003187CNR",
     "easting": 450198,
@@ -9183,7 +9173,7 @@ module.exports = {
     "naptanCode": "oxfgadpm",
     "northing": 208458
   },
-  "oxfgadjw": {
+  "340003261OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003261OPP",
     "atcoCode": "340003261OPP",
     "easting": 449444,
@@ -9194,7 +9184,7 @@ module.exports = {
     "naptanCode": "oxfgadjw",
     "northing": 205434
   },
-  "oxfawtwm": {
+  "340003263OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003263OPP",
     "atcoCode": "340003263OPP",
     "easting": 450116,
@@ -9205,7 +9195,7 @@ module.exports = {
     "naptanCode": "oxfawtwm",
     "northing": 199478
   },
-  "oxfawtwt": {
+  "340003268OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003268OPP",
     "atcoCode": "340003268OPP",
     "easting": 450801,
@@ -9216,7 +9206,7 @@ module.exports = {
     "naptanCode": "oxfawtwt",
     "northing": 199186
   },
-  "oxfawptd": {
+  "340003270OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003270OPP",
     "atcoCode": "340003270OPP",
     "easting": 451304,
@@ -9227,7 +9217,7 @@ module.exports = {
     "naptanCode": "oxfawptd",
     "northing": 198706
   },
-  "oxfawptm": {
+  "340003283OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003283OPP",
     "atcoCode": "340003283OPP",
     "easting": 459929,
@@ -9238,7 +9228,7 @@ module.exports = {
     "naptanCode": "oxfawptm",
     "northing": 203427
   },
-  "oxfagmwa": {
+  "340001375OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001375OUT",
     "atcoCode": "340001375OUT",
     "easting": 449558,
@@ -9249,7 +9239,7 @@ module.exports = {
     "naptanCode": "oxfagmwa",
     "northing": 200554
   },
-  "oxfajgja": {
+  "340001359CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001359CNR",
     "atcoCode": "340001359CNR",
     "easting": 454607,
@@ -9260,7 +9250,7 @@ module.exports = {
     "naptanCode": "oxfajgja",
     "northing": 207014
   },
-  "oxfajmjp": {
+  "340001318CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001318CNR",
     "atcoCode": "340001318CNR",
     "easting": 453178,
@@ -9271,7 +9261,7 @@ module.exports = {
     "naptanCode": "oxfajmjp",
     "northing": 205939
   },
-  "oxfajmpg": {
+  "340001315CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001315CNR",
     "atcoCode": "340001315CNR",
     "easting": 452765,
@@ -9282,7 +9272,7 @@ module.exports = {
     "naptanCode": "oxfajmpg",
     "northing": 206245
   },
-  "oxfajmpm": {
+  "340001314GLC": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001314GLC",
     "atcoCode": "340001314GLC",
     "easting": 453761,
@@ -9293,7 +9283,7 @@ module.exports = {
     "naptanCode": "oxfajmpm",
     "northing": 206526
   },
-  "oxfajmta": {
+  "340001312OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001312OPP",
     "atcoCode": "340001312OPP",
     "easting": 454921,
@@ -9304,7 +9294,7 @@ module.exports = {
     "naptanCode": "oxfajmta",
     "northing": 207291
   },
-  "oxfajgtw": {
+  "340001306SCC": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001306SCC",
     "atcoCode": "340001306SCC",
     "easting": 454992,
@@ -9315,7 +9305,7 @@ module.exports = {
     "naptanCode": "oxfajgtw",
     "northing": 206011
   },
-  "oxfajgwm": {
+  "340001303OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001303OPP",
     "atcoCode": "340001303OPP",
     "easting": 454855,
@@ -9326,7 +9316,7 @@ module.exports = {
     "naptanCode": "oxfajgwm",
     "northing": 206132
   },
-  "oxfajmgj": {
+  "340001300OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001300OPP",
     "atcoCode": "340001300OPP",
     "easting": 455422,
@@ -9337,7 +9327,7 @@ module.exports = {
     "naptanCode": "oxfajmgj",
     "northing": 206013
   },
-  "oxfatgmw": {
+  "340001292OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001292OPP",
     "atcoCode": "340001292OPP",
     "easting": 455729,
@@ -9348,7 +9338,7 @@ module.exports = {
     "naptanCode": "oxfatgmw",
     "northing": 207644
   },
-  "oxfgpjpg": {
+  "340001289LEW": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001289LEW",
     "atcoCode": "340001289LEW",
     "easting": 456076,
@@ -9359,7 +9349,7 @@ module.exports = {
     "naptanCode": "oxfgpjpg",
     "northing": 206875
   },
-  "oxfajagw": {
+  "340001265OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001265OPP",
     "atcoCode": "340001265OPP",
     "easting": 453350,
@@ -9370,7 +9360,7 @@ module.exports = {
     "naptanCode": "oxfajagw",
     "northing": 202150
   },
-  "oxfadjpw": {
+  "340001183OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001183OPP",
     "atcoCode": "340001183OPP",
     "easting": 452200,
@@ -9381,7 +9371,7 @@ module.exports = {
     "naptanCode": "oxfadjpw",
     "northing": 199351
   },
-  "oxfadjdg": {
+  "340001105CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001105CNR",
     "atcoCode": "340001105CNR",
     "easting": 448214,
@@ -9392,7 +9382,7 @@ module.exports = {
     "naptanCode": "oxfadjdg",
     "northing": 205860
   },
-  "oxfadaga": {
+  "340001135SOU": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001135SOU",
     "atcoCode": "340001135SOU",
     "easting": 453670,
@@ -9403,7 +9393,7 @@ module.exports = {
     "naptanCode": "oxfadaga",
     "northing": 203500
   },
-  "oxfajgda": {
+  "340001325CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001325CNR",
     "atcoCode": "340001325CNR",
     "easting": 452875,
@@ -9414,7 +9404,7 @@ module.exports = {
     "naptanCode": "oxfajgda",
     "northing": 205987
   },
-  "oxfajmjt": {
+  "340001317OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001317OUT",
     "atcoCode": "340001317OUT",
     "easting": 452558,
@@ -9425,7 +9415,7 @@ module.exports = {
     "naptanCode": "oxfajmjt",
     "northing": 206040
   },
-  "oxfajamt": {
+  "340001274OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001274OPP",
     "atcoCode": "340001274OPP",
     "easting": 452831,
@@ -9436,7 +9426,7 @@ module.exports = {
     "naptanCode": "oxfajamt",
     "northing": 207031
   },
-  "oxfatmgj": {
+  "340001265CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001265CNR",
     "atcoCode": "340001265CNR",
     "easting": 453339,
@@ -9447,7 +9437,7 @@ module.exports = {
     "naptanCode": "oxfatmgj",
     "northing": 202151
   },
-  "oxfgpagj": {
+  "340004061SOU": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004061SOU",
     "atcoCode": "340004061SOU",
     "easting": 450017,
@@ -9458,7 +9448,7 @@ module.exports = {
     "naptanCode": "oxfgpagj",
     "northing": 198658
   },
-  "oxfawpgt": {
+  "340003274WES": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003274WES",
     "atcoCode": "340003274WES",
     "easting": 457632,
@@ -9469,7 +9459,7 @@ module.exports = {
     "naptanCode": "oxfawpgt",
     "northing": 202678
   },
-  "oxfawjmp": {
+  "340003247OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003247OPP",
     "atcoCode": "340003247OPP",
     "easting": 449480,
@@ -9480,7 +9470,7 @@ module.exports = {
     "naptanCode": "oxfawjmp",
     "northing": 210635
   },
-  "oxfgmjap": {
+  "340004093WES": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004093WES",
     "atcoCode": "340004093WES",
     "easting": 451097,
@@ -9491,7 +9481,7 @@ module.exports = {
     "naptanCode": "oxfgmjap",
     "northing": 208421
   },
-  "oxfgmdmd": {
+  "340004097NOR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004097NOR",
     "atcoCode": "340004097NOR",
     "easting": 453170,
@@ -9502,7 +9492,7 @@ module.exports = {
     "naptanCode": "oxfgmdmd",
     "northing": 203028
   },
-  "oxfgmdta": {
+  "340004101SOU": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004101SOU",
     "atcoCode": "340004101SOU",
     "easting": 453487,
@@ -9513,7 +9503,7 @@ module.exports = {
     "naptanCode": "oxfgmdta",
     "northing": 203571
   },
-  "oxfgmdwm": {
+  "340004103WES": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004103WES",
     "atcoCode": "340004103WES",
     "easting": 453731,
@@ -9524,7 +9514,7 @@ module.exports = {
     "naptanCode": "oxfgmdwm",
     "northing": 203777
   },
-  "oxfgmjmd": {
+  "340004115EAS": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004115EAS",
     "atcoCode": "340004115EAS",
     "easting": 455277,
@@ -9535,7 +9525,7 @@ module.exports = {
     "naptanCode": "oxfgmjmd",
     "northing": 205507
   },
-  "oxfamgdp": {
+  "340000056F1": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000056F1",
     "atcoCode": "340000056F1",
     "easting": 451216,
@@ -9546,7 +9536,7 @@ module.exports = {
     "naptanCode": "oxfamgdp",
     "northing": 206144
   },
-  "oxfamdtw": {
+  "340000034FH": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000034FH",
     "atcoCode": "340000034FH",
     "easting": 448985,
@@ -9557,7 +9547,7 @@ module.exports = {
     "naptanCode": "oxfamdtw",
     "northing": 202142
   },
-  "oxfatmgt": {
+  "340000022DDC": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000022DDC",
     "atcoCode": "340000022DDC",
     "easting": 453693,
@@ -9568,7 +9558,7 @@ module.exports = {
     "naptanCode": "oxfatmgt",
     "northing": 202889
   },
-  "oxfamjaw": {
+  "340000023OVA": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000023OVA",
     "atcoCode": "340000023OVA",
     "easting": 453040,
@@ -9579,7 +9569,7 @@ module.exports = {
     "naptanCode": "oxfamjaw",
     "northing": 203215
   },
-  "oxfawdjw": {
+  "340000029WES": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000029WES",
     "atcoCode": "340000029WES",
     "easting": 450772,
@@ -9590,7 +9580,7 @@ module.exports = {
     "naptanCode": "oxfawdjw",
     "northing": 209872
   },
-  "oxfadadt": {
+  "340001136OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001136OUT",
     "atcoCode": "340001136OUT",
     "easting": 453578,
@@ -9601,7 +9591,7 @@ module.exports = {
     "naptanCode": "oxfadadt",
     "northing": 203770
   },
-  "oxfatptp": {
+  "340003016W": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003016W",
     "atcoCode": "340003016W",
     "easting": 453514,
@@ -9612,7 +9602,7 @@ module.exports = {
     "naptanCode": "oxfatptp",
     "northing": 207980
   },
-  "oxfatpta": {
+  "340003021N": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003021N",
     "atcoCode": "340003021N",
     "easting": 453534,
@@ -9623,7 +9613,7 @@ module.exports = {
     "naptanCode": "oxfatpta",
     "northing": 207620
   },
-  "oxfatmtm": {
+  "340003022S": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003022S",
     "atcoCode": "340003022S",
     "easting": 453920,
@@ -9634,7 +9624,7 @@ module.exports = {
     "naptanCode": "oxfatmtm",
     "northing": 206883
   },
-  "oxfawatp": {
+  "340003058WES": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003058WES",
     "atcoCode": "340003058WES",
     "easting": 455263,
@@ -9645,7 +9635,7 @@ module.exports = {
     "naptanCode": "oxfawatp",
     "northing": 206302
   },
-  "oxfatdjg": {
+  "340003061OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003061OPP",
     "atcoCode": "340003061OPP",
     "easting": 455637,
@@ -9656,7 +9646,7 @@ module.exports = {
     "naptanCode": "oxfatdjg",
     "northing": 201956
   },
-  "oxfatdjm": {
+  "340003061OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003061OUT",
     "atcoCode": "340003061OUT",
     "easting": 455583,
@@ -9667,7 +9657,7 @@ module.exports = {
     "naptanCode": "oxfatdjm",
     "northing": 201942
   },
-  "oxfawpta": {
+  "340003270CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003270CNR",
     "atcoCode": "340003270CNR",
     "easting": 451286,
@@ -9678,7 +9668,7 @@ module.exports = {
     "naptanCode": "oxfawpta",
     "northing": 198697
   },
-  "oxfgatwg": {
+  "340001713GDE": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001713GDE",
     "atcoCode": "340001713GDE",
     "easting": 448422,
@@ -9689,7 +9679,7 @@ module.exports = {
     "naptanCode": "oxfgatwg",
     "northing": 209289
   },
-  "oxfgatgp": {
+  "340001693OKA": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001693OKA",
     "atcoCode": "340001693OKA",
     "easting": 460899,
@@ -9700,7 +9690,7 @@ module.exports = {
     "naptanCode": "oxfgatgp",
     "northing": 205325
   },
-  "oxfgawdg": {
+  "340001688CRW": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001688CRW",
     "atcoCode": "340001688CRW",
     "easting": 459991,
@@ -9711,7 +9701,7 @@ module.exports = {
     "naptanCode": "oxfgawdg",
     "northing": 205717
   },
-  "oxfgatat": {
+  "340001688CRE": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001688CRE",
     "atcoCode": "340001688CRE",
     "easting": 460005,
@@ -9722,7 +9712,7 @@ module.exports = {
     "naptanCode": "oxfgatat",
     "northing": 205723
   },
-  "oxfgawpg": {
+  "340001685OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001685OUT",
     "atcoCode": "340001685OUT",
     "easting": 459494,
@@ -9733,7 +9723,7 @@ module.exports = {
     "naptanCode": "oxfgawpg",
     "northing": 205832
   },
-  "oxfgawta": {
+  "340001683LWR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001683LWR",
     "atcoCode": "340001683LWR",
     "easting": 457799,
@@ -9744,7 +9734,7 @@ module.exports = {
     "naptanCode": "oxfgawta",
     "northing": 204951
   },
-  "oxfgjtdt": {
+  "340001975GRN": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001975GRN",
     "atcoCode": "340001975GRN",
     "easting": 459944,
@@ -9755,7 +9745,7 @@ module.exports = {
     "naptanCode": "oxfgjtdt",
     "northing": 203006
   },
-  "oxfgjatj": {
+  "340001959PUB": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001959PUB",
     "atcoCode": "340001959PUB",
     "easting": 453636,
@@ -9766,7 +9756,7 @@ module.exports = {
     "naptanCode": "oxfgjatj",
     "northing": 201599
   },
-  "oxfatjpj": {
+  "340001852POC": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001852POC",
     "atcoCode": "340001852POC",
     "easting": 458688,
@@ -9777,7 +9767,7 @@ module.exports = {
     "naptanCode": "oxfatjpj",
     "northing": 207785
   },
-  "oxfgjapd": {
+  "340001852OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001852OUT",
     "atcoCode": "340001852OUT",
     "easting": 458677,
@@ -9788,7 +9778,7 @@ module.exports = {
     "naptanCode": "oxfgjapd",
     "northing": 207828
   },
-  "oxfatdjw": {
+  "340001851OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001851OUT",
     "atcoCode": "340001851OUT",
     "easting": 455984,
@@ -9799,7 +9789,7 @@ module.exports = {
     "naptanCode": "oxfatdjw",
     "northing": 208496
   },
-  "oxfgjmdj": {
+  "340001850BAY": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001850BAY",
     "atcoCode": "340001850BAY",
     "easting": 456646,
@@ -9810,7 +9800,7 @@ module.exports = {
     "naptanCode": "oxfgjmdj",
     "northing": 210040
   },
-  "oxfgjpmw": {
+  "340001849OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001849OPP",
     "atcoCode": "340001849OPP",
     "easting": 457874,
@@ -9821,7 +9811,7 @@ module.exports = {
     "naptanCode": "oxfgjpmw",
     "northing": 208879
   },
-  "oxfawgwj": {
+  "340001848OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001848OUT",
     "atcoCode": "340001848OUT",
     "easting": 459792,
@@ -9832,7 +9822,7 @@ module.exports = {
     "naptanCode": "oxfawgwj",
     "northing": 205739
   },
-  "oxfgjpta": {
+  "340001848OPF": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001848OPF",
     "atcoCode": "340001848OPF",
     "easting": 459748,
@@ -9843,7 +9833,7 @@ module.exports = {
     "naptanCode": "oxfgjpta",
     "northing": 205754
   },
-  "oxfgjptm": {
+  "340001847HOL": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001847HOL",
     "atcoCode": "340001847HOL",
     "easting": 459496,
@@ -9854,7 +9844,7 @@ module.exports = {
     "naptanCode": "oxfgjptm",
     "northing": 206286
   },
-  "oxfgjpwd": {
+  "340001846OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001846OUT",
     "atcoCode": "340001846OUT",
     "easting": 460109,
@@ -9865,7 +9855,7 @@ module.exports = {
     "naptanCode": "oxfgjpwd",
     "northing": 206621
   },
-  "oxfgjgwa": {
+  "340001815SMR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001815SMR",
     "atcoCode": "340001815SMR",
     "easting": 448935,
@@ -9876,7 +9866,7 @@ module.exports = {
     "naptanCode": "oxfgjgwa",
     "northing": 205741
   },
-  "oxfgjgwm": {
+  "340001812WWC": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001812WWC",
     "atcoCode": "340001812WWC",
     "easting": 448657,
@@ -9887,7 +9877,7 @@ module.exports = {
     "naptanCode": "oxfgjgwm",
     "northing": 206148
   },
-  "oxfgmdpa": {
+  "340001812CHP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001812CHP",
     "atcoCode": "340001812CHP",
     "easting": 448688,
@@ -9898,7 +9888,7 @@ module.exports = {
     "naptanCode": "oxfgmdpa",
     "northing": 206071
   },
-  "oxfgmgta": {
+  "340004108NOR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004108NOR",
     "atcoCode": "340004108NOR",
     "easting": 455328,
@@ -9909,7 +9899,7 @@ module.exports = {
     "naptanCode": "oxfgmgta",
     "northing": 206975
   },
-  "oxfatgdw": {
+  "340003102COR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003102COR",
     "atcoCode": "340003102COR",
     "easting": 451369,
@@ -9920,7 +9910,7 @@ module.exports = {
     "naptanCode": "oxfatgdw",
     "northing": 198385
   },
-  "oxfatpmw": {
+  "340003021S": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003021S",
     "atcoCode": "340003021S",
     "easting": 453546,
@@ -9931,7 +9921,7 @@ module.exports = {
     "naptanCode": "oxfatpmw",
     "northing": 207601
   },
-  "oxfapmjd": {
+  "340000557OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000557OPP",
     "atcoCode": "340000557OPP",
     "easting": 460088,
@@ -9942,7 +9932,7 @@ module.exports = {
     "naptanCode": "oxfapmjd",
     "northing": 206651
   },
-  "oxfgdjdp": {
+  "340001746OPB": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001746OPB",
     "atcoCode": "340001746OPB",
     "easting": 456937,
@@ -9953,7 +9943,7 @@ module.exports = {
     "naptanCode": "oxfgdjdp",
     "northing": 210912
   },
-  "oxfgatmg": {
+  "340001713GDW": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001713GDW",
     "atcoCode": "340001713GDW",
     "easting": 448427,
@@ -9964,7 +9954,7 @@ module.exports = {
     "naptanCode": "oxfgatmg",
     "northing": 209286
   },
-  "oxfgjpgd": {
+  "340002029FLA": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340002029FLA",
     "atcoCode": "340002029FLA",
     "easting": 453740,
@@ -9975,7 +9965,7 @@ module.exports = {
     "naptanCode": "oxfgjpgd",
     "northing": 205657
   },
-  "oxfgjtgw": {
+  "340001976VIL": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001976VIL",
     "atcoCode": "340001976VIL",
     "easting": 459555,
@@ -9986,7 +9976,7 @@ module.exports = {
     "naptanCode": "oxfgjtgw",
     "northing": 202532
   },
-  "oxfgjatp": {
+  "340001864OPG": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001864OPG",
     "atcoCode": "340001864OPG",
     "easting": 448248,
@@ -9997,7 +9987,7 @@ module.exports = {
     "naptanCode": "oxfgjatp",
     "northing": 212141
   },
-  "oxfgdjdg": {
+  "340001747ORC": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001747ORC",
     "atcoCode": "340001747ORC",
     "easting": 459995,
@@ -10008,7 +9998,7 @@ module.exports = {
     "naptanCode": "oxfgdjdg",
     "northing": 212356
   },
-  "oxfgjawd": {
+  "340001864GC": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001864GC",
     "atcoCode": "340001864GC",
     "easting": 448242,
@@ -10019,7 +10009,7 @@ module.exports = {
     "naptanCode": "oxfgjawd",
     "northing": 212155
   },
-  "oxfgjpmt": {
+  "340001849OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001849OUT",
     "atcoCode": "340001849OUT",
     "easting": 457891,
@@ -10030,9 +10020,8 @@ module.exports = {
     "naptanCode": "oxfgjpmt",
     "northing": 208844
   },
-  "oxfapgwj": {
+  "340000868D1": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000868D1",
-    "alias": "New Road",
     "atcoCode": "340000868D1",
     "easting": 450963,
     "indicator": "Stop D1",
@@ -10042,9 +10031,8 @@ module.exports = {
     "naptanCode": "oxfapgwj",
     "northing": 206247
   },
-  "oxfapgwg": {
+  "340000868D3": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000868D3",
-    "alias": "New Road",
     "atcoCode": "340000868D3",
     "easting": 451013,
     "indicator": "Stop D3",
@@ -10054,9 +10042,8 @@ module.exports = {
     "naptanCode": "oxfapgwg",
     "northing": 206221
   },
-  "oxfapgwm": {
+  "34000086805": {
     "_about": "http://transport.data.gov.uk/id/stop-point/34000086805",
-    "alias": "New Road",
     "atcoCode": "34000086805",
     "easting": 451048,
     "indicator": "Stop E5",
@@ -10066,9 +10053,8 @@ module.exports = {
     "naptanCode": "oxfapgwm",
     "northing": 206190
   },
-  "oxfgapjw": {
+  "340000868D2": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000868D2",
-    "alias": "New Road",
     "atcoCode": "340000868D2",
     "easting": 450981,
     "indicator": "Stop D2",
@@ -10078,9 +10064,8 @@ module.exports = {
     "naptanCode": "oxfgapjw",
     "northing": 206238
   },
-  "oxfgjmgt": {
+  "34000199404": {
     "_about": "http://transport.data.gov.uk/id/stop-point/34000199404",
-    "alias": "New Road",
     "atcoCode": "34000199404",
     "easting": 451060,
     "indicator": "Stop E4",
@@ -10090,9 +10075,8 @@ module.exports = {
     "naptanCode": "oxfgjmgt",
     "northing": 206182
   },
-  "oxfawgam": {
+  "340003093CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003093CNR",
-    "alias": "Tyndale",
     "atcoCode": "340003093CNR",
     "easting": 460435,
     "indicator": "adj",
@@ -10102,9 +10086,8 @@ module.exports = {
     "naptanCode": "oxfawgam",
     "northing": 205708
   },
-  "oxfatpam": {
+  "340000021SPE": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000021SPE",
-    "alias": "Science Park West",
     "atcoCode": "340000021SPE",
     "easting": 453884,
     "indicator": "o/s",
@@ -10114,9 +10097,8 @@ module.exports = {
     "naptanCode": "oxfatpam",
     "northing": 202125
   },
-  "oxfgpajg": {
+  "340000009PR4": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000009PR4",
-    "alias": "Thornhill Park and Ride",
     "atcoCode": "340000009PR4",
     "easting": 456610,
     "indicator": "Stand D",
@@ -10126,9 +10108,8 @@ module.exports = {
     "naptanCode": "oxfgpajg",
     "northing": 207350
   },
-  "oxfgpajd": {
+  "340000009PR3": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000009PR3",
-    "alias": "Thornhill Park and Ride",
     "atcoCode": "340000009PR3",
     "easting": 456619,
     "indicator": "Stand C",
@@ -10138,9 +10119,8 @@ module.exports = {
     "naptanCode": "oxfgpajd",
     "northing": 207315
   },
-  "oxfgpaja": {
+  "340000009PR2": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000009PR2",
-    "alias": "Thornhill P+R",
     "atcoCode": "340000009PR2",
     "easting": 456611,
     "indicator": "Stand B",
@@ -10150,9 +10130,8 @@ module.exports = {
     "naptanCode": "oxfgpaja",
     "northing": 207293
   },
-  "oxfamjga": {
+  "340000009PR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000009PR",
-    "alias": "Thornhill Park and Ride",
     "atcoCode": "340000009PR",
     "easting": 456602,
     "indicator": "Stand A",
@@ -10162,9 +10141,8 @@ module.exports = {
     "naptanCode": "oxfamjga",
     "northing": 207326
   },
-  "oxfapmwp": {
+  "340000420PR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000420PR",
-    "alias": "Pear Tree P+R",
     "atcoCode": "340000420PR",
     "easting": 449583,
     "indicator": "inside",
@@ -10174,9 +10152,8 @@ module.exports = {
     "naptanCode": "oxfapmwp",
     "northing": 210785
   },
-  "oxfapmwt": {
+  "340000418PR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000418PR",
-    "alias": "Redbridge P+R",
     "atcoCode": "340000418PR",
     "easting": 451992,
     "indicator": "inside",
@@ -10186,9 +10163,8 @@ module.exports = {
     "naptanCode": "oxfapmwt",
     "northing": 203704
   },
-  "oxfapjap": {
+  "340000864A2": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000864A2",
-    "alias": "George Street",
     "atcoCode": "340000864A2",
     "easting": 451171,
     "indicator": "Stop A2",
@@ -10198,9 +10174,8 @@ module.exports = {
     "naptanCode": "oxfapjap",
     "northing": 206371
   },
-  "oxfapagd": {
+  "340000710BRO": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000710BRO",
-    "alias": "Harcourt Hill",
     "atcoCode": "340000710BRO",
     "easting": 449057,
     "indicator": "inside",
@@ -10210,9 +10185,8 @@ module.exports = {
     "naptanCode": "oxfapagd",
     "northing": 204884
   },
-  "oxfapgwp": {
+  "34000086606": {
     "_about": "http://transport.data.gov.uk/id/stop-point/34000086606",
-    "alias": "Park End St",
     "atcoCode": "34000086606",
     "easting": 450822,
     "indicator": "Stop E7",
@@ -10222,9 +10196,8 @@ module.exports = {
     "naptanCode": "oxfapgwp",
     "northing": 206259
   },
-  "oxfagmdp": {
+  "340001371EX": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001371EX",
-    "alias": "Bertie Place",
     "atcoCode": "340001371EX",
     "easting": 451905,
     "indicator": "adj",
@@ -10234,9 +10207,8 @@ module.exports = {
     "naptanCode": "oxfagmdp",
     "northing": 203914
   },
-  "oxfagmdt": {
+  "340001371ENT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001371ENT",
-    "alias": "Bertie Place",
     "atcoCode": "340001371ENT",
     "easting": 451886,
     "indicator": "opp",
@@ -10246,9 +10218,8 @@ module.exports = {
     "naptanCode": "oxfagmdt",
     "northing": 203880
   },
-  "oxfgatwa": {
+  "340001714OOH": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001714OOH",
-    "alias": "Goose Green Close",
     "atcoCode": "340001714OOH",
     "easting": 449448,
     "indicator": "opp",
@@ -10258,9 +10229,8 @@ module.exports = {
     "naptanCode": "oxfgatwa",
     "northing": 209891
   },
-  "oxfgmtpt": {
+  "340003333MAR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003333MAR",
-    "alias": "Stockmore Street",
     "atcoCode": "340003333MAR",
     "easting": 452619,
     "indicator": "adj",
@@ -10270,9 +10240,8 @@ module.exports = {
     "naptanCode": "oxfgmtpt",
     "northing": 205797
   },
-  "oxfajmjd": {
+  "340001319OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001319OPP",
-    "alias": "Girls School",
     "atcoCode": "340001319OPP",
     "easting": 453824,
     "indicator": "Stop B8",
@@ -10282,9 +10251,8 @@ module.exports = {
     "naptanCode": "oxfajmjd",
     "northing": 206756
   },
-  "oxfajmjg": {
+  "340001319CNR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001319CNR",
-    "alias": "Girls School",
     "atcoCode": "340001319CNR",
     "easting": 453796,
     "indicator": "Stop B9",
@@ -10294,9 +10262,8 @@ module.exports = {
     "naptanCode": "oxfajmjg",
     "northing": 206733
   },
-  "oxfgpgam": {
+  "340001313WES": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001313WES",
-    "alias": "Brookes University",
     "atcoCode": "340001313WES",
     "easting": 453463,
     "indicator": "Stop B4",
@@ -10306,9 +10273,8 @@ module.exports = {
     "naptanCode": "oxfgpgam",
     "northing": 206580
   },
-  "oxfajmpt": {
+  "340001313OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001313OPP",
-    "alias": "Brookes University",
     "atcoCode": "340001313OPP",
     "easting": 453578,
     "indicator": "Stop B2",
@@ -10318,9 +10284,8 @@ module.exports = {
     "naptanCode": "oxfajmpt",
     "northing": 206637
   },
-  "oxfajmpw": {
+  "340001313ENT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001313ENT",
-    "alias": "Brookes University",
     "atcoCode": "340001313ENT",
     "easting": 453503,
     "indicator": "Stop B5",
@@ -10330,9 +10295,8 @@ module.exports = {
     "naptanCode": "oxfajmpw",
     "northing": 206592
   },
-  "oxfajgwg": {
+  "340001304OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001304OPP",
-    "alias": "Foresters Tower",
     "atcoCode": "340001304OPP",
     "easting": 455296,
     "indicator": "o/s",
@@ -10342,9 +10306,8 @@ module.exports = {
     "naptanCode": "oxfajgwg",
     "northing": 206039
   },
-  "oxfgpdaj": {
+  "340001256ONL": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001256ONL",
-    "alias": "Templars Square",
     "atcoCode": "340001256ONL",
     "easting": 454273,
     "indicator": "E-bound",
@@ -10354,9 +10317,8 @@ module.exports = {
     "naptanCode": "oxfgpdaj",
     "northing": 204077
   },
-  "oxfadmam": {
+  "340001195OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001195OPP",
-    "alias": "Magdalen Road",
     "atcoCode": "340001195OPP",
     "easting": 453341,
     "indicator": "opp",
@@ -10366,9 +10328,8 @@ module.exports = {
     "naptanCode": "oxfadmam",
     "northing": 205334
   },
-  "oxfawgat": {
+  "340003093OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003093OPP",
-    "alias": "Tyndale",
     "atcoCode": "340003093OPP",
     "easting": 460441,
     "indicator": "opp",
@@ -10378,9 +10339,8 @@ module.exports = {
     "naptanCode": "oxfawgat",
     "northing": 205707
   },
-  "oxfatgdg": {
+  "340003103PAV": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003103PAV",
-    "alias": "Dalton Barracks",
     "atcoCode": "340003103PAV",
     "easting": 448309,
     "indicator": "E-bound",
@@ -10390,9 +10350,8 @@ module.exports = {
     "naptanCode": "oxfatgdg",
     "northing": 198814
   },
-  "oxfadmwg": {
+  "340001174ENT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001174ENT",
-    "alias": "Egrove Park",
     "atcoCode": "340001174ENT",
     "easting": 451774,
     "indicator": "Entrance",
@@ -10402,9 +10361,8 @@ module.exports = {
     "naptanCode": "oxfadmwg",
     "northing": 203387
   },
-  "oxfadpgp": {
+  "340001169LNG": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001169LNG",
-    "alias": "Long Tow East",
     "atcoCode": "340001169LNG",
     "easting": 448926,
     "indicator": "W-bound",
@@ -10414,9 +10372,8 @@ module.exports = {
     "naptanCode": "oxfadpgp",
     "northing": 198922
   },
-  "oxfgmtjp": {
+  "340003103OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340003103OUT",
-    "alias": "Dalton Barracks",
     "atcoCode": "340003103OUT",
     "easting": 448310,
     "indicator": "W-bound",
@@ -10426,9 +10383,8 @@ module.exports = {
     "naptanCode": "oxfgmtjp",
     "northing": 198802
   },
-  "oxfajmjw": {
+  "340001317OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001317OPP",
-    "alias": "Glebe Street",
     "atcoCode": "340001317OPP",
     "easting": 452662,
     "indicator": "adj",
@@ -10438,9 +10394,8 @@ module.exports = {
     "naptanCode": "oxfajmjw",
     "northing": 206076
   },
-  "oxfgpgap": {
+  "340001313EAS": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001313EAS",
-    "alias": "Brookes University",
     "atcoCode": "340001313EAS",
     "easting": 453606,
     "indicator": "Stop B3",
@@ -10450,9 +10405,8 @@ module.exports = {
     "naptanCode": "oxfgpgap",
     "northing": 206654
   },
-  "oxfamjgj": {
+  "340000007M1": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340000007M1",
-    "alias": "Castle Street",
     "atcoCode": "340000007M1",
     "easting": 451092,
     "indicator": "Stop M1",
@@ -10462,9 +10416,8 @@ module.exports = {
     "naptanCode": "oxfamjgj",
     "northing": 206081
   },
-  "oxfadpgj": {
+  "340001170OPP": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001170OPP",
-    "alias": "Long Tow",
     "atcoCode": "340001170OPP",
     "easting": 448473,
     "indicator": "W-bound",
@@ -10474,9 +10427,8 @@ module.exports = {
     "naptanCode": "oxfadpgj",
     "northing": 198835
   },
-  "oxfgjapg": {
+  "340001915D4": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001915D4",
-    "alias": "Bonn Square",
     "atcoCode": "340001915D4",
     "easting": 451164,
     "indicator": "Stop D4",
@@ -10486,7 +10438,7 @@ module.exports = {
     "naptanCode": "oxfgjapg",
     "northing": 206139
   },
-  "oxfgmapa": {
+  "340004135HAR": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340004135HAR",
     "atcoCode": "340004135HAR",
     "easting": 449402,
@@ -10496,7 +10448,7 @@ module.exports = {
     "naptanCode": "oxfgmapa",
     "northing": 198605
   },
-  "oxfagpma": {
+  "340001482OUT": {
     "_about": "http://transport.data.gov.uk/id/stop-point/340001482OUT",
     "atcoCode": "340001482OUT",
     "easting": 456437,

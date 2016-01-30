@@ -30,11 +30,13 @@
     "interact.js": "^1.2.6",
     "jade": "~1.11.0",
     "jquery-browserify": "^1.8.1",
-    "jsdom": "^7.2.2",
     "morgan": "~1.6.1",
+    "nconf": "^0.8.2",
     "node-sass-middleware": "0.8.0",
     "nunjucks": "^2.3.0",
     "pubsub-js": "^1.5.3",
-    "serve-favicon": "~2.3.0"
+    "request": "^2.69.0",
+    "serve-favicon": "~2.3.0",
+    "xml2js": "^0.4.16"
   }
 }

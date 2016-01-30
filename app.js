@@ -5,11 +5,19 @@ var logger = require('morgan');
 var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
 var nunjucks = require('nunjucks');
+var nconf = require('nconf');
 
 var routes = require('./routes/index');
 var api = require('./routes/api');
 
 var app = express();
+
+// Nconf initialization
+
+nconf
+    .argv()
+    .env()
+    .file({ file: './config.json' });
 
 // Configure Nunjucks
 if (app.get('env') === 'development') {    

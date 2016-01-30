@@ -131,7 +131,7 @@ function Map(lat, lng, rootMapDomElement, nextBusesDetailsObject) {
             this.currentInfoBox.close();
             this.currentInfoBox = null;
         }
-    }
+    };
     
     this.onMarkerSelected = function(marker, infoBox, station) {
         
@@ -152,7 +152,6 @@ function Map(lat, lng, rootMapDomElement, nextBusesDetailsObject) {
     this.initializeMap();
     
     PubSub.subscribe('MAP_CONTAINER_RESIZED', function(msg, data) {
-        console.log("RESIZED");
         google.maps.event.trigger(_this.mapObject, "resize");
     });
 }

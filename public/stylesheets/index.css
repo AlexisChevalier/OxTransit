@@ -152,9 +152,8 @@ body {
         position: absolute;
         width: 18px;
         height: 18px;
-        margin: 2px;
-        top: 0;
-        right: 0;
+        top: 2px;
+        right: 5px;
         text-align: center;
         color: white;
         padding: 3px 3px;
@@ -220,7 +219,8 @@ body {
   width: 280px;
   border-radius: 5px;
   border: 1px solid #656565;
-  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.1); }
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.1);
+  box-shadow: rgba(0, 0, 0, 0.8) 0 1px 4px -1px; }
   #map .infobox .icon {
     position: absolute;
     height: 100%;

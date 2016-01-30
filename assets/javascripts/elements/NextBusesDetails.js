@@ -1,5 +1,6 @@
 var $ = require('jquery-browserify'),
-    ApiService = require("../services/ApiService");
+    ApiService = require("../services/ApiService"),
+    moment = require("moment");
 
 function NextBusesDetails(rootDomElement) {
     this.apiService = new ApiService("/api/");
@@ -26,11 +27,11 @@ function NextBusesDetails(rootDomElement) {
             var stationAtCall = _this.stationSelected;
             $(_this.stationRefreshElement).addClass("fa-spin");
 
-            this.apiService.getStationsRealTimeData(stationAtCall.naptanCode, function (err, details) {
+            this.apiService.getStationsRealTimeData(stationAtCall.atcoCode, function (err, details) {
                 if (stationAtCall === _this.stationSelected) {
                     $(_this.listElement).html("");
-                    
-                    if (details.length > 0) {
+
+                    if (details && details.length > 0) {
                         _this.infoMessageElement.hide();
                         for (var i = 0; i < details.length; i++) {
                             $(_this.listElement).append(buildListItem(details[i]));
@@ -48,7 +49,7 @@ function NextBusesDetails(rootDomElement) {
 }
 
 function buildListItem(details) {
-    return "<li class='result'><span class='time'>" + details.departureTime + "</span><span class='bus'>" + details.serviceNumber + "</span> - <span class='destination'>" + details.destination + "</span></li>";
+    return "<li class='result'><span class='time'>" + moment(details.arrivalTime).format('H:mm') + "</span><span class='bus'>" + details.line + "</span> - <span class='destination'>" + details.destination + "</span></li>";
 }
 
 NextBusesDetails.prototype.setSelectedStation = function(station, details) {

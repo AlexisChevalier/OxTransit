@@ -11,8 +11,8 @@ ApiService.prototype.getStations = function(callback) {
     this.httpClient.doGet("stations", callback);
 };
 
-ApiService.prototype.getStationsRealTimeData = function(naptanCode, callback) {
-    this.httpClient.doGet(extensions.formatString("stations/{0}/nextbuses", naptanCode), callback);
+ApiService.prototype.getStationsRealTimeData = function(atcoCode, callback) {
+    this.httpClient.doGet(extensions.formatString("stations/{0}/nextbuses", atcoCode), callback);
 };
 
 module.exports = ApiService;
