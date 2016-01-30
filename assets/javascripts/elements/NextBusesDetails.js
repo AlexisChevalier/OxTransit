@@ -1,6 +1,8 @@
 var $ = require('jquery-browserify'),
     ApiService = require("../services/ApiService"),
-    moment = require("moment");
+    moment = require("moment"),
+    StationsService = require("../services/StationsService"),
+    MessagingService = require("../services/MessagingService");
 
 function NextBusesDetails(rootDomElement) {
     this.apiService = new ApiService("/api/");
@@ -10,16 +12,13 @@ function NextBusesDetails(rootDomElement) {
     this.infoMessageElementText = $(this.infoMessageElement).find("p");
     this.stationRefreshElement = $(this.rootDomElement).find(".refresh");
     this.listElement = $(this.rootDomElement).find(".content");
+    this.stationsService = new StationsService();
     this.stationSelected = null;
     this.refreshDelayMiliseconds = 30000;
     this.refreshTimeoutId = null;
     this.refreshing = false;
     
     var _this = this;
-    
-    /*$(this.stationRefreshElement).click(function() {
-        _this.refreshSelectedStation();
-    });*/
     
     this.fetchAndDisplayList = function (callback) {
         var _this = this;
@@ -70,13 +69,21 @@ function NextBusesDetails(rootDomElement) {
             window.clearTimeout(this.refreshTimeoutId);
         }
     };
+
+    MessagingService.messaging.subscribe(MessagingService.actions.StationSelected, function(msg, data) {
+        var atcoCode = data.atcoCode;
+
+        var station = _this.stationsService.getStation(atcoCode);
+
+        _this.setSelectedStation(station);
+    });
 }
 
 function buildListItem(details) {
     return "<li class='result'><span class='time'>" + moment(details.arrivalTime).format('H:mm') + "</span><span class='bus'>" + details.line + "</span> - <span class='destination'>" + details.destination + "</span></li>";
 }
 
-NextBusesDetails.prototype.setSelectedStation = function(station, details) {
+NextBusesDetails.prototype.setSelectedStation = function(station) {
     var _this = this;
     
     $(_this.listElement).html("");

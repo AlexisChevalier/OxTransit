@@ -208,6 +208,18 @@ body {
                         }
                     }
                 }
+                &#favoritesDetails {
+                    .content {
+                        li {
+                            line-height: 32px;
+                            padding-left: 15px;
+                            cursor: pointer;
+                            &:hover {
+                                background-color: #008EF7;
+                            }
+                        }
+                    }
+                }
             }
 
         }
@@ -252,7 +264,9 @@ body {
 
                 &.button {
                     &.selected {
-                        background-color: #498cd5;
+                        i {
+                            background-color: #498cd5;
+                        }
                     }
                 }
             }
@@ -263,10 +277,9 @@ body {
 #map {
     .infobox {
         position: relative;
-        background-color: #3b3b3b;
         width: 280px;
         border-radius: 5px;
-        border: 1px solid #656565;
+        //border: 1px solid #656565;
         text-shadow: 0 -1px 0 rgba(0,0,0,0.1);
         box-shadow: rgba(0,0,0,0.8) 0 1px 4px -1px;
         .icon {
@@ -294,11 +307,18 @@ body {
                 &:hover {
                     background-color: #38abff;
                 }
+                &.isFavorite {
+                    background-color: orange;
+                    &:hover {
+                        color:#ff7575;
+                    }
+                }
             }
             &.close {
                 color:#ff7575;
                 border-radius: 0 5px 5px 0;
                 right: 0;
+                background-color: #3b3b3b;
                 border-left: 1px solid #656565;
                 &:hover {
                     background-color: #656565;
@@ -312,16 +332,16 @@ body {
             color: white;
             width: 280px;
             position: relative;
-            padding: 5px 0;
             line-height: 20px;
             height: 100%;
             display: inline-block;
             font-size: 1.2em;
             text-align: center;
             p {
-                margin: 0;
-                width: 240px;
-                padding: 0 5px;
+                background-color: #3b3b3b;
+                line-height: 30px;
+                margin: auto;
+                width: 220px;
             }
         }
     }

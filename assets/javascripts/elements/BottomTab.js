@@ -1,20 +1,21 @@
 var $ = require('jquery-browserify'),
     NextBusesDetails = require('./NextBusesDetails'),
+    FavoritesDetails = require('./FavoritesDetails'),
     Interact = require("interact.js"),
     PreferencesService = require('../services/LocalStoragePreferencesService'),
-    PubSub = require("pubsub-js");
+    MessagingService = require("../services/MessagingService");
 
 function BottomTab(rootDomElement, mapContainerDomElement, mapObject) {
     var _this = this;
-    
+
     this.heightPreferenceLabel = "BOTTOM_TAB_HEIGHT";
     this.preferencesService = new PreferencesService();
     this.mapObject = mapObject;
     this.mapContainerDomElement = $(mapContainerDomElement);
     this.rootDomElement = $(rootDomElement);
     this.nextBusesDetails = new NextBusesDetails(this.rootDomElement.find('#nextBusesDetails'));
-    this.favoritesDetails = new NextBusesDetails(this.rootDomElement.find('#favoritesDetails'));
-    this.appInfoDetails = new NextBusesDetails(this.rootDomElement.find('#appInfoDetails'));
+    this.favoritesDetails = new FavoritesDetails(this.rootDomElement.find('#favoritesDetails'));
+    this.appInfoDetails = null;
     this.tabButtons = this.rootDomElement.find(".nav .button");
 
     Interact(this.rootDomElement[0])
@@ -29,31 +30,44 @@ function BottomTab(rootDomElement, mapContainerDomElement, mapObject) {
             if (event.rect.height < 200 || event.rect.height > 400) {
                 return;
             }
-        
+
             _this.rootDomElement.css("height", event.rect.height + 'px');
             _this.mapContainerDomElement.css("bottom", event.rect.height + 'px');
-        
+
             _this.preferencesService.set(_this.heightPreferenceLabel, event.rect.height);
-        
-            PubSub.publish("MAP_CONTAINER_RESIZED", event.rect.height);
+
+            MessagingService.messaging.publish(MessagingService.actions.MapContainerResized, event.rect.height);
         });
+
+    this.switchToTab = function(tabId) {
+        $(".tab.active").removeClass("active");
+        $("#" + tabId).addClass("active");
+        _this.rootDomElement.find(".nav .button.selected").removeClass("selected");
+        $(".button[data-tab='" + tabId + "']").addClass("selected");
+
+        if(tabId === "favoritesDetails") {
+            _this.favoritesDetails.dispayList();
+        }
+    };
 
     this.tabButtons.click(function (event) {
         var selected = $(this).attr("data-tab");
-        $(".tab.active").removeClass("active");
-        $("#" + selected).addClass("active");
-        _this.rootDomElement.find(".nav .button.selected").removeClass("selected");
-        $(this).addClass("selected");
+
+        _this.switchToTab(selected);
     });
-    
+
     var preferedHeight = _this.preferencesService.get(_this.heightPreferenceLabel);
-    
+
     if (preferedHeight !== null) {
         _this.rootDomElement.css("height", preferedHeight + 'px');
         _this.mapContainerDomElement.css("bottom", preferedHeight + 'px');
-        
-        PubSub.publish("MAP_CONTAINER_RESIZED", preferedHeight);
+
+        MessagingService.messaging.publish(MessagingService.actions.MapContainerResized, preferedHeight);
     }
+
+    MessagingService.messaging.subscribe(MessagingService.actions.StationSelected, function(msg, data) {
+        _this.switchToTab("nextBusesDetails");
+    });
 }
 
 

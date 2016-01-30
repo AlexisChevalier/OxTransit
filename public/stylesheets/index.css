@@ -164,6 +164,12 @@ body {
         display: inline-block; }
       #bottomTab .mainContainer .tabContainer .tab#nextBusesDetails .content li .destination {
         display: inline-block; }
+      #bottomTab .mainContainer .tabContainer .tab#favoritesDetails .content li {
+        line-height: 32px;
+        padding-left: 15px;
+        cursor: pointer; }
+        #bottomTab .mainContainer .tabContainer .tab#favoritesDetails .content li:hover {
+          background-color: #008EF7; }
     #bottomTab .mainContainer .nav {
       box-shadow: rgba(0, 0, 0, 0.8) 0px 0px 4px 0px;
       list-style: none;
@@ -199,15 +205,13 @@ body {
           #bottomTab .mainContainer .nav li i:hover {
             background-color: #498cd5;
             color: #ddeeee; }
-        #bottomTab .mainContainer .nav li.button.selected {
+        #bottomTab .mainContainer .nav li.button.selected i {
           background-color: #498cd5; }
 
 #map .infobox {
   position: relative;
-  background-color: #3b3b3b;
   width: 280px;
   border-radius: 5px;
-  border: 1px solid #656565;
   text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.1);
   box-shadow: rgba(0, 0, 0, 0.8) 0 1px 4px -1px; }
   #map .infobox .icon {
@@ -232,10 +236,15 @@ body {
       background-color: #008EF7; }
       #map .infobox .icon.favorite:hover {
         background-color: #38abff; }
+      #map .infobox .icon.favorite.isFavorite {
+        background-color: orange; }
+        #map .infobox .icon.favorite.isFavorite:hover {
+          color: #ff7575; }
     #map .infobox .icon.close {
       color: #ff7575;
       border-radius: 0 5px 5px 0;
       right: 0;
+      background-color: #3b3b3b;
       border-left: 1px solid #656565; }
       #map .infobox .icon.close:hover {
         background-color: #656565; }
@@ -245,13 +254,13 @@ body {
     color: white;
     width: 280px;
     position: relative;
-    padding: 5px 0;
     line-height: 20px;
     height: 100%;
     display: inline-block;
     font-size: 1.2em;
     text-align: center; }
     #map .infobox .content p {
-      margin: 0;
-      width: 240px;
-      padding: 0 5px; }
+      background-color: #3b3b3b;
+      line-height: 30px;
+      margin: auto;
+      width: 220px; }
