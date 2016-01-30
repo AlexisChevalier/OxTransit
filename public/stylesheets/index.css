@@ -148,7 +148,6 @@ body {
         display: block; }
       #bottomTab .mainContainer .tabContainer .tab#nextBusesDetails .subHeader .refresh {
         display: none;
-        cursor: pointer;
         position: absolute;
         width: 18px;
         height: 18px;
@@ -156,17 +155,7 @@ body {
         right: 5px;
         text-align: center;
         color: white;
-        padding: 3px 3px;
-        background-color: grey;
-        border-radius: 5px;
-        border: 1px solid #a5a5a5; }
-        #bottomTab .mainContainer .tabContainer .tab#nextBusesDetails .subHeader .refresh:hover {
-          background-color: #008EF7; }
-        #bottomTab .mainContainer .tabContainer .tab#nextBusesDetails .subHeader .refresh.fa-spin {
-          cursor: auto;
-          border: none;
-          background: none;
-          margin: 3px; }
+        padding: 3px 3px; }
       #bottomTab .mainContainer .tabContainer .tab#nextBusesDetails .content li .time {
         display: inline-block;
         font-weight: bold;

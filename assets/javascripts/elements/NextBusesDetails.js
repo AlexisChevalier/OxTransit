@@ -11,21 +11,22 @@ function NextBusesDetails(rootDomElement) {
     this.stationRefreshElement = $(this.rootDomElement).find(".refresh");
     this.listElement = $(this.rootDomElement).find(".content");
     this.stationSelected = null;
-    
+    this.refreshDelayMiliseconds = 30000;
+    this.refreshTimeoutId = null;
     this.refreshing = false;
     
     var _this = this;
     
-    $(this.stationRefreshElement).click(function() {
+    /*$(this.stationRefreshElement).click(function() {
         _this.refreshSelectedStation();
-    });
+    });*/
     
-    this.fetchAndDisplayList = function () {
+    this.fetchAndDisplayList = function (callback) {
         var _this = this;
 
         if (this.stationSelected !== null) {
             var stationAtCall = _this.stationSelected;
-            $(_this.stationRefreshElement).addClass("fa-spin");
+            _this.stationRefreshElement.show();
 
             this.apiService.getStationsRealTimeData(stationAtCall.atcoCode, function (err, details) {
                 if (stationAtCall === _this.stationSelected) {
@@ -40,12 +41,35 @@ function NextBusesDetails(rootDomElement) {
                         _this.infoMessageElementText.text("Not any information available for this station at the moment");
                         _this.infoMessageElement.show();
                     }
-                    $(_this.stationRefreshElement).removeClass("fa-spin");
+
+                    _this.stationRefreshElement.hide();
                     _this.refreshing = false;
+
+                    if (typeof callback === "function") {
+                        return callback(null, true);
+                    }
+                } else {
+                    if (typeof callback === "function") {
+                        return callback(null, false);
+                    }
                 }
             });
         }
-    }
+    };
+
+    this.startRefreshTimeout = function () {
+        this.refreshTimeoutId = window.setTimeout(function () {
+            _this.refreshSelectedStation(function(err, result) {
+                _this.startRefreshTimeout();
+            });
+        }, this.refreshDelayMiliseconds);
+    };
+
+    this.removeRefreshTimeout = function () {
+        if (this.refreshTimeoutId) {
+            window.clearTimeout(this.refreshTimeoutId);
+        }
+    };
 }
 
 function buildListItem(details) {
@@ -58,32 +82,39 @@ NextBusesDetails.prototype.setSelectedStation = function(station, details) {
     $(_this.listElement).html("");
     
     if (station === null) {
+        _this.removeRefreshTimeout();
         this.stationSelected = null;
         this.rootDomElement.addClass("noselection");
         this.stationTextElement.text("No station selected");
         this.infoMessageElementText.text("Please select a station on the map");
         this.infoMessageElement.show();
-        this.stationRefreshElement.hide();
+
     } else {
         this.stationSelected = station;
         this.rootDomElement.removeClass("noselection");
         this.stationTextElement.text(station.name + " (" + station.indicator + ")");
-        this.stationRefreshElement.show();
         this.infoMessageElementText.text("Loading next buses...");
         this.infoMessageElement.show();
-        this.fetchAndDisplayList();
+        this.fetchAndDisplayList(function() {
+            _this.startRefreshTimeout();
+        });
+
     }
 };
 
-NextBusesDetails.prototype.refreshSelectedStation = function() {
+NextBusesDetails.prototype.refreshSelectedStation = function(callback) {
     
     if (this.refreshing) {
-        return;
+        if (typeof callback === "function") {
+            return callback(null, false);
+        } else {
+            return false;
+        }
     }
     
     this.refreshing = true;
     
-    this.fetchAndDisplayList();
+    this.fetchAndDisplayList(callback);
 };
 
 module.exports = NextBusesDetails;
