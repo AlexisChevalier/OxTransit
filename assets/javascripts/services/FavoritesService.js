@@ -1,4 +1,5 @@
 var PreferencesService = require('../services/LocalStoragePreferencesService'),
+    MessagingService = require("../services/MessagingService"),
     preferencesService = new PreferencesService(),
     favorites = {},
     favoritesLabel = "FAVORITES";
@@ -25,6 +26,8 @@ FavoritesService.prototype.add = function(atcoCode, name) {
 
     _this.saveFavoritesToPreferences();
 
+    MessagingService.messaging.publish(MessagingService.actions.FavorisListUpdated, null);
+
     return true;
 };
 
@@ -40,6 +43,8 @@ FavoritesService.prototype.remove = function(atcoCode) {
     delete favorites[atcoCode];
 
     _this.saveFavoritesToPreferences();
+
+    MessagingService.messaging.publish(MessagingService.actions.FavorisListUpdated, null);
 
     return null;
 };

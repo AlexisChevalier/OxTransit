@@ -38,6 +38,10 @@ function FavoriteDetails(rootDomElement) {
         }
 
     };
+
+    MessagingService.messaging.subscribe(MessagingService.actions.FavorisListUpdated, function(msg, data) {
+        _this.dispayList();
+    });
 }
 
 function buildListItem(details) {
