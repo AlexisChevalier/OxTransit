@@ -44,10 +44,6 @@ function BottomTab(rootDomElement, mapContainerDomElement, mapObject) {
         $("#" + tabId).addClass("active");
         _this.rootDomElement.find(".nav .button.selected").removeClass("selected");
         $(".button[data-tab='" + tabId + "']").addClass("selected");
-
-        if(tabId === "favoritesDetails") {
-            _this.favoritesDetails.dispayList();
-        }
     };
 
     this.tabButtons.click(function (event) {

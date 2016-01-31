@@ -8,6 +8,8 @@ var favoritesRaw = preferencesService.get(favoritesLabel);
 
 if (favoritesRaw !== null) {
     favorites = JSON.parse(favoritesRaw);
+
+    MessagingService.messaging.publish(MessagingService.actions.FavorisListUpdated, null);
 }
 
 function FavoritesService() {

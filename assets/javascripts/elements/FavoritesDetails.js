@@ -39,19 +39,15 @@ function FavoriteDetails(rootDomElement) {
 
     };
 
-    MessagingService.messaging.subscribe(MessagingService.actions.FavorisListUpdated, function(msg, data) {
-        _this.dispayList();
+    MessagingService.messaging.subscribe(MessagingService.actions.FavorisListUpdated, function(msg, data) {git
+        _this.fetchAndDisplayList();
     });
+
+    _this.fetchAndDisplayList();
 }
 
 function buildListItem(details) {
     return "<li class='favorite'>" + details.name + "</li>";
 }
-
-FavoriteDetails.prototype.dispayList = function() {
-    var _this = this;
-
-    _this.fetchAndDisplayList();
-};
 
 module.exports = FavoriteDetails;
