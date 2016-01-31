@@ -24,7 +24,6 @@ StationsService.prototype.getStations = function(callback) {
 StationsService.prototype.getStation = function(atcoCode) {
     var _this = this;
 
-    console.log(atcoCode, stations);
     if (!stations || !stations[atcoCode]) {
         return null;
     }

@@ -12,6 +12,10 @@ var api = require('./routes/api');
 
 var app = express();
 
+// Use of Domaingit  API to prevent general crashes
+
+app.use(require('express-domain-middleware'));
+
 // Nconf initialization
 
 nconf

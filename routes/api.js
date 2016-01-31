@@ -11,6 +11,10 @@ router.get('/stations/:atco_code', function(req, res, next) {
     res.json(stations[req.params.atco_code]);
 });
 
+router.get('/crash', function(req, res, next) {
+   return test[0].a;
+});
+
 router.get('/stations/:atco_code/nextbuses', function(req, res, next) {
 
     if (!stations[req.params.atco_code]) {

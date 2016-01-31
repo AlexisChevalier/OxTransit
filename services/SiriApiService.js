@@ -44,12 +44,18 @@ function HandleSiriResponse(rawJsonResponse) {
     var nextBuses = [];
 
     for (var i = 0; i < nextBusesRaw.length; i++) {
-        nextBuses.push({
-            "line": nextBusesRaw[i]["MonitoredVehicleJourney"][0]["PublishedLineName"][0],
-            "direction": nextBusesRaw[i]["MonitoredVehicleJourney"][0]["DirectionRef"][0],
-            "destination": nextBusesRaw[i]["MonitoredVehicleJourney"][0]["DestinationName"][0],
-            "arrivalTime": Date.parse(nextBusesRaw[i]["MonitoredVehicleJourney"][0]["MonitoredCall"][0]["AimedArrivalTime"][0])
-        });
+        try {
+            var date = nextBusesRaw[i]["MonitoredVehicleJourney"][0]["MonitoredCall"][0]["AimedArrivalTime"] || nextBusesRaw[i]["MonitoredVehicleJourney"][0]["MonitoredCall"][0]["AimedDepartureTime"];
+
+            nextBuses.push({
+                "line": nextBusesRaw[i]["MonitoredVehicleJourney"][0]["PublishedLineName"][0],
+                "direction": nextBusesRaw[i]["MonitoredVehicleJourney"][0]["DirectionRef"][0],
+                "destination": nextBusesRaw[i]["MonitoredVehicleJourney"][0]["DestinationName"][0],
+                "arrivalTime": Date.parse(date[0])
+            });
+        } catch(ex) {
+            console.log(ex);
+        }
     }
 
     return nextBuses;
