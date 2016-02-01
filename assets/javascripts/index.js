@@ -1,7 +1,7 @@
 var Ui = require("./Elements/Ui");
 
 (function (__window__) {
-    __window__.oxbuses = __window__.oxbuses || {};
+    __window__.oxtransit = __window__.oxtransit || {};
     
     var ui = new Ui();
     

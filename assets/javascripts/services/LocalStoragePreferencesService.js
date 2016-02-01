@@ -1,6 +1,6 @@
 function LocalStoragPreferencesService() {
     
-    this.keyPrefix = "OXBUSPREF_";
+    this.keyPrefix = "OXTRANSITPREF_";
     
     this.isLocalStorageAvailable = function() {
         return window.localStorage;

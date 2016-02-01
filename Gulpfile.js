@@ -18,7 +18,7 @@ gulp.task("js", function () {
     });
     
     b.bundle()
-        .pipe(source('oxbuses.web.min.js'))
+        .pipe(source('oxtransit.min.js'))
         .pipe(buffer())
         .pipe(sourcemaps.init({loadMaps: true}))
         .pipe(uglify())
