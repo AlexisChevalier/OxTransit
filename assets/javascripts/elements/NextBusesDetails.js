@@ -57,6 +57,7 @@ function NextBusesDetails(rootDomElement) {
     };
 
     this.startRefreshTimeout = function () {
+        _this.removeRefreshTimeout();
         this.refreshTimeoutId = window.setTimeout(function () {
             _this.refreshSelectedStation(function(err, result) {
                 _this.startRefreshTimeout();
@@ -95,7 +96,6 @@ NextBusesDetails.prototype.setSelectedStation = function(station) {
         this.stationTextElement.text("No station selected");
         this.infoMessageElementText.text("Please select a station on the map");
         this.infoMessageElement.show();
-
     } else {
         this.stationSelected = station;
         this.rootDomElement.removeClass("noselection");
