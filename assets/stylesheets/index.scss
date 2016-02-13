@@ -466,7 +466,6 @@ body {
         height: 100%;
     }
 
-
     #bottomTab {
         bottom: 0;
         top:0;
@@ -493,5 +492,15 @@ body {
             }
         }
     }
+}
 
+@media (min-width: 1080px) and (orientation:landscape) {
+    #mapContainer {
+        left: 370px;
+        height: 100%;
+    }
+
+    #bottomTab {
+        width: 370px;
+    }
 }

@@ -385,3 +385,10 @@ body {
         white-space: nowrap;
         overflow: hidden;
         text-overflow: ellipsis; } }
+
+@media (min-width: 1080px) and (orientation: landscape) {
+  #mapContainer {
+    left: 370px;
+    height: 100%; }
+  #bottomTab {
+    width: 370px; } }
