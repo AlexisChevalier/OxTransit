@@ -33,9 +33,9 @@ function NextBusesDetails(rootDomElement) {
 
                     if (details && details.length > 0) {
                         _this.infoMessageElement.hide();
-                        for (var i = 0; i < details.length; i++) {
-                            $(_this.listElement).append(buildListItem(details[i]));
-                        }
+
+                        $(_this.listElement).html(buildList(details));
+
                     } else {
                         _this.infoMessageElementText.text("Not any information available for this station at the moment");
                         _this.infoMessageElement.show();
@@ -80,8 +80,42 @@ function NextBusesDetails(rootDomElement) {
     });
 }
 
+function getDisplayedTime(time) {
+    var now = Date.now();
+
+    var minutesFromNow = Math.round((time - now) / 60000);
+
+    if (minutesFromNow <= 1 && minutesFromNow > -2) {
+        return "DUE";
+    } else if (minutesFromNow <= -2) {
+        return "DELAYED";
+    }
+
+    return moment(time).fromNow(false);
+}
+
 function buildListItem(details) {
-    return "<li class='result'><span class='time'>" + moment(details.arrivalTime).format('H:mm') + "</span><span class='bus'>" + details.line + "</span> - <span class='destination'>" + details.destination + "</span></li>";
+    return "<li class='result'>" +
+        "<span class='time'>" +
+        getDisplayedTime(details.arrivalTime) +
+        "</span><span class='bus'>" + details.line +
+        "</span> - <span class='destination'>" +
+        details.destination +
+        "</span></li>";
+}
+
+function buildList(nextBuses) {
+    var html = "";
+
+    nextBuses.sort(function (a, b) {
+        return a.arrivalTime - b.arrivalTime;
+    });
+
+    for (var i = 0; i < nextBuses.length; i++) {
+        html += buildListItem(nextBuses[i]);
+    }
+
+    return html;
 }
 
 NextBusesDetails.prototype.setSelectedStation = function(station) {

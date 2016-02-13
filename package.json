@@ -19,6 +19,7 @@
     "gulp-sourcemaps": "^1.5.2",
     "gulp-uglify": "^1.2.0",
     "gulp-util": "^3.0.6",
+    "moment": "^2.11.2",
     "vinyl-buffer": "^1.0.0",
     "vinyl-source-stream": "^1.1.0"
   },
@@ -31,6 +32,7 @@
     "interact.js": "^1.2.6",
     "jade": "~1.11.0",
     "jquery-browserify": "^1.8.1",
+    "moment": "^2.11.2",
     "morgan": "~1.6.1",
     "nconf": "^0.8.2",
     "node-sass-middleware": "0.8.0",
