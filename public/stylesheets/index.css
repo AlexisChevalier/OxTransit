@@ -364,13 +364,13 @@ body {
 
 @media all and (orientation: landscape) {
   #mapContainer {
-    left: 325px;
+    left: 35%;
     height: 100%; }
   #bottomTab {
     bottom: 0;
     top: 0;
     left: 0;
-    width: 325px;
+    width: 35%;
     height: auto !important; }
     #bottomTab #resizeGripBar {
       display: none; }
