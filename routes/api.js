@@ -17,7 +17,6 @@ router.get('/v2/stations', function(req, res, next) {
 
         return res.json(results);
     });
-    res.json({ stations: stations });
 });
 
 router.get('/stations/:atco_code', function(req, res, next) {
