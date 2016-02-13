@@ -1,6 +1,7 @@
 var express = require('express');
 var stations = require('../static/StationsList');
 var siriApiService = require('../services/SiriApiService');
+var mongoose = require("mongoose");
 var router = express.Router();
 
 router.get('/stations', function(req, res, next) {
@@ -9,10 +10,6 @@ router.get('/stations', function(req, res, next) {
 
 router.get('/stations/:atco_code', function(req, res, next) {
     res.json(stations[req.params.atco_code]);
-});
-
-router.get('/crash', function(req, res, next) {
-   return test[0].a;
 });
 
 router.get('/stations/:atco_code/nextbuses', function(req, res, next) {
@@ -26,6 +23,17 @@ router.get('/stations/:atco_code/nextbuses', function(req, res, next) {
             return res.json({});
         }
         return res.json(result);
+    });
+});
+
+router.get('/search/station/:text', function(req, res, next) {
+    mongoose.model('Station').find({name: new RegExp(req.params.text,"i")}, function (err, results) {
+        if (err) {
+            console.log(err);
+            return res.json({});
+        }
+
+        return res.json(results);
     });
 });
 

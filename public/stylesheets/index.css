@@ -159,7 +159,7 @@ body {
       #bottomTab .mainContainer .tabContainer .tab#nextBusesDetails .content li .time {
         display: inline-block;
         font-weight: bold;
-        width: 80px; }
+        width: 150px; }
       #bottomTab .mainContainer .tabContainer .tab#nextBusesDetails .content li .bus {
         display: inline-block; }
       #bottomTab .mainContainer .tabContainer .tab#nextBusesDetails .content li .destination {
@@ -260,7 +260,9 @@ body {
     font-size: 1.2em;
     text-align: center; }
     #map .infobox .content p {
+      padding-top: 5px;
+      padding-bottom: 5px;
       background-color: #3b3b3b;
-      line-height: 30px;
+      line-height: 20px;
       margin: auto;
       width: 220px; }

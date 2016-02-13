@@ -6,13 +6,14 @@ var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
 var nunjucks = require('nunjucks');
 var nconf = require('nconf');
+var mongoose = require('mongoose');
 
 var routes = require('./routes/index');
 var api = require('./routes/api');
 
 var app = express();
 
-// Use of Domaingit  API to prevent general crashes
+// Use of Domain API to prevent general crashes
 
 app.use(require('express-domain-middleware'));
 
@@ -23,8 +24,15 @@ nconf
     .env()
     .file({ file: './config.json' });
 
+//DB
+mongoose.connect(nconf.get("MONGODB_URL"));
+mongoose.connection.on('error', console.error.bind(console, 'connection error:'));
+mongoose.connection.on('open',function(err,conn) {
+    var dbObject = require('./db');
+    dbObject.StationModel.InitializeStationsDb();
+});
 // Configure Nunjucks
-if (app.get('env') === 'development') {    
+if (app.get('env') === 'development') {
     nunjucks.configure('views', {
         autoescape: true,
         express: app,

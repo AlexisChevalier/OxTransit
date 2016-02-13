@@ -33,6 +33,7 @@
     "jade": "~1.11.0",
     "jquery-browserify": "^1.8.1",
     "moment": "^2.11.2",
+    "mongoose": "^4.4.3",
     "morgan": "~1.6.1",
     "nconf": "^0.8.2",
     "node-sass-middleware": "0.8.0",
