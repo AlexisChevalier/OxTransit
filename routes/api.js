@@ -8,6 +8,18 @@ router.get('/stations', function(req, res, next) {
     res.json({ stations: stations });
 });
 
+router.get('/v2/stations', function(req, res, next) {
+    mongoose.model('Station').find({}, function (err, results) {
+        if (err) {
+            console.log(err);
+            return res.json({});
+        }
+
+        return res.json(results);
+    });
+    res.json({ stations: stations });
+});
+
 router.get('/stations/:atco_code', function(req, res, next) {
     res.json(stations[req.params.atco_code]);
 });
