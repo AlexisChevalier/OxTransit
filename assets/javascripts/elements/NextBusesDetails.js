@@ -99,8 +99,13 @@ function buildListItem(details) {
         "<span class='time'>" +
         getDisplayedTime(details.arrivalTime) +
         "</span><span class='bus'>" + details.line +
-        "</span> - <span class='destination'>" +
-        details.destination +
+        "</span></li>";
+}
+
+function buildListSeparator(destination) {
+    return "<li class='separator'>" +
+        "<span class='destination'>" +
+        "TO " + destination +
         "</span></li>";
 }
 
@@ -111,7 +116,18 @@ function buildList(nextBuses) {
         return a.arrivalTime - b.arrivalTime;
     });
 
+    nextBuses.sort(function (a, b) {
+        if(a.destination < b.destination) return -1;
+        if(a.destination > b.destination) return 1;
+        return 0;
+    });
+    var currentDestination = null;
     for (var i = 0; i < nextBuses.length; i++) {
+        if (nextBuses[i].destination !== currentDestination) {
+            currentDestination = nextBuses[i].destination;
+            html += buildListSeparator(currentDestination);
+        }
+
         html += buildListItem(nextBuses[i]);
     }
 

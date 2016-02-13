@@ -24,7 +24,7 @@ body {
       background-color: grey;
       border-radius: 5px;
       border: 1px solid #a5a5a5; }
-      #topMenu #searchButton i:hover {
+      #topMenu #searchButton i:active {
         background-color: #008EF7; }
   #topMenu #geoloc {
     display: inline-block; }
@@ -36,7 +36,7 @@ body {
       background-color: grey;
       border-radius: 5px;
       border: 1px solid #a5a5a5; }
-      #topMenu #geoloc #geolocalizationButton:hover {
+      #topMenu #geoloc #geolocalizationButton:active {
         background-color: #008EF7; }
     #topMenu #geoloc #loadingIndicator {
       display: none;
@@ -247,13 +247,18 @@ body {
         color: white;
         padding: 3px 3px; }
       #bottomTab .mainContainer .tabContainer .tab#nextBusesDetails .content li .time {
+        margin-left: 15px;
         display: inline-block;
-        font-weight: bold;
-        width: 150px; }
+        max-width: 80%; }
       #bottomTab .mainContainer .tabContainer .tab#nextBusesDetails .content li .bus {
+        float: right;
+        margin-right: 15px;
         display: inline-block; }
       #bottomTab .mainContainer .tabContainer .tab#nextBusesDetails .content li .destination {
-        display: inline-block; }
+        display: inline-block;
+        font-weight: bold; }
+      #bottomTab .mainContainer .tabContainer .tab#nextBusesDetails .content li.separator {
+        background-color: #595959; }
       #bottomTab .mainContainer .tabContainer .tab#favoritesDetails .content li {
         line-height: 32px;
         padding-left: 15px;

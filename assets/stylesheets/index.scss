@@ -25,7 +25,7 @@ body {
             background-color: grey;
             border-radius: 5px;
             border: 1px solid #a5a5a5;
-            &:hover {
+            &:active {
                 background-color: #008EF7;
                 //color: #008EF7;
             }
@@ -41,7 +41,7 @@ body {
             background-color: grey;
             border-radius: 5px;
             border: 1px solid #a5a5a5;
-            &:hover {
+            &:active {
                 background-color: #008EF7;
                 //color: #008EF7;
             }
@@ -299,15 +299,22 @@ body {
                     .content {
                         li {
                             .time {
+                                margin-left: 15px;
                                 display: inline-block;
-                                font-weight: bold;
-                                width: 150px;
+                                max-width: 80%;
                             }
                             .bus {
+                                float: right;
+                                margin-right: 15px;
                                 display: inline-block;
                             }
                             .destination {
                                 display: inline-block;
+                                font-weight: bold;
+                            }
+
+                            &.separator {
+                                background-color: #595959;
                             }
                         }
                     }
