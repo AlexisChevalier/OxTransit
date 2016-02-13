@@ -15,4 +15,8 @@ ApiService.prototype.getStationsRealTimeData = function(atcoCode, callback) {
     this.httpClient.doGet(extensions.formatString("stations/{0}/nextbuses", atcoCode), callback);
 };
 
+ApiService.prototype.searchStation = function(text, callback) {
+    this.httpClient.doGet(extensions.formatString("search/stations/{0}", text), callback);
+};
+
 module.exports = ApiService;

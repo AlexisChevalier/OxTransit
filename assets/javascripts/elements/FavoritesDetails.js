@@ -40,7 +40,6 @@ function FavoriteDetails(rootDomElement) {
     };
 
     MessagingService.messaging.subscribe(MessagingService.actions.FavorisListUpdated, function(msg, data) {
-        console.log("Hey");
         _this.fetchAndDisplayList();
     });
 

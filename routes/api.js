@@ -37,7 +37,7 @@ router.get('/stations/:atco_code/nextbuses', function(req, res, next) {
     });
 });
 
-router.get('/search/station/:text', function(req, res, next) {
+router.get('/search/stations/:text', function(req, res, next) {
     mongoose.model('Station').find({name: new RegExp(req.params.text,"i")}, function (err, results) {
         if (err) {
             console.log(err);

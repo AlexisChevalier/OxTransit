@@ -1,5 +1,6 @@
 var Map = require("./Map"),
     BottomTab = require("./BottomTab"),
+    Search = require("./Search"),
     Locator = require("./Locator");
 
 function Ui() {}
@@ -10,7 +11,12 @@ Ui.prototype.Initialize = function () {
         document.getElementById('bottomTab'), 
         document.getElementById('mapContainer')
     );
-    
+
+    this.search = new Search(
+        document.getElementById("searchContainer"),
+        document.getElementById("searchButton")
+    );
+
     /* Map */
     this.map = new Map(
         51.745436, 

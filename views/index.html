@@ -119,11 +119,29 @@
 </head>
 <body>
     <div id="topMenu">
+        <div id="searchButton">
+            <i class="fa fa-fw fa-search"></i>
+        </div>
         <div id="geoloc">
             <i id="geolocalizationButton" onclick="" class="button fa fa-location-arrow fa-fw"></i>
             <i id="loadingIndicator" class="fa fa-spinner fa-fw fa-spin"></i>
         </div>
         <div class="brand">OxTransit</div>
+    </div>
+    <div id="searchContainer">
+        <div class="top">
+            <div class="search">
+                <input type="text" id="searchInput" placeholder="Type a station name..."/>
+            </div>
+            <div class="exit">
+                <i class="fa fa-times"></i>
+            </div>
+        </div>
+        <div class="message">
+            <p>Search a station by typing its name</p>
+        </div>
+        <ul class="list">
+        </ul>
     </div>
     <div id="mapContainer">
         <div id="map">
