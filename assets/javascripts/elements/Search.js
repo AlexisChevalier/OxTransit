@@ -39,6 +39,7 @@ function Search(rootDomElement, searchOpenButtonElement) {
     this.openSearch = function () {
         $(this.rootDomElement).slideDown("fast");
         $(_this.listElement).html("");
+        _this.input.val("");
         _this.infoMessageElementText.text("Search a station by typing its name");
         _this.input.focus();
     };
@@ -46,6 +47,7 @@ function Search(rootDomElement, searchOpenButtonElement) {
     this.closeSearch = function () {
         $(this.rootDomElement).slideUp("fast");
         $(_this.listElement).html("");
+        _this.input.val("");
         _this.infoMessageElementText.text("Search a station by typing its name");
     };
 
