@@ -21,7 +21,8 @@ function BuildXmlPayload(atcoCode) {
                     $: {
                         "version": "1.3"
                     },
-                    "MonitoringRef": atcoCode
+                    "MonitoringRef": atcoCode,
+                    "MaximumStopVisits": 20
                 }
             }
         }

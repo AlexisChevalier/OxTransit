@@ -113,22 +113,26 @@ function buildList(nextBuses) {
     var html = "";
 
     nextBuses.sort(function (a, b) {
-        return a.arrivalTime - b.arrivalTime;
-    });
-
-    nextBuses.sort(function (a, b) {
         if(a.destination < b.destination) return -1;
         if(a.destination > b.destination) return 1;
+        if(a.arrivalTime < b.arrivalTime) return -1;
+        if(a.arrivalTime > b.arrivalTime) return 1;
         return 0;
     });
+
     var currentDestination = null;
+    var currentDestinationCount = 0;
     for (var i = 0; i < nextBuses.length; i++) {
         if (nextBuses[i].destination !== currentDestination) {
             currentDestination = nextBuses[i].destination;
+            currentDestinationCount = 0;
             html += buildListSeparator(currentDestination);
         }
 
-        html += buildListItem(nextBuses[i]);
+        if (currentDestinationCount <= 2) {
+            html += buildListItem(nextBuses[i]);
+        }
+        currentDestinationCount++;
     }
 
     return html;

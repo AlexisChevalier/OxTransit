@@ -146,7 +146,7 @@ function Map(lat, lng, rootMapDomElement, nextBusesDetailsObject) {
                             });
                         });
 
-                        _this.markerCluster.addMarker(marker);
+                        //_this.markerCluster.addMarker(marker);
                         _this.markers[stations[id].atcoCode] = marker;
                         _this.infoBoxes[stations[id].atcoCode] = infoBox;
                     }(index));
