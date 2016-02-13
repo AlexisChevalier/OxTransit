@@ -9,6 +9,7 @@ function BottomTab(rootDomElement, mapContainerDomElement, mapObject) {
     var _this = this;
 
     this.heightPreferenceLabel = "BOTTOM_TAB_HEIGHT";
+    this.widthPreferenceLabel = "LEFT_TAB_WIDTH";
     this.preferencesService = new PreferencesService();
     this.mapObject = mapObject;
     this.mapContainerDomElement = $(mapContainerDomElement);
@@ -27,16 +28,16 @@ function BottomTab(rootDomElement, mapContainerDomElement, mapObject) {
                 x = (parseFloat(target.getAttribute('data-x')) || 0),
                 y = (parseFloat(target.getAttribute('data-y')) || 0);
 
-            if (event.rect.height < 200 || event.rect.height > 400) {
-                return;
-            }
+                if (event.rect.height < 200 || event.rect.height > 400) {
+                    return;
+                }
 
-            _this.rootDomElement.css("height", event.rect.height + 'px');
-            _this.mapContainerDomElement.css("bottom", event.rect.height + 'px');
+                _this.rootDomElement.css("height", event.rect.height + 'px');
+                _this.mapContainerDomElement.css("bottom", event.rect.height + 'px');
 
-            _this.preferencesService.set(_this.heightPreferenceLabel, event.rect.height);
+                _this.preferencesService.set(_this.heightPreferenceLabel, event.rect.height);
 
-            MessagingService.messaging.publish(MessagingService.actions.MapContainerResized, event.rect.height);
+                MessagingService.messaging.publish(MessagingService.actions.MapContainerResized, event.rect.height);
         });
 
     this.switchToTab = function(tabId) {
