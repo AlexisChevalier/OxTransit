@@ -36,6 +36,7 @@
     "mongoose": "^4.4.3",
     "morgan": "~1.6.1",
     "nconf": "^0.8.2",
+    "newrelic": "^1.25.2",
     "node-sass-middleware": "0.8.0",
     "nunjucks": "^2.3.0",
     "pubsub-js": "^1.5.3",
