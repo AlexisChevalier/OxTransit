@@ -77,8 +77,6 @@ function PerformRequest(atcoCode, callback) {
         headers: {'Content-Type': 'application/xml'}
     };
 
-    console.log(xmlPayload);
-
     request.post(requestOptions, function(err, resp, body) {
         if (err) {
             return callback(err, null);
