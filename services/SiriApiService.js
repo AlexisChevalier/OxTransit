@@ -7,6 +7,7 @@ var parser = new xml2js.Parser();
 var builder = new xml2js.Builder();
 
 function BuildXmlPayload(atcoCode) {
+    var timestamp = new Date();
     var jsonObj = {
         "Siri" : {
             $: {
@@ -17,12 +18,16 @@ function BuildXmlPayload(atcoCode) {
             },
             "ServiceRequest": {
                 "RequestorRef": nconf.get("SIRI_REQUESTOR_REF"),
+                "RequestTimestamp": timestamp.toISOString(),
                 "StopMonitoringRequest": {
                     $: {
                         "version": "1.3"
                     },
+                    "RequestTimestamp": timestamp.toISOString(),
                     "MonitoringRef": atcoCode,
-                    "MaximumStopVisits": 20
+                    "MaximumStopVisits": 20,
+                    "MaximumTextLength": 160,
+                    "PreviewInterval": "PT90M"
                 }
             }
         }
@@ -71,6 +76,8 @@ function PerformRequest(atcoCode, callback) {
         body : xmlPayload,
         headers: {'Content-Type': 'application/xml'}
     };
+
+    console.log(xmlPayload);
 
     request.post(requestOptions, function(err, resp, body) {
         if (err) {
